@@ -1,16 +1,19 @@
 [Event "Live Chess"]
 [Site "Chess.com"]
 [Date "2016.07.03"]
+[Round "-"]
 [White "Sumska_Gajba"]
 [Black "egor_tensin"]
+[Result "0-1"]
 [WhiteElo "1721"]
 [BlackElo "1683"]
 [TimeControl "900+10"]
 [Termination "egor_tensin won by checkmate"]
-[Result "0-1"]
+[Annotator "egor_tensin"]
 [CurrentPosition "5rnk/8/1p1R3p/pP1Pp2Q/P1P2b2/5P1P/7q/7K w - - 2 43"]
 
-{A very tough defense amounting in the eventual victory. Curiously, engines seem to think it wasn't all that bad for Black.}
+{A very tough defense amounting in the eventual victory. Curiously, engines
+seem to think it wasn't all that bad for Black.}
 1.d4 {[%clk 0:15:04]} Nf6 {[%clk 0:15:04]}
 2.c4 {[%clk 0:14:59]} b6 {[%clk 0:15:09]}
 3.Nf3 {[%clk 0:14:19]} Bb7 {[%clk 0:15:16]}
@@ -35,21 +38,26 @@
 22.Nxf5 {[%clk 0:11:45]} Bf8 {[%clk 0:11:32]}
 23.Ra3 {[%clk 0:11:47]} Nf6 {[%clk 0:10:46]}
 24.Rg3 {[%clk 0:11:18]} Kh7 {[%clk 0:10:40]}
-25.Qd2 {[%clk 0:09:47]} Ng8 {[%clk 0:09:25]} {I seriously thought I had no hope of saving such a passive position.}
+25.Qd2 {[%clk 0:09:47]} Ng8 {[%clk 0:09:25]} {I seriously thought I had no hope
+of saving such a passive position.}
 26.Ree3 {[%clk 0:04:48]} g6 {[%clk 0:09:24]}
 27.Nh4 {[%clk 0:04:24]} Qd8 {[%clk 0:09:09]}
-28.Ref3 {[%clk 0:02:20]} Qxh4 {[%clk 0:08:31]} {We both went all-in. Who will prevail?}
+28.Ref3 {[%clk 0:02:20]} Qxh4 {[%clk 0:08:31]} {We both went all-in. Who will
+prevail?}
 29.Rxf7+ {[%clk 0:02:25]} Kh8 {[%clk 0:08:35]}
-30.Rxc7 {[%clk 0:02:07]} {No idea why he didn't took on g6 instead.} Re7 {[%clk 0:07:23]}
+30.Rxc7 {[%clk 0:02:07]} {No idea why he didn't took on g6 instead.}
+30...Re7 {[%clk 0:07:23]}
 31.Rxe7 {[%clk 0:02:02]} Bxe7 {[%clk 0:07:30]}
 32.Rxg6 {[%clk 0:02:10]} Bg5 {[%clk 0:06:53]}
-33.Qd1 {[%clk 0:01:53]} Qxe4 {[%clk 0:05:28]} {And now it's completely over, thanks to the dual threat of Qxg6 and Qb1.}
+33.Qd1 {[%clk 0:01:53]} Qxe4 {[%clk 0:05:28]} {And now it's completely over,
+thanks to the dual threat of Qxg6 and Qb1.}
 34.Rxd6 {[%clk 0:01:39]} Qb1 {[%clk 0:03:20]}
 35.Qh5 {[%clk 0:00:53]} Qxc1+ {[%clk 0:03:18]}
 36.Kh2 {[%clk 0:00:59]} Qf4+ {[%clk 0:02:39]}
 37.Kg1 {[%clk 0:01:01]} {Nice!} Rf8 {[%clk 0:02:14]}
 38.f3 {[%clk 0:01:00]} Qe3+ {[%clk 0:01:22]}
-39.Kh1 {[%clk 0:01:06]} {My oppenent decides to end his misery.} Qe1+ {[%clk 0:01:19]}
+39.Kh1 {[%clk 0:01:06]} {My oppenent decides to end his misery.}
+39...Qe1+ {[%clk 0:01:19]}
 40.Kh2 {[%clk 0:01:13]} Bf4+ {[%clk 0:01:07]}
 41.g3 {[%clk 0:01:20]} Qxg3+ {[%clk 0:01:15]}
 42.Kh1 {[%clk 0:01:27]} Qh2# {[%clk 0:01:24]}

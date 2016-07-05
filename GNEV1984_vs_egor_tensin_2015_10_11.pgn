@@ -1,6 +1,7 @@
 [Event "Live Chess"]
 [Site "Chess.com"]
 [Date "2015.10.11"]
+[Round "-"]
 [White "GNEV1984"]
 [Black "egor_tensin"]
 [Result "0-1"]
@@ -8,6 +9,7 @@
 [BlackElo "1656"]
 [TimeControl "900+10"]
 [Termination "egor_tensin won by checkmate"]
+[Annotator "egor_tensin"]
 
 {Pretty maneuvers by the Queen and a nice queenside attack.}
 1.e4 e5

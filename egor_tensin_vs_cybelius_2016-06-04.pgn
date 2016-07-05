@@ -1,16 +1,19 @@
 [Event "Live Chess"]
 [Site "Chess.com"]
 [Date "2016.06.04"]
+[Round "-"]
 [White "egor_tensin"]
 [Black "cybelius"]
+[Result "1-0"]
 [WhiteElo "1634"]
 [BlackElo "1504"]
 [TimeControl "900+10"]
 [Termination "egor_tensin won by resignation"]
-[Result "1-0"]
+[Annotator "egor_tensin"]
 [CurrentPosition "5R2/4k3/2b3P1/1p1pP3/p2P4/P7/6KP/8 w - - 1 40"]
 
-{A French defense with a nice kingside attack. Not the best moves, but the advantage was never let go.}
+{A French defense with a nice kingside attack. Not the best moves, but the
+advantage was never let go.}
 1.e4 {[%clk 0:15:08]} e6 {[%clk 0:14:53]}
 2.d4 {[%clk 0:15:15]} d5 {[%clk 0:15:01]}
 3.e5 {[%clk 0:15:24]} c5 {[%clk 0:15:00]}

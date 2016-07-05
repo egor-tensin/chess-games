@@ -1,16 +1,19 @@
 [Event "Live Chess"]
 [Site "Chess.com"]
 [Date "2016.06.02"]
+[Round "-"]
 [White "egor_tensin"]
 [Black "nietalex"]
+[Result "1-0"]
 [WhiteElo "1625"]
 [BlackElo "1672"]
 [TimeControl "900+10"]
 [Termination "egor_tensin won by resignation"]
-[Result "1-0"]
+[Annotator "egor_tensin"]
 [CurrentPosition "r3kn2/2p1q3/2b4Q/pp3Pp1/8/PB4BP/1P3RP1/3R2K1 b - - 0 30"]
 
-{A very nice Italian game. Virtually no or very few mistakes were made. The bishop pair reigns supreme.}
+{A very nice Italian game. Virtually no or very few mistakes were made. The
+bishop pair reigns supreme.}
 1.e4 {[%clk 0:15:07]} e5 {[%clk 0:15:02]}
 2.Nf3 {[%clk 0:14:59]} Bc5 {[%clk 0:15:07]}
 3.Bc4 {[%clk 0:15:04]} d6 {[%clk 0:15:12]}

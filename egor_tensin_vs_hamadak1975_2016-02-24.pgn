@@ -1,6 +1,7 @@
 [Event "Live Chess"]
 [Site "Chess.com"]
 [Date "2016.02.24"]
+[Round "-"]
 [White "egor_tensin"]
 [Black "hamadak1975"]
 [Result "1-0"]
@@ -8,9 +9,11 @@
 [BlackElo "1580"]
 [TimeControl "900+10"]
 [Termination "egor_tensin won by resignation"]
+[Annotator "egor_tensin"]
 [CurrentPosition "3r2k1/pQ1R1ppp/7q/4p3/2P5/6P1/PP3PBP/4R1K1 b - - 0 23"]
 
-{A silly game. My opponent blundered a piece, but the finish was nice and very accurate.}
+{A silly game. My opponent blundered a piece, but the finish was nice and very
+accurate.}
 1.c4 {[%clk 0:15:09]} c5 {[%clk 0:15:07]}
 2.Nc3 {[%clk 0:15:14]} Nc6 {[%clk 0:15:11]}
 3.g3 {[%clk 0:15:18]} e6 {[%clk 0:15:14]}

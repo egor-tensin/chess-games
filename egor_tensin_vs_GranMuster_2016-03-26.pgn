@@ -1,13 +1,15 @@
 [Event "Live Chess"]
 [Site "Chess.com"]
 [Date "2016.03.26"]
+[Round "-"]
 [White "egor_tensin"]
 [Black "GranMuster"]
+[Result "1-0"]
 [WhiteElo "1628"]
 [BlackElo "1581"]
 [TimeControl "900+10"]
 [Termination "egor_tensin won by checkmate"]
-[Result "1-0"]
+[Annotator "egor_tensin"]
 [CurrentPosition "Q7/8/k6p/2K4P/8/8/8/3B4 b - - 0 69"]
 
 {A bishop ending I enjoyed.}
@@ -35,29 +37,39 @@
 22.Qf2 {[%clk 0:10:45]} Be6 {[%clk 0:13:51]}
 23.h4 {[%clk 0:08:02]} Qe7 {[%clk 0:13:48]}
 24.Qe2 {[%clk 0:06:34]} Rf8 {[%clk 0:13:07]}
-25.Rf3 {[%clk 0:05:24]} {I am oh-so-much worse. Can't blame me for trying to straighten up my pawns, right?} Bxe5 {[%clk 0:13:05]}
-26.Qxe5 {[%clk 0:05:14]} Rxf3 {[%clk 0:13:07]} {And my opponent helps me out. Not worse anymore!}
+25.Rf3 {[%clk 0:05:24]} {I am oh-so-much worse. Can't blame me for trying to
+straighten up my pawns, right?}
+25...Bxe5 {[%clk 0:13:05]}
+26.Qxe5 {[%clk 0:05:14]} Rxf3 {[%clk 0:13:07]} {And my opponent helps me out.
+Not worse anymore!}
 27.gxf3 {[%clk 0:05:19]} Qf7 {[%clk 0:13:15]}
 28.Kg2 {[%clk 0:05:08]} a6 {[%clk 0:13:14]}
 29.Qg5 {[%clk 0:04:52]} Kg7 {[%clk 0:13:15]}
-30.h5 {[%clk 0:03:57]} h6 {[%clk 0:11:27]} {Blundering into a completely lost bishop ending. Of course, I barely managed to win it.}
+30.h5 {[%clk 0:03:57]} h6 {[%clk 0:11:27]} {Blundering into a completely lost
+bishop ending. Of course, I barely managed to win it.}
 31.Qxg6+ {[%clk 0:03:36]} Qxg6 {[%clk 0:11:32]}
 32.Bxg6 {[%clk 0:03:44]} Kf6 {[%clk 0:11:34]}
 33.b3 {[%clk 0:02:11]} b6 {[%clk 0:10:53]}
-34.Kf2 {[%clk 0:02:18]} {I thought his kingside pawn majority was dangerous, so sent my King to reenforce.} c5 {[%clk 0:11:01]}
+34.Kf2 {[%clk 0:02:18]} {I thought his kingside pawn majority was dangerous, so
+sent my King to reenforce.}
+34...c5 {[%clk 0:11:01]}
 35.Ke3 {[%clk 0:01:54]} c4 {[%clk 0:11:09]}
-36.Kd2 {[%clk 0:01:22]} {Consistently trying to play out the wrong plan.} b5 {[%clk 0:11:11]}
+36.Kd2 {[%clk 0:01:22]} {Consistently trying to play out the wrong plan.}
+36...b5 {[%clk 0:11:11]}
 37.bxc4 {[%clk 0:01:22]} dxc4 {[%clk 0:11:16]}
 38.Kc3 {[%clk 0:01:22]} Kg5 {[%clk 0:11:09]}
-39.Kb4 {[%clk 0:01:07]} {OK, I'm happy, his kingside pawns aren't dangerous anymore.} Bf5 {[%clk 0:11:05]}
+39.Kb4 {[%clk 0:01:07]} {OK, I'm happy, his kingside pawns aren't dangerous
+anymore.}
+39...Bf5 {[%clk 0:11:05]}
 40.Be8 {[%clk 0:00:41]} {Not sure what to do next though.}
-  (40.f4+ {Wins often in this endgame.} 40...Kf6 (40... Kg4 41.Bxf5 {is the same.}) 41.Bxf5 Kxf5 42.d5 Kf6 43.g4 {and so forth.})
+  (40.f4+ {Wins often in this endgame.} Kf6 (40...Kg4 41.Bxf5 {is the same.})
+41.Bxf5 Kxf5 42.d5 Kf6 43.g4 {and so forth.})
 40...Be6 {[%clk 0:11:01]}
 41.a3 {[%clk 0:00:37]} Bd5 {[%clk 0:11:08]}
 42.f4+ {[%clk 0:00:18]} Kg4 {[%clk 0:11:14]}
 43.Bg6 {[%clk 0:00:23]} Be6 {[%clk 0:10:37]}
 44.Kc5 {[%clk 0:00:28]}
-  (44.Be4 {and now if} 44...Kxg3 45.f5 {wins.})
+  (44.Be4 {and now if} Kxg3 45.f5 {wins.})
 44...Bf5 {[%clk 0:10:29]}
 45.Kb4 {[%clk 0:00:17]} {Picturesque, but wrong.}
   (45.Bxf5+ Kxf5 46.Kb4 a5+ 47.Kc3 {is same old, same old.})
@@ -65,11 +77,16 @@
 46.Kc3 {[%clk 0:00:22]} Be6 {[%clk 0:09:37]}
 47.Be8 {[%clk 0:00:14]} {Going for those pawns! Sigh.} Kxg3 {[%clk 0:09:43]}
 48.Bxb5 {[%clk 0:00:17]} {Giving the pawn on f4 up for nothing.}
-  (48.f5 {was much better. And now if} 48...Bxf5 49.Bxb5 Kf4 50.Kxc4 {White's completely winning after something like} 50...Kg5 51.d5 Kf6 52.d6 Ke6 53.Kc5 Be4 54.Be2 Kd7 55.Bg4+ Kd8 56.a4 Ke8 57.Kb6 Kd8 58.Kxa5)
+  (48.f5 {was much better. And now if} Bxf5 49.Bxb5 Kf4 50.Kxc4 {White's
+completely winning after something like} Kg5 51.d5 Kf6 52.d6 Ke6 53.Kc5 Be4
+54.Be2 Kd7 55.Bg4+ Kd8 56.a4 Ke8 57.Kb6 Kd8 58.Kxa5)
 48...Kxf4 {[%clk 0:09:49]}
-49.Bxc4 {[%clk 0:00:24]} Bd7 {[%clk 0:09:38]} {And it's closer to a draw than ever. Might be a dead draw, actually.}
-50.Bf7 {[%clk 0:00:13]} a4 {[%clk 0:09:42]} {The fatal mistake. Now it's over. The tragedy of a single tempo!}
-  (50...Bb5 {was so much more solid. Not sure how to break through, if that's at all possible.})
+49.Bxc4 {[%clk 0:00:24]} Bd7 {[%clk 0:09:38]} {And it's closer to a draw than
+ever. Might be a dead draw, actually.}
+50.Bf7 {[%clk 0:00:13]} a4 {[%clk 0:09:42]} {The fatal mistake. Now it's over.
+The tragedy of a single move!}
+  (50...Bb5 {was so much more solid. Not sure how to break through, if that's
+at all possible.})
 51.Kc4 {[%clk 0:00:17]} Ke4 {[%clk 0:09:42]}
 52.Kc5 {[%clk 0:00:21]} Kf5 {[%clk 0:09:46]}
 53.d5 {[%clk 0:00:25]} Ke5 {[%clk 0:09:48]}
