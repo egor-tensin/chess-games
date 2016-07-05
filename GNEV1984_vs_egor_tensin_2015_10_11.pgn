@@ -1,0 +1,54 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2015.10.11"]
+[White "GNEV1984"]
+[Black "egor_tensin"]
+[Result "0-1"]
+[WhiteElo "1525"]
+[BlackElo "1656"]
+[TimeControl "900+10"]
+[Termination "egor_tensin won by checkmate"]
+
+{Pretty maneuvers by the Queen and a nice queenside attack.}
+1.e4 e5
+2.Nf3 Nf6
+3.d3 Nc6
+4.a3 d6
+5.Nc3 Be6
+6.Bg5 Be7
+7.Be2 O-O
+8.Qd2 d5
+9.O-O-O d4
+10.Bxf6 Bxf6
+11.Nb1 b5
+12.h4 a5
+13.Ng5 Qe7
+14.c3 Bb3
+15.Rdg1 b4
+16.Bd1 Bxd1
+17.Kxd1 Rab8
+18.Ke2 dxc3
+19.bxc3 bxa3
+20.Qc1 Rb2+
+21.Nd2 Rfb8
+22.Qa1 Bxg5
+23.hxg5 Qxg5 {Her Majesty goes all over the place.}
+24.Rd1 a2
+25.g3 Qe7
+26.Ke1 Qc5
+27.Rc1 Rxd2
+28.Kxd2 Qxf2+
+29.Kd1 Rb2
+30.Qxb2 Qxb2 {The rest is easy.}
+31.Rc2 a1=Q+
+32.Kd2 Qxc2+
+33.Kxc2 Qxh1
+34.c4 Qa1
+35.Kd2 a4
+36.Ke3 a3
+37.Kf3 Qd1+
+38.Kg2 a2
+39.d4 a1=Q
+40.dxe5 Qf1+
+41.Kh2 Qh1#
+0-1

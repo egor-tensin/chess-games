@@ -1,0 +1,38 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2015.08.25"]
+[White "egor_tensin"]
+[Black "capablanca1dominican"]
+[Result "1-0"]
+[WhiteElo "1696"]
+[BlackElo "1620"]
+[TimeControl "900+10"]
+[Termination "egor_tensin won by resignation"]
+
+{One of the prettiest games I've played!}
+1.b3 e5
+2.Bb2 Nc6
+3.g3 Bc5
+4.Bg2 d5
+5.d3 Nf6
+6.Nd2 Ng4
+7.e3 O-O
+8.Ngf3 Re8
+9.O-O Bxe3
+10.fxe3 Nxe3
+11.Qe2 Nxf1
+12.Rxf1 f6 {Here I was for some reason absolutely convinced that I was down a piece. So in that somewhat depressed state of mind I went for a desperate attack.}
+13.Nh4 Kh8
+14.Qh5 Be6
+15.Ne4 {Boom! The engine's first line. Want to bring my bishop to e4.} dxe4
+16.Bxe4 f5
+17.Bxf5
+  ({I actually considered taking with the rook (which is a better move) very seriously.} 17.Rxf5 {But I was still convinced that I was down a lot of material, so scared myself away from it.})
+17...Bxf5
+18.Rxf5 Kg8 {gifting me the crucial tempi.}
+  ({I'm not sure what I would've done had he gone} 18...Qd6 {instead.})
+19.Qf7+ Kh8
+20.Rh5 Ne7
+21.Bxe5 Rg8 {allowing the pretty finish.}
+22.Rxh7+
+1-0

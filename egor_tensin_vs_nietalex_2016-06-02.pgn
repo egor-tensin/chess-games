@@ -1,0 +1,44 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2016.06.02"]
+[White "egor_tensin"]
+[Black "nietalex"]
+[WhiteElo "1625"]
+[BlackElo "1672"]
+[TimeControl "900+10"]
+[Termination "egor_tensin won by resignation"]
+[Result "1-0"]
+[CurrentPosition "r3kn2/2p1q3/2b4Q/pp3Pp1/8/PB4BP/1P3RP1/3R2K1 b - - 0 30"]
+
+{A very nice Italian game. Virtually no or very few mistakes were made. The bishop pair reigns supreme.}
+1.e4 {[%clk 0:15:07]} e5 {[%clk 0:15:02]}
+2.Nf3 {[%clk 0:14:59]} Bc5 {[%clk 0:15:07]}
+3.Bc4 {[%clk 0:15:04]} d6 {[%clk 0:15:12]}
+4.O-O {[%clk 0:15:04]} Bg4 {[%clk 0:15:19]}
+5.c3 {[%clk 0:15:01]} Nc6 {[%clk 0:15:26]}
+6.Bb3 {[%clk 0:15:05]} Nf6 {[%clk 0:15:26]}
+7.Bc2 {[%clk 0:15:11]} b5 {[%clk 0:15:25]}
+8.a3 {[%clk 0:15:06]} a5 {[%clk 0:15:32]}
+9.h3 {[%clk 0:14:54]} Bd7 {[%clk 0:15:28]}
+10.d4 {[%clk 0:14:29]} exd4 {[%clk 0:15:35]}
+11.Nxd4 {[%clk 0:14:34]} Bxd4 {[%clk 0:15:11]}
+12.cxd4 {[%clk 0:14:22]} O-O {[%clk 0:15:13]}
+13.Bg5 {[%clk 0:12:29]} h6 {[%clk 0:15:11]}
+14.Bh4 {[%clk 0:12:27]} g5 {[%clk 0:15:18]}
+15.Bg3 {[%clk 0:12:36]} Kg7 {[%clk 0:15:20]} {A huge mistake.}
+16.e5 {[%clk 0:08:53]} {The punishment.} dxe5 {[%clk 0:15:25]}
+17.dxe5 {[%clk 0:09:02]} Nh7 {[%clk 0:15:21]}
+18.Qd3 {[%clk 0:08:57]} Rh8 {[%clk 0:14:23]}
+19.Nc3 {[%clk 0:05:49]} Ne7 {[%clk 0:13:58]}
+20.f4 {[%clk 0:04:38]} Bc6 {[%clk 0:11:42]}
+21.Qe3 {[%clk 0:03:55]} Nd5 {[%clk 0:09:23]}
+22.Nxd5 {[%clk 0:04:03]} Qxd5 {[%clk 0:09:30]}
+23.Rf2 {[%clk 0:03:29]} {The end of Black's threats.} Qd8 {[%clk 0:08:36]}
+24.Rd1 {[%clk 0:02:43]} Qe7 {[%clk 0:08:41]}
+25.f5 {[%clk 0:02:49]} f6 {[%clk 0:08:12]}
+26.exf6+ {[%clk 0:01:13]} Kxf6 {[%clk 0:08:17]}
+27.Qd4+ {[%clk 0:00:50]} Kf7 {[%clk 0:08:19]}
+28.Bb3+ {[%clk 0:00:26]} Ke8 {[%clk 0:08:13]}
+29.Qxh8+ {[%clk 0:00:27]} Nf8 {[%clk 0:08:20]}
+30.Qxh6 {[%clk 0:00:21]} 
+1-0

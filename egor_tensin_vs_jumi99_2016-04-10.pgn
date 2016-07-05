@@ -1,0 +1,35 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2016.04.10"]
+[White "egor_tensin"]
+[Black "jumi99"]
+[WhiteElo "1636"]
+[BlackElo "1618"]
+[TimeControl "900+10"]
+[Termination "egor_tensin won by resignation"]
+[Result "1-0"]
+[CurrentPosition "r4rk1/p2q1pb1/bpn1pP2/3pP1Qp/3P4/5N2/PP3PB1/RN2R1K1 b - - 0 21"]
+
+{A nice King-Side Attack.}
+1.Nf3 {[%clk 0:15:09]} Nf6 {[%clk 0:15:05]}
+2.g3 {[%clk 0:15:18]} g6 {[%clk 0:15:11]}
+3.Bg2 {[%clk 0:15:27]} Bg7 {[%clk 0:15:20]}
+4.O-O {[%clk 0:15:32]} Nc6 {[%clk 0:15:29]}
+5.d3 {[%clk 0:15:38]} O-O {[%clk 0:15:37]}
+6.e4 {[%clk 0:15:47]} d5 {[%clk 0:15:38]}
+7.e5 {[%clk 0:15:53]} Nd7 {[%clk 0:15:46]}
+8.d4 {[%clk 0:16:02]} e6 {[%clk 0:15:44]}
+9.Be3 {[%clk 0:15:35]} Ne7 {[%clk 0:15:52]}
+10.Qd2 {[%clk 0:15:41]} b6 {[%clk 0:16:01]}
+11.Bh6 {[%clk 0:15:25]} c5 {[%clk 0:16:06]}
+12.c3 {[%clk 0:15:30]} cxd4 {[%clk 0:15:48]}
+13.cxd4 {[%clk 0:15:32]} Ba6 {[%clk 0:15:43]}
+14.Re1 {[%clk 0:15:32]} Nb8 {[%clk 0:15:37]}
+15.h4 {[%clk 0:15:30]} Nbc6 {[%clk 0:15:45]}
+16.h5 {[%clk 0:15:27]} Nf5 {[%clk 0:15:48]}
+17.Bg5 {[%clk 0:15:04]} Qd7 {[%clk 0:15:44]}
+18.g4 {[%clk 0:13:38]} h6 {[%clk 0:15:50]}
+19.gxf5 {[%clk 0:13:32]} {Cool and unstoppable. Black's king's side is now completely ruined.} hxg5 {[%clk 0:15:52]}
+20.Qxg5 {[%clk 0:13:31]} gxh5 {[%clk 0:15:53]} {The wrong one.}
+21.f6 {[%clk 0:13:13]} 
+1-0

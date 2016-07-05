@@ -1,0 +1,44 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2016.07.04"]
+[White "wizard72"]
+[Black "egor_tensin"]
+[Result "0-1"]
+[ECO "A00"]
+[WhiteElo "1740"]
+[BlackElo "1701"]
+[TimeControl "900+10"]
+[Termination "egor_tensin won by checkmate"]
+[CurrentPosition "6k1/2p3p1/1p3p2/4p1p1/1bb4P/4BP2/rqNK1QP1/3R3R w - - 0 30"]
+
+{I think this is possibly the best game I ever played.}
+1.e4 {[%clk 0:14:58]} e5 {[%clk 0:15:08]}
+2.Nf3 {[%clk 0:15:05]} Nc6 {[%clk 0:15:16]}
+3.Bc4 {[%clk 0:15:11]} Nf6 {[%clk 0:15:18]}
+4.d3 {[%clk 0:15:13]} d6 {[%clk 0:15:15]}
+5.Ng5 {[%clk 0:15:03]} d5 {[%clk 0:15:11]}
+6.exd5 {[%clk 0:15:10]} Nxd5 {[%clk 0:15:19]} {Trying to get a Fried Liver Attack, possibly the first proper opening I learned.}
+7.Qf3 {[%clk 0:15:03]} f6 {[%clk 0:13:46]}
+8.Bxd5 {[%clk 0:14:40]} Nd4 {[%clk 0:13:26]}
+9.Bf7+ {[%clk 0:13:33]} Ke7 {[%clk 0:13:18]}
+10.Qd1 {[%clk 0:12:39]} h6 {[%clk 0:11:50]}
+11.c3 {[%clk 0:12:43]} Nc6 {[%clk 0:11:18]}
+12.Qh5 {[%clk 0:12:02]} hxg5 {[%clk 0:09:53]} {Giving up the exchange, because what else can I do?}
+13.Qxh8 {[%clk 0:12:06]} Kxf7 {[%clk 0:09:59]}
+14.Qh5+ {[%clk 0:11:57]} Kg8 {[%clk 0:09:59]} {Engines seem to think this position is level. Wat.}
+15.Qe2 {[%clk 0:10:53]} Bf5 {[%clk 0:09:50]}
+16.Be3 {[%clk 0:10:19]} Bxd3 {[%clk 0:09:39]}
+17.Qd2 {[%clk 0:10:24]} Qd6 {[%clk 0:08:55]}
+18.b4 {[%clk 0:10:21]} b6 {[%clk 0:09:03]}
+19.Na3 {[%clk 0:10:02]} Rd8 {[%clk 0:05:56]}
+20.O-O-O {[%clk 0:09:50]} a5 {[%clk 0:04:57]}
+21.Nc2 {[%clk 0:09:29]} axb4 {[%clk 0:04:24]}
+22.cxb4 {[%clk 0:09:22]} Qd5 {[%clk 0:02:22]} {The Queen should have gone here in the first place.}
+23.a3 {[%clk 0:08:52]} Qb3 {[%clk 0:02:15]}
+24.h4 {[%clk 0:08:15]} Bc4 {[%clk 0:00:28]} {Oh, the massacre!}
+25.Qe1 {[%clk 0:07:00]} Nxb4 {[%clk 0:00:31]}
+26.axb4 {[%clk 0:06:38]} Ra8 {[%clk 0:00:15]}
+27.f3 {[%clk 0:05:22]} Ra2 {[%clk 0:00:22]}
+28.Qf2 {[%clk 0:04:47]} Qb2+ {[%clk 0:00:25]}
+29.Kd2 {[%clk 0:04:42]} Bxb4# {[%clk 0:00:30]} 
+0-1
