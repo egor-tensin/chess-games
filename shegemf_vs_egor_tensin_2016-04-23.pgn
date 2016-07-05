@@ -13,36 +13,35 @@
 [CurrentPosition "r4k2/1pp2p1p/1n3q2/pP1p4/P4NR1/3P1K2/2P5/b7 w - - 0 32"]
 
 {A bloodbath arising from the Sololsky.}
-1.b4 {[%clk 0:15:07]} e5 {[%clk 0:15:04]}
-2.b5 {[%clk 0:15:13]} d5 {[%clk 0:15:08]}
-3.Bb2 {[%clk 0:15:12]} Nd7 {[%clk 0:14:44]}
-4.e3 {[%clk 0:15:12]} Ngf6 {[%clk 0:14:49]}
-5.Be2 {[%clk 0:14:48]} Bc5 {[%clk 0:14:51]}
-6.Nf3 {[%clk 0:14:53]} e4 {[%clk 0:14:56]}
-7.Nh4 {[%clk 0:14:20]} O-O {[%clk 0:14:59]}
-8.g3 {[%clk 0:14:21]} Nb6 {[%clk 0:14:42]}
-9.O-O {[%clk 0:14:22]} Qd7 {[%clk 0:14:08]}
-10.Ng2 {[%clk 0:13:52]} Ng4 {[%clk 0:13:19]}
-11.a4 {[%clk 0:13:40]} Nh6 {[%clk 0:13:17]}
-12.d3 {[%clk 0:13:07]} a5 {[%clk 0:12:35]}
-13.Nd2 {[%clk 0:11:03]} Re8 {[%clk 0:12:13]}
-14.Nf4 {[%clk 0:10:24]} Bd6 {[%clk 0:12:04]}
-15.Nh5 {[%clk 0:10:19]} Qh3 {[%clk 0:11:53]}
-16.Nxg7 {[%clk 0:10:09]} Bg4 {[%clk 0:10:33]} {No fucks given.}
-17.f3 {[%clk 0:09:07]} exf3 {[%clk 0:09:52]}
-18.Bxf3 {[%clk 0:09:08]} Rxe3 {[%clk 0:09:59]}
-19.Bxg4 {[%clk 0:07:31]} Nxg4 {[%clk 0:09:55]} {White's days are numbered.}
-20.Rf2 {[%clk 0:07:43]} Bxg3 {[%clk 0:06:15]} {Boom!}
-21.Rg2 {[%clk 0:07:06]} Bxh2+ {[%clk 0:04:02]}
-22.Kf1 {[%clk 0:07:07]} Bg3 {[%clk 0:02:48]}
-23.Nf3 {[%clk 0:07:07]} {Took me a while to realize it's just a free piece.}
-23...Rxf3+ {[%clk 0:02:10]}
-24.Qxf3 {[%clk 0:06:48]} Nh2+ {[%clk 0:02:19]}
-25.Ke2 {[%clk 0:07:00]} Nxf3 {[%clk 0:01:40]}
-26.Kxf3 {[%clk 0:07:06]} Be5+ {[%clk 0:01:29]}
-27.Kf2 {[%clk 0:05:57]} Bxb2 {[%clk 0:01:29]} {The rest is silly.}
-28.Nh5+ {[%clk 0:04:19]} Kf8 {[%clk 0:01:14]}
-29.Nf4 {[%clk 0:04:18]} Qh4+ {[%clk 0:01:06]}
-30.Kf3 {[%clk 0:04:19]} Bxa1 {[%clk 0:01:08]}
-31.Rg4 {[%clk 0:04:24]} Qf6 {[%clk 0:01:06]}
+1.b4 e5
+2.b5 d5
+3.Bb2 Nd7
+4.e3 Ngf6
+5.Be2 Bc5
+6.Nf3 e4
+7.Nh4 O-O
+8.g3 Nb6
+9.O-O Qd7
+10.Ng2 Ng4
+11.a4 Nh6
+12.d3 a5
+13.Nd2 Re8
+14.Nf4 Bd6
+15.Nh5 Qh3
+16.Nxg7 Bg4 {No fucks given.}
+17.f3 exf3
+18.Bxf3 Rxe3
+19.Bxg4 Nxg4 {White's days are numbered.}
+20.Rf2 Bxg3 {Boom!}
+21.Rg2 Bxh2+
+22.Kf1 Bg3
+23.Nf3 {Took me a while to realize it's just a free piece.} Rxf3+
+24.Qxf3 Nh2+
+25.Ke2 Nxf3
+26.Kxf3 Be5+
+27.Kf2 Bxb2 {The rest is silly.}
+28.Nh5+ Kf8
+29.Nf4 Qh4+
+30.Kf3 Bxa1
+31.Rg4 Qf6
 0-1

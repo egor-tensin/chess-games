@@ -13,97 +13,90 @@
 [CurrentPosition "Q7/8/k6p/2K4P/8/8/8/3B4 b - - 0 69"]
 
 {A bishop ending I enjoyed.}
-1.c4 {[%clk 0:15:08]} Nf6 {[%clk 0:15:03]}
-2.d4 {[%clk 0:15:17]} d5 {[%clk 0:15:08]}
-3.Nc3 {[%clk 0:15:19]} g6 {[%clk 0:15:15]}
-4.cxd5 {[%clk 0:15:25]} Nxd5 {[%clk 0:15:22]}
-5.e4 {[%clk 0:15:34]} Nf6 {[%clk 0:15:29]}
-6.e5 {[%clk 0:15:40]} Nd5 {[%clk 0:15:37]}
-7.Nf3 {[%clk 0:15:43]} Bg7 {[%clk 0:15:44]}
-8.Bc4 {[%clk 0:15:49]} e6 {[%clk 0:15:46]}
-9.Qb3 {[%clk 0:15:52]} c6 {[%clk 0:15:52]}
-10.O-O {[%clk 0:15:55]} O-O {[%clk 0:15:58]}
-11.Nxd5 {[%clk 0:13:55]} exd5 {[%clk 0:15:43]}
-12.Bd3 {[%clk 0:14:01]} Nd7 {[%clk 0:15:37]}
-13.Bg5 {[%clk 0:13:53]} f6 {[%clk 0:15:40]}
-14.exf6 {[%clk 0:13:57]} Bxf6 {[%clk 0:15:40]}
-15.Bf4 {[%clk 0:13:27]} Bg7 {[%clk 0:14:49]}
-16.Bg3 {[%clk 0:12:52]} Nf6 {[%clk 0:14:49]}
-17.Ne5 {[%clk 0:11:37]} Nh5 {[%clk 0:14:30]}
-18.Rae1 {[%clk 0:10:56]} Nxg3 {[%clk 0:14:03]}
-19.fxg3 {[%clk 0:10:55]} Rxf1+ {[%clk 0:14:07]}
-20.Rxf1 {[%clk 0:11:04]} Rb8 {[%clk 0:14:08]}
-21.Qc2 {[%clk 0:11:03]} Qg5 {[%clk 0:14:04]}
-22.Qf2 {[%clk 0:10:45]} Be6 {[%clk 0:13:51]}
-23.h4 {[%clk 0:08:02]} Qe7 {[%clk 0:13:48]}
-24.Qe2 {[%clk 0:06:34]} Rf8 {[%clk 0:13:07]}
-25.Rf3 {[%clk 0:05:24]} {I am oh-so-much worse. Can't blame me for trying to
-straighten up my pawns, right?}
-25...Bxe5 {[%clk 0:13:05]}
-26.Qxe5 {[%clk 0:05:14]} Rxf3 {[%clk 0:13:07]} {And my opponent helps me out.
-Not worse anymore!}
-27.gxf3 {[%clk 0:05:19]} Qf7 {[%clk 0:13:15]}
-28.Kg2 {[%clk 0:05:08]} a6 {[%clk 0:13:14]}
-29.Qg5 {[%clk 0:04:52]} Kg7 {[%clk 0:13:15]}
-30.h5 {[%clk 0:03:57]} h6 {[%clk 0:11:27]} {Blundering into a completely lost
-bishop ending. Of course, I barely managed to win it.}
-31.Qxg6+ {[%clk 0:03:36]} Qxg6 {[%clk 0:11:32]}
-32.Bxg6 {[%clk 0:03:44]} Kf6 {[%clk 0:11:34]}
-33.b3 {[%clk 0:02:11]} b6 {[%clk 0:10:53]}
-34.Kf2 {[%clk 0:02:18]} {I thought his kingside pawn majority was dangerous, so
-sent my King to reenforce.}
-34...c5 {[%clk 0:11:01]}
-35.Ke3 {[%clk 0:01:54]} c4 {[%clk 0:11:09]}
-36.Kd2 {[%clk 0:01:22]} {Consistently trying to play out the wrong plan.}
-36...b5 {[%clk 0:11:11]}
-37.bxc4 {[%clk 0:01:22]} dxc4 {[%clk 0:11:16]}
-38.Kc3 {[%clk 0:01:22]} Kg5 {[%clk 0:11:09]}
-39.Kb4 {[%clk 0:01:07]} {OK, I'm happy, his kingside pawns aren't dangerous
-anymore.}
-39...Bf5 {[%clk 0:11:05]}
-40.Be8 {[%clk 0:00:41]} {Not sure what to do next though.}
+1.c4 Nf6
+2.d4 d5
+3.Nc3 g6
+4.cxd5 Nxd5
+5.e4 Nf6
+6.e5 Nd5
+7.Nf3 Bg7
+8.Bc4 e6
+9.Qb3 c6
+10.O-O O-O
+11.Nxd5 exd5
+12.Bd3 Nd7
+13.Bg5 f6
+14.exf6 Bxf6
+15.Bf4 Bg7
+16.Bg3 Nf6
+17.Ne5 Nh5
+18.Rae1 Nxg3
+19.fxg3 Rxf1+
+20.Rxf1 Rb8
+21.Qc2 Qg5
+22.Qf2 Be6
+23.h4 Qe7
+24.Qe2 Rf8
+25.Rf3 {I am oh-so-much worse. Can't blame me for trying to straighten up my
+pawns, right?} Bxe5
+26.Qxe5 Rxf3 {And my opponent helps me out. Not worse anymore!}
+27.gxf3 Qf7
+28.Kg2 a6
+29.Qg5 Kg7
+30.h5 h6 {Blundering into a completely lost bishop ending. Of course, I barely
+managed to win it.}
+31.Qxg6+ Qxg6
+32.Bxg6 Kf6
+33.b3 b6
+34.Kf2 {I thought his kingside pawn majority was dangerous, so sent my King to
+reenforce.} c5
+35.Ke3 c4
+36.Kd2 {Consistently trying to play out the wrong plan.} b5
+37.bxc4 dxc4
+38.Kc3 Kg5
+39.Kb4 {OK, I'm happy, his kingside pawns aren't dangerous anymore.} Bf5
+40.Be8 {Not sure what to do next though.}
   (40.f4+ {Wins often in this endgame.} Kf6 (40...Kg4 41.Bxf5 {is the same.})
 41.Bxf5 Kxf5 42.d5 Kf6 43.g4 {and so forth.})
-40...Be6 {[%clk 0:11:01]}
-41.a3 {[%clk 0:00:37]} Bd5 {[%clk 0:11:08]}
-42.f4+ {[%clk 0:00:18]} Kg4 {[%clk 0:11:14]}
-43.Bg6 {[%clk 0:00:23]} Be6 {[%clk 0:10:37]}
-44.Kc5 {[%clk 0:00:28]}
+40...Be6
+41.a3 Bd5
+42.f4+ Kg4
+43.Bg6 Be6
+44.Kc5
   (44.Be4 {and now if} Kxg3 45.f5 {wins.})
-44...Bf5 {[%clk 0:10:29]}
-45.Kb4 {[%clk 0:00:17]} {Picturesque, but wrong.}
+44...Bf5
+45.Kb4 {Picturesque, but wrong.}
   (45.Bxf5+ Kxf5 46.Kb4 a5+ 47.Kc3 {is same old, same old.})
-45...a5+ {[%clk 0:10:18]}
-46.Kc3 {[%clk 0:00:22]} Be6 {[%clk 0:09:37]}
-47.Be8 {[%clk 0:00:14]} {Going for those pawns! Sigh.} Kxg3 {[%clk 0:09:43]}
-48.Bxb5 {[%clk 0:00:17]} {Giving the pawn on f4 up for nothing.}
+45...a5+
+46.Kc3 Be6
+47.Be8 {Going for those pawns! Sigh.} Kxg3
+48.Bxb5 {Giving the pawn on f4 up for nothing.}
   (48.f5 {was much better. And now if} Bxf5 49.Bxb5 Kf4 50.Kxc4 {White's
 completely winning after something like} Kg5 51.d5 Kf6 52.d6 Ke6 53.Kc5 Be4
 54.Be2 Kd7 55.Bg4+ Kd8 56.a4 Ke8 57.Kb6 Kd8 58.Kxa5)
-48...Kxf4 {[%clk 0:09:49]}
-49.Bxc4 {[%clk 0:00:24]} Bd7 {[%clk 0:09:38]} {And it's closer to a draw than
-ever. Might be a dead draw, actually.}
-50.Bf7 {[%clk 0:00:13]} a4 {[%clk 0:09:42]} {The fatal mistake. Now it's over.
-The tragedy of a single move!}
+48...Kxf4
+49.Bxc4 Bd7 {And it's closer to a draw than ever. Might be a dead draw,
+actually.}
+50.Bf7 a4 {The fatal mistake. Now it's over. The tragedy of a single move!}
   (50...Bb5 {was so much more solid. Not sure how to break through, if that's
 at all possible.})
-51.Kc4 {[%clk 0:00:17]} Ke4 {[%clk 0:09:42]}
-52.Kc5 {[%clk 0:00:21]} Kf5 {[%clk 0:09:46]}
-53.d5 {[%clk 0:00:25]} Ke5 {[%clk 0:09:48]}
-54.d6 {[%clk 0:00:18]} Kf6 {[%clk 0:09:38]}
-55.Bg6 {[%clk 0:00:21]} Ke5 {[%clk 0:09:44]}
-56.Bc2 {[%clk 0:00:14]} Kf6 {[%clk 0:09:47]}
-57.Kb6 {[%clk 0:00:15]} Ke5 {[%clk 0:09:54]}
-58.Kc7 {[%clk 0:00:22]} Be8 {[%clk 0:09:46]}
-59.d7 {[%clk 0:00:20]} Bxd7 {[%clk 0:09:53]}
-60.Kxd7 {[%clk 0:00:28]} Kf4 {[%clk 0:10:01]}
-61.Bxa4 {[%clk 0:00:34]} Kg5 {[%clk 0:10:09]}
-62.Bd1 {[%clk 0:00:42]} Kf4 {[%clk 0:10:16]}
-63.a4 {[%clk 0:00:50]} Ke5 {[%clk 0:10:24]}
-64.Kc6 {[%clk 0:00:58]} Kd4 {[%clk 0:10:32]}
-65.a5 {[%clk 0:01:08]} Kc4 {[%clk 0:10:39]}
-66.a6 {[%clk 0:01:16]} Kb4 {[%clk 0:10:48]}
-67.a7 {[%clk 0:01:25]} Ka5 {[%clk 0:10:56]}
-68.Kc5 {[%clk 0:01:09]} Ka6 {[%clk 0:10:56]}
-69.a8=Q# {[%clk 0:01:17]}
+51.Kc4 Ke4
+52.Kc5 Kf5
+53.d5 Ke5
+54.d6 Kf6
+55.Bg6 Ke5
+56.Bc2 Kf6
+57.Kb6 Ke5
+58.Kc7 Be8
+59.d7 Bxd7
+60.Kxd7 Kf4
+61.Bxa4 Kg5
+62.Bd1 Kf4
+63.a4 Ke5
+64.Kc6 Kd4
+65.a5 Kc4
+66.a6 Kb4
+67.a7 Ka5
+68.Kc5 Ka6
+69.a8=Q#
 1-0
