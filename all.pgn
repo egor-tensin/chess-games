@@ -1,0 +1,635 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2014.12.18"]
+[Round "-"]
+[White "egor_tensin"]
+[Black "dragosniculescu"]
+[Result "1/2-1/2"]
+[WhiteElo "1542"]
+[BlackElo "1478"]
+[TimeControl "900+10"]
+[Termination "Game drawn by repetition"]
+[Annotator "egor_tensin"]
+
+{A silly game. The guy was talking trash way more than he needed. I blundered a
+piece, but out of frustration played on just for the sake of it.}
+1.Nf3 Nf6
+2.c4 c5
+3.b3 Nc6
+4.Bb2 e6
+5.g3 b6
+6.Bg2 Bb7
+7.O-O Be7
+8.d3 O-O
+9.Nbd2 Qc7
+10.a3 d5
+11.Re1 Rfe8
+12.Qc2 Rad8
+13.e3 Bf8
+14.d4 Be7
+15.dxc5 bxc5
+16.Bc3 a5
+17.Qb2 Rb8
+18.Ne5 Nxe5
+19.Bxe5 Bd6
+20.Bxf6 gxf6
+21.Qxf6 Qe7
+22.Qh6 Qf8
+23.Qxf8+ Bxf8
+24.cxd5 exd5
+25.Red1 Bg7
+26.Rab1 Bc3
+27.Nf3 Red8
+28.Rd3 d4
+29.exd4 cxd4 {My position is very bad}
+30.Nd2 {but there was no need to blunder a piece!} Ba6
+31.Bf1 {Decided to give up the rook instead.} Bxd3
+32.Bxd3 Bxd2
+33.Kf1 Bc3
+34.a4 Rd6
+35.f3 Rdb6
+36.Bc2 d3
+37.Bxd3 Rxb3
+38.Rxb3 Rxb3
+39.Be4 Ra3
+40.Bc6 Bb4
+41.h4 h5
+42.Kg2 Kg7
+43.Bd7 Ra2+
+44.Kh3 {I would've resigned against anybody else a long time ago.} Kg6
+45.Be8 Be1
+46.Bb5 Ra3
+47.Bc6 Rc3
+48.Bd5 Rd3 {Oh, that felt so good!}
+49.Be4+ {You should've seen the chat.} Kf6
+50.Bxd3 {I was so happy that I couldn't even focus on the game, thus giving him
+an easy draw. Or was it an easy draw anyway?} Kg7
+51.g4 hxg4+
+52.fxg4 f6
+53.g5 fxg5
+54.hxg5 Bd2
+55.Kg4 Be3
+56.Kf5 Bd2
+57.Bc4 Be3
+58.Bd5 Bd2
+59.Bb3 Be3
+60.Bc2 Bd2
+61.Bd3 Be3
+62.Kg4 Bd2
+63.g6 Be3
+64.Kf3 Bd2
+65.Ke4 Bb4
+66.Kd4 Bd2
+67.Kc4 Bb4
+68.Kb5 Bd2
+69.Kc4 Bb4
+70.Kb5 Bd2
+71.Kc4 Bb4
+1/2-1/2
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2015.08.25"]
+[Round "-"]
+[White "egor_tensin"]
+[Black "capablanca1dominican"]
+[Result "1-0"]
+[WhiteElo "1696"]
+[BlackElo "1620"]
+[TimeControl "900+10"]
+[Termination "egor_tensin won by resignation"]
+[Annotator "egor_tensin"]
+
+{One of the prettiest games I've played!}
+1.b3 e5
+2.Bb2 Nc6
+3.g3 Bc5
+4.Bg2 d5
+5.d3 Nf6
+6.Nd2 Ng4
+7.e3 O-O
+8.Ngf3 Re8
+9.O-O Bxe3
+10.fxe3 Nxe3
+11.Qe2 Nxf1
+12.Rxf1 f6 {Here I was for some reason absolutely convinced that I was down a
+piece. So in that somewhat depressed state of mind I went for a desperate
+attack.}
+13.Nh4 Kh8
+14.Qh5 Be6
+15.Ne4 {Boom! The engine's first line. Want to bring my bishop to e4.} dxe4
+16.Bxe4 f5
+17.Bxf5
+  ({I actually considered taking with the rook (which is a better move) very
+seriously.} 17.Rxf5 {But I was still convinced that I was down a lot of
+material, so scared myself away from it.})
+17...Bxf5
+18.Rxf5 Kg8 {gifting me the crucial tempi.}
+  ({I'm not sure what I would've done had he gone} 18...Qd6 {instead.})
+19.Qf7+ Kh8
+20.Rh5 Ne7
+21.Bxe5 Rg8 {allowing the pretty finish.}
+22.Rxh7+
+1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2015.10.11"]
+[Round "-"]
+[White "GNEV1984"]
+[Black "egor_tensin"]
+[Result "0-1"]
+[WhiteElo "1525"]
+[BlackElo "1656"]
+[TimeControl "900+10"]
+[Termination "egor_tensin won by checkmate"]
+[Annotator "egor_tensin"]
+
+{Pretty maneuvers by the Queen and a nice queenside attack.}
+1.e4 e5
+2.Nf3 Nf6
+3.d3 Nc6
+4.a3 d6
+5.Nc3 Be6
+6.Bg5 Be7
+7.Be2 O-O
+8.Qd2 d5
+9.O-O-O d4
+10.Bxf6 Bxf6
+11.Nb1 b5
+12.h4 a5
+13.Ng5 Qe7
+14.c3 Bb3
+15.Rdg1 b4
+16.Bd1 Bxd1
+17.Kxd1 Rab8
+18.Ke2 dxc3
+19.bxc3 bxa3
+20.Qc1 Rb2+
+21.Nd2 Rfb8
+22.Qa1 Bxg5
+23.hxg5 Qxg5 {Her Majesty goes all over the place.}
+24.Rd1 a2
+25.g3 Qe7
+26.Ke1 Qc5
+27.Rc1 Rxd2
+28.Kxd2 Qxf2+
+29.Kd1 Rb2
+30.Qxb2 Qxb2 {The rest is easy.}
+31.Rc2 a1=Q+
+32.Kd2 Qxc2+
+33.Kxc2 Qxh1
+34.c4 Qa1
+35.Kd2 a4
+36.Ke3 a3
+37.Kf3 Qd1+
+38.Kg2 a2
+39.d4 a1=Q
+40.dxe5 Qf1+
+41.Kh2 Qh1#
+0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2016.02.24"]
+[Round "-"]
+[White "egor_tensin"]
+[Black "hamadak1975"]
+[Result "1-0"]
+[WhiteElo "1574"]
+[BlackElo "1580"]
+[TimeControl "900+10"]
+[Termination "egor_tensin won by resignation"]
+[Annotator "egor_tensin"]
+[CurrentPosition "3r2k1/pQ1R1ppp/7q/4p3/2P5/6P1/PP3PBP/4R1K1 b - - 0 23"]
+
+{A silly game. My opponent blundered a piece, but the finish was nice and very
+accurate.}
+1.c4 c5
+2.Nc3 Nc6
+3.g3 e6
+4.Bg2 Nd4
+5.e3 Nf5
+6.d4 Nge7
+7.Nf3 Nc6
+8.O-O cxd4
+9.exd4 Nfxd4 {A piece down.}
+10.Nxd4 Ne5
+11.Qe2 Bd6
+12.Ncb5 {Black's better watch out.} Bb8
+13.Bf4 Qf6
+14.Rfe1 d6
+15.Nxd6+ {I bet he didn't expect that.} Bxd6
+16.Bxe5 Bxe5
+17.Qxe5 Qh6
+18.Qb5+ Bd7
+19.Qxb7 Rd8
+20.Nc6 O-O
+21.Nxd8 Rxd8
+22.Rad1 e5
+23.Rxd7
+1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2016.03.26"]
+[Round "-"]
+[White "egor_tensin"]
+[Black "GranMuster"]
+[Result "1-0"]
+[WhiteElo "1628"]
+[BlackElo "1581"]
+[TimeControl "900+10"]
+[Termination "egor_tensin won by checkmate"]
+[Annotator "egor_tensin"]
+[CurrentPosition "Q7/8/k6p/2K4P/8/8/8/3B4 b - - 0 69"]
+
+{A bishop ending I enjoyed.}
+1.c4 Nf6
+2.d4 d5
+3.Nc3 g6
+4.cxd5 Nxd5
+5.e4 Nf6
+6.e5 Nd5
+7.Nf3 Bg7
+8.Bc4 e6
+9.Qb3 c6
+10.O-O O-O
+11.Nxd5 exd5
+12.Bd3 Nd7
+13.Bg5 f6
+14.exf6 Bxf6
+15.Bf4 Bg7
+16.Bg3 Nf6
+17.Ne5 Nh5
+18.Rae1 Nxg3
+19.fxg3 Rxf1+
+20.Rxf1 Rb8
+21.Qc2 Qg5
+22.Qf2 Be6
+23.h4 Qe7
+24.Qe2 Rf8
+25.Rf3 {I am oh-so-much worse. Can't blame me for trying to straighten up my
+pawns, right?} Bxe5
+26.Qxe5 Rxf3 {And my opponent helps me out. Not worse anymore!}
+27.gxf3 Qf7
+28.Kg2 a6
+29.Qg5 Kg7
+30.h5 h6 {Blundering into a completely lost bishop ending. Of course, I barely
+managed to win it.}
+31.Qxg6+ Qxg6
+32.Bxg6 Kf6
+33.b3 b6
+34.Kf2 {I thought his kingside pawn majority was dangerous, so sent my King to
+reenforce.} c5
+35.Ke3 c4
+36.Kd2 {Consistently trying to play out the wrong plan.} b5
+37.bxc4 dxc4
+38.Kc3 Kg5
+39.Kb4 {OK, I'm happy, his kingside pawns aren't dangerous anymore.} Bf5
+40.Be8 {Not sure what to do next though.}
+  (40.f4+ {Wins often in this endgame.} Kf6 (40...Kg4 41.Bxf5 {is the same.})
+41.Bxf5 Kxf5 42.d5 Kf6 43.g4 {and so forth.})
+40...Be6
+41.a3 Bd5
+42.f4+ Kg4
+43.Bg6 Be6
+44.Kc5
+  (44.Be4 {and now if} Kxg3 45.f5 {wins.})
+44...Bf5
+45.Kb4 {Picturesque, but wrong.}
+  (45.Bxf5+ Kxf5 46.Kb4 a5+ 47.Kc3 {is same old, same old.})
+45...a5+
+46.Kc3 Be6
+47.Be8 {Going for those pawns! Sigh.} Kxg3
+48.Bxb5 {Giving the pawn on f4 up for nothing.}
+  (48.f5 {was much better. And now if} Bxf5 49.Bxb5 Kf4 50.Kxc4 {White's
+completely winning after something like} Kg5 51.d5 Kf6 52.d6 Ke6 53.Kc5 Be4
+54.Be2 Kd7 55.Bg4+ Kd8 56.a4 Ke8 57.Kb6 Kd8 58.Kxa5)
+48...Kxf4
+49.Bxc4 Bd7 {And it's closer to a draw than ever. Might be a dead draw,
+actually.}
+50.Bf7 a4 {The fatal mistake. Now it's over. The tragedy of a single move!}
+  (50...Bb5 {was so much more solid. Not sure how to break through, if that's
+at all possible.})
+51.Kc4 Ke4
+52.Kc5 Kf5
+53.d5 Ke5
+54.d6 Kf6
+55.Bg6 Ke5
+56.Bc2 Kf6
+57.Kb6 Ke5
+58.Kc7 Be8
+59.d7 Bxd7
+60.Kxd7 Kf4
+61.Bxa4 Kg5
+62.Bd1 Kf4
+63.a4 Ke5
+64.Kc6 Kd4
+65.a5 Kc4
+66.a6 Kb4
+67.a7 Ka5
+68.Kc5 Ka6
+69.a8=Q#
+1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2016.04.10"]
+[Round "-"]
+[White "egor_tensin"]
+[Black "jumi99"]
+[Result "1-0"]
+[WhiteElo "1636"]
+[BlackElo "1618"]
+[TimeControl "900+10"]
+[Termination "egor_tensin won by resignation"]
+[Annotator "egor_tensin"]
+[CurrentPosition "r4rk1/p2q1pb1/bpn1pP2/3pP1Qp/3P4/5N2/PP3PB1/RN2R1K1 b - - 0 21"]
+
+{A quick King-Side Attack.}
+1.Nf3 Nf6
+2.g3 g6
+3.Bg2 Bg7
+4.O-O Nc6
+5.d3 O-O
+6.e4 d5
+7.e5 Nd7
+8.d4 e6
+9.Be3 Ne7
+10.Qd2 b6
+11.Bh6 c5
+12.c3 cxd4
+13.cxd4 Ba6
+14.Re1 Nb8
+15.h4 Nbc6
+16.h5 Nf5
+17.Bg5 Qd7
+18.g4 h6
+19.gxf5 {Nice. Black's king's side is now completely ruined.} hxg5
+20.Qxg5 gxh5 {The wrong one.}
+21.f6
+1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2016.04.23"]
+[Round "-"]
+[White "shegemf"]
+[Black "egor_tensin"]
+[Result "0-1"]
+[WhiteElo "1645"]
+[BlackElo "1631"]
+[TimeControl "900+10"]
+[Termination "egor_tensin won by resignation"]
+[Annotator "egor_tensin"]
+[CurrentPosition "r4k2/1pp2p1p/1n3q2/pP1p4/P4NR1/3P1K2/2P5/b7 w - - 0 32"]
+
+{A bloodbath arising from the Sololsky.}
+1.b4 e5
+2.b5 d5
+3.Bb2 Nd7
+4.e3 Ngf6
+5.Be2 Bc5
+6.Nf3 e4
+7.Nh4 O-O
+8.g3 Nb6
+9.O-O Qd7
+10.Ng2 Ng4
+11.a4 Nh6
+12.d3 a5
+13.Nd2 Re8
+14.Nf4 Bd6
+15.Nh5 Qh3
+16.Nxg7 Bg4 {No fucks given.}
+17.f3 exf3
+18.Bxf3 Rxe3
+19.Bxg4 Nxg4 {White's days are numbered.}
+20.Rf2 Bxg3 {Boom!}
+21.Rg2 Bxh2+
+22.Kf1 Bg3
+23.Nf3 {Took me a while to realize it's just a free piece.} Rxf3+
+24.Qxf3 Nh2+
+25.Ke2 Nxf3
+26.Kxf3 Be5+
+27.Kf2 Bxb2 {The rest is silly.}
+28.Nh5+ Kf8
+29.Nf4 Qh4+
+30.Kf3 Bxa1
+31.Rg4 Qf6
+0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2016.06.02"]
+[Round "-"]
+[White "egor_tensin"]
+[Black "nietalex"]
+[Result "1-0"]
+[WhiteElo "1625"]
+[BlackElo "1672"]
+[TimeControl "900+10"]
+[Termination "egor_tensin won by resignation"]
+[Annotator "egor_tensin"]
+[CurrentPosition "r3kn2/2p1q3/2b4Q/pp3Pp1/8/PB4BP/1P3RP1/3R2K1 b - - 0 30"]
+
+{A very nice Italian game. Virtually no or very few mistakes were made. The
+bishop pair reigns supreme.}
+1.e4 e5
+2.Nf3 Bc5
+3.Bc4 d6
+4.O-O Bg4
+5.c3 Nc6
+6.Bb3 Nf6
+7.Bc2 b5
+8.a3 a5
+9.h3 Bd7
+10.d4 exd4
+11.Nxd4 Bxd4
+12.cxd4 O-O
+13.Bg5 h6
+14.Bh4 g5
+15.Bg3 Kg7 {A huge mistake.}
+16.e5 {The punishment.} dxe5
+17.dxe5 Nh7
+18.Qd3 Rh8
+19.Nc3 Ne7
+20.f4 Bc6
+21.Qe3 Nd5
+22.Nxd5 Qxd5
+23.Rf2 {The end of Black's threats.} Qd8
+24.Rd1 Qe7
+25.f5 f6
+26.exf6+ Kxf6
+27.Qd4+ Kf7
+28.Bb3+ Ke8
+29.Qxh8+ Nf8
+30.Qxh6
+1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2016.06.04"]
+[Round "-"]
+[White "egor_tensin"]
+[Black "cybelius"]
+[Result "1-0"]
+[WhiteElo "1634"]
+[BlackElo "1504"]
+[TimeControl "900+10"]
+[Termination "egor_tensin won by resignation"]
+[Annotator "egor_tensin"]
+[CurrentPosition "5R2/4k3/2b3P1/1p1pP3/p2P4/P7/6KP/8 w - - 1 40"]
+
+{A French defense with a nice kingside attack. Not the best moves, but the
+advantage was never let go.}
+1.e4 e6
+2.d4 d5
+3.e5 c5
+4.c3 Nc6
+5.f4 Qb6
+6.Nf3 cxd4
+7.cxd4 Nh6
+8.Nc3 Nf5
+9.Bb5 Bd7
+10.Bxc6 Bxc6
+11.O-O Bb4
+12.a3 Bxc3
+13.bxc3 a5
+14.Bd2 a4
+15.Rb1 Qa6
+16.Rb4 b5
+17.Qe2 Ke7
+18.g4 Nh6
+19.Ng5 Ng8
+20.f5 {The fun starts.} h6
+21.fxe6 hxg5
+22.exf7 Nh6
+23.Bxg5+ Ke6
+24.Qf3 Raf8
+25.Bxh6 Rxh6
+26.Qf5+ Ke7
+27.Qg5+ Kd7
+28.Qxg7 Rhh8
+29.g5 {Suboptimal, but pretty.} Qc8
+30.Rb2 {Quite precise, actually.} Qd8
+31.Rg2 Rh3
+32.g6 Rxc3
+33.Qh7 Rh8
+34.Qxh8 Qxh8
+35.f8=Q Qxf8
+36.Rxf8 Rc1+
+37.Kf2 Rc2+
+38.Kg3 Rxg2+
+39.Kxg2 Ke7
+1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2016.07.03"]
+[Round "-"]
+[White "Sumska_Gajba"]
+[Black "egor_tensin"]
+[Result "0-1"]
+[WhiteElo "1721"]
+[BlackElo "1683"]
+[TimeControl "900+10"]
+[Termination "egor_tensin won by checkmate"]
+[Annotator "egor_tensin"]
+[CurrentPosition "5rnk/8/1p1R3p/pP1Pp2Q/P1P2b2/5P1P/7q/7K w - - 2 43"]
+
+{A very tough defense amounting in the eventual victory. Curiously, engines
+seem to think it wasn't all that bad for Black.}
+1.d4 Nf6
+2.c4 b6
+3.Nf3 Bb7
+4.e3 e6
+5.Nc3 Be7
+6.Bd3 O-O
+7.O-O h6
+8.e4 d6
+9.Re1 Re8
+10.a3 Bf8
+11.b4 a5
+12.b5 e5
+13.d5 Nbd7
+14.Ne2 Nc5
+15.Ng3 Nxd3
+16.Qxd3 Bc8
+17.h3 Nh7
+18.a4 Bd7
+19.Qe2 Qc8
+20.Nh4 Be7
+21.Nhf5 Bxf5
+22.Nxf5 Bf8
+23.Ra3 Nf6
+24.Rg3 Kh7
+25.Qd2 Ng8 {I seriously thought I had no hope of saving such a passive
+position.}
+26.Ree3 g6
+27.Nh4 Qd8
+28.Ref3 Qxh4 {We both went all-in. Who will prevail?}
+29.Rxf7+ Kh8
+30.Rxc7 {No idea why he didn't took on g6 instead.} Re7
+31.Rxe7 Bxe7
+32.Rxg6 Bg5
+33.Qd1 Qxe4 {And now it's completely over, thanks to the dual threat of Qxg6
+and Qb1.}
+34.Rxd6 Qb1
+35.Qh5 Qxc1+
+36.Kh2 Qf4+
+37.Kg1 {Nice!} Rf8
+38.f3 Qe3+
+39.Kh1 {My oppenent decides to end his misery.} Qe1+
+40.Kh2 Bf4+
+41.g3 Qxg3+
+42.Kh1 Qh2#
+0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2016.07.04"]
+[Round "-"]
+[White "wizard72"]
+[Black "egor_tensin"]
+[Result "0-1"]
+[ECO "A00"]
+[WhiteElo "1740"]
+[BlackElo "1701"]
+[TimeControl "900+10"]
+[Termination "egor_tensin won by checkmate"]
+[Annotator "egor_tensin"]
+[CurrentPosition "6k1/2p3p1/1p3p2/4p1p1/1bb4P/4BP2/rqNK1QP1/3R3R w - - 0 30"]
+
+{I think this is possibly the best game I ever played.}
+1.e4 e5
+2.Nf3 Nc6
+3.Bc4 Nf6
+4.d3 d6
+5.Ng5 d5
+6.exd5 Nxd5 {Trying to get a Fried Liver Attack, possibly the first proper
+opening I learned.}
+7.Qf3 f6
+8.Bxd5 Nd4
+9.Bf7+ Ke7
+10.Qd1 h6
+11.c3 Nc6
+12.Qh5 hxg5 {Giving up the exchange, because what else can I do?}
+13.Qxh8 Kxf7
+14.Qh5+ Kg8 {Engines seem to think this position is level. Wat.}
+15.Qe2 Bf5
+16.Be3 Bxd3
+17.Qd2 Qd6
+18.b4 b6
+19.Na3 Rd8
+20.O-O-O a5
+21.Nc2 axb4
+22.cxb4 Qd5 {The Queen should have gone here in the first place.}
+23.a3 Qb3
+24.h4 Bc4 {Oh, the massacre!}
+25.Qe1 Nxb4
+26.axb4 Ra8
+27.f3 Ra2
+28.Qf2 Qb2+
+29.Kd2 Bxb4#
+0-1
