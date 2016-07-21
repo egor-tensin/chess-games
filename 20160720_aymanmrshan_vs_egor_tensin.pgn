@@ -1,0 +1,84 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2016.07.20"]
+[Round "-"]
+[White "aymanmrshan"]
+[Black "egor_tensin"]
+[Result "0-1"]
+[WhiteElo "1515"]
+[BlackElo "1709"]
+[TimeControl "900+10"]
+[Termination "egor_tensin won by resignation"]
+[Annotator "egor_tensin"]
+[CurrentPosition "8/1p3p2/p1p2P2/P1P5/1q1PK3/5P2/8/6k1 w - - 0 50"]
+
+{A completely lost pawn endgame I was lucky to win.}
+1.e4 e5
+2.Nf3 Nf6
+3.Nxe5 d6
+4.Nf3 Nxe4
+5.Qe2 {The most boring line ever.} Qe7
+6.d3 Nf6
+7.Bg5 Qxe2+
+8.Bxe2 Be7
+9.Nbd2 Be6
+10.h3 O-O
+11.Ne4 Nxe4
+12.Bxe7 Re8
+13.Bh4 Nf6
+14.Bxf6 gxf6
+15.O-O-O Nc6
+  (15...Bxa2 {Hanging pieces drop.})
+16.Rde1 Nb4
+17.a3 Nd5
+18.Nd4 Nf4
+19.Bf3 Bd5
+20.Bxd5 Nxd5
+21.c4 Nf4
+22.Kd2 {I am clearly worse: both my opponent's king and pawn structure are
+better.} a6
+23.h4 Kf8
+24.g3 Ne6
+25.Nf5 Ng7
+26.Nxg7 Kxg7
+27.Rxe8 Rxe8
+28.Re1 Re6
+29.Re3 h5
+30.d4 c6
+31.b4 d5
+32.c5 Kg6 {Trying to activate my king. Sadly, I'm completely lost after this
+move.}
+33.Ke2 Kf5
+34.Kf3 Re4 {According to my engine, one of the most accurate moves. The engine
+also evaluates this position as being completely crushing for White. But I had
+an idea!}
+35.Rxe4 dxe4+
+36.Ke3 Kg4
+37.Kxe4 f5+ {The great idea is I want to queen my h-pawn. I am oh-so-completely
+lost.}
+38.Ke3 f4+
+39.gxf4 Kxh4
+40.Kf3 Kh3 {Now I have to crawl along the 'h' file. Fortunately, this plan is
+hard to stop. Unfortunately, I am still completely lost.}
+41.f5 {Insane and completely pointless.}
+  (41.a4 {would've been completely over. Now if I continue along with} Kh2 {I
+am completely lost after something like} 42.d5
+    (42.b5 {also wins, but it's much more complicated.} h4 43.bxc6 bxc6 44.d5
+h3 45.dxc6
+      (45.d6 {is the same, except I have my c6 pawn at the end.} Kg1 46.d7 h2
+47.d8=Q h1=Q+ {and it's a draw.})
+    45...Kg1 46.c7 h2 47.c8=Q h1=Q+)
+  42...cxd5 43.b5 h4 44.c6 ({or} 44.bxa6) {and my opponent's gonna queen way
+before I can make anything happen. My h-pawn is too slow and my d-pawn is
+easily stopped by White's king.})
+41...h4
+42.f6 {In the same crazy spirit. It's like me plying White! Amazing, but now
+it's Black who's winning. The rest is silly really.} Kh2
+43.a4 h3
+44.a5 Kg1
+45.Kg3 h2
+46.f3 h1=Q
+47.Kg4 Qg2+
+48.Kf4 Qd2+
+49.Ke4 Qxb4
+0-1
