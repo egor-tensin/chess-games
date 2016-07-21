@@ -717,3 +717,68 @@ it's Black who's winning. The rest is silly really.} Kh2
 48.Kf4 Qd2+
 49.Ke4 Qxb4
 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2016.07.21"]
+[Round "-"]
+[White "egor_tensin"]
+[Black "bennisimoh"]
+[Result "1-0"]
+[WhiteElo "1719"]
+[BlackElo "1759"]
+[TimeControl "900+10"]
+[Termination "egor_tensin won by resignation"]
+[Annotator "egor_tensin"]
+[CurrentPosition "1r1q4/1p3Q2/p1pkR3/P7/1P1P1Pp1/8/2P2P1P/6K1 b - - 11 36"]
+
+{I was so happy to win a game against a 1800-rated player (my opponent was
+rated at 1809 when the game started) only to realized after the game it was
+only his 12th game, and the first loss he had suffered. He lost like 50 rating
+points after that. But still!}
+1.Nf3 d5
+2.d4 Nc6
+3.g3 Nf6
+4.Bg2 Bf5
+5.O-O e6
+6.Nc3 Bb4
+7.Nh4 Bg6
+8.Nxg6 hxg6
+9.a3 Ba5
+10.b4 Bb6
+11.e3 a6
+12.Rb1 Ne7
+13.a4 c6
+14.a5 Bc7
+15.Na4 Nf5
+16.Qd3 Nd6
+17.Re1 Rb8
+18.e4 {I was trying to get my bishop on c1 to breathe. A bit premature.}
+  (18.Nc5 {was better, preparing the idea.})
+18...dxe4
+19.Bxe4 Nfxe4
+20.Rxe4 Nxe4 {I didn't sacrifice the exchange concisely... I was just trying to
+break in the center. Anyway, I'm simply down an exchange now.}
+21.Qxe4 Rh5
+22.Rb3 {Trying to get my rook active.} Qd6 {allowing two extra tempi and
+preventing the queens from being exchanged.}
+  (22...Qd5 {Not sure what I would've done had he chosen to try to exchange the
+queens.})
+23.Bf4 Qd7
+24.Nc5 Qd8 {A big mistake.}
+25.Nxe6 {I was proud to immediately see this. His pieces are so bad though, it
+doesn't feel like an achievement.} fxe6
+26.Qxg6+ Kf8
+27.Qxh5 Bxf4
+28.Rf3 e5
+29.Qxe5 g5
+30.gxf4 g4
+31.Qf5+ {And now irrespective of where his king goes, I'm either winning the
+pawn on g4 with check or deliver a deadly check with Re3+.} Ke7
+32.Re3+ Kd6
+33.Qe5+ Kd7
+34.Qe6+ Kc7
+35.Qf7+ Kd6
+36.Re6+
+  ({The game could've ended after} 36.Re6+ Kd5 37.Qf5+ Kc4 38.Qc5#)
+1-0
