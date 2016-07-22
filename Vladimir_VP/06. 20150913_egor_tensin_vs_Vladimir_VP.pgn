@@ -1,0 +1,69 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2015.09.13"]
+[Round "-"]
+[White "egor_tensin"]
+[Black "Vladimir_VP"]
+[Result "1-0"]
+[WhiteElo "1657"]
+[BlackElo "1592"]
+[TimeControl "900+10"]
+[Termination "egor_tensin won by resignation"]
+[Annotator "egor_tensin"]
+[CurrentPosition "6k1/1P6/5p1P/8/3p1K2/3B4/8/8 b - - 0 52"]
+
+{I remember the struggle to win the bishop ending, but nothing much apart from
+that. Pretty accurate play, actually.}
+1.c4 e5
+2.g3 Nf6
+3.Bg2 Bc5
+4.Nc3 O-O
+5.e3 d6
+6.d4 exd4
+7.exd4 Re8+
+8.Be3 Bb4
+9.Qb3 Bxc3+
+10.Qxc3 Nc6
+11.Nf3 Rb8 {What? Ridiculous.}
+12.O-O h6
+13.d5 Ne5
+14.Bxa7 {And the pawn on a7 drops, of course.} Ra8
+15.Nxe5 Rxe5
+16.Bd4 Re8
+17.Bxf6 Qxf6
+18.Qxf6 gxf6
+19.a3 Bf5
+20.Rfe1 Bd3
+21.Bf1 Bc2
+22.Rac1 Bb3
+23.Rxe8+ Rxe8
+24.Rc3 Ba4
+25.b3 Bd7
+26.Re3 Rxe3
+27.fxe3 {I thought I must be winning, although it was by no means easy.} Bf5
+28.Kf2 Bc2
+29.b4 Kf8
+30.Kf3 Ke7
+31.e4 f5
+32.exf5 Bxf5
+33.Ke3 Kd7
+34.Bd3 Bg4
+35.Kf4 Bd1
+36.Kf5 Ke7
+37.g4 Bb3
+38.g5 hxg5
+39.Kxg5 {My h-pawn allows me to win easily.} b5
+40.cxb5 Bxd5
+41.a4 f6+
+42.Kf4 c5
+43.bxc6 Bxc6
+44.a5 d5
+45.h4 Ke6
+46.h5 Kf7
+47.h6 d4
+48.b5 Bd5
+49.a6 Kg8
+50.b6 Bc6
+51.b7 Bxb7
+52.axb7
+1-0

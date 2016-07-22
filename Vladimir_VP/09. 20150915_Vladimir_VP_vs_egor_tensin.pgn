@@ -1,0 +1,31 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2015.09.15"]
+[Round "-"]
+[White "Vladimir_VP"]
+[Black "egor_tensin"]
+[Result "0-1"]
+[WhiteElo "1564"]
+[BlackElo "1659"]
+[TimeControl "900+10"]
+[Termination "egor_tensin won by resignation"]
+[Annotator "egor_tensin"]
+[CurrentPosition "r3r1k1/p1pq1pp1/2ppb2p/4P3/N3P3/1PQ2N1P/P1P1nPP1/R4RK1 w - - 1 16"]
+
+{Nothing much to say about this game.}
+1.e4 e5
+2.Nf3 Nf6
+3.Nc3 Nc6
+4.Bb5 Bb4
+5.Bxc6 bxc6
+6.d3 d6
+7.Bd2 O-O
+8.h3 h6
+9.O-O Re8
+10.Na4 Bxd2
+11.Qxd2 Be6
+12.b3 Nh5
+13.Qc3 Qd7
+14.d4 Nf4 {I am a great deal better, of course.}
+15.dxe5 {Shit happens.} Ne2+
+0-1

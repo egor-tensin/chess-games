@@ -1,0 +1,42 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2015.09.23"]
+[Round "-"]
+[White "Vladimir_VP"]
+[Black "egor_tensin"]
+[Result "1-0"]
+[ECO "A00"]
+[WhiteElo "1771"]
+[BlackElo "1636"]
+[TimeControl "900+10"]
+[Termination "Vladimir_VP won by resignation"]
+[Annotator "egor_tensin"]
+[CurrentPosition "1q2rbk1/2pr1ppb/Q1Rp3p/1p1P4/4PB2/1R1B1P2/PP4PP/6K1 b - - 0 25"]
+
+{I was completely and very quickly outplayed in this one.}
+1.e4 e5
+2.Nf3 Nf6
+3.d3 Nc6
+4.Be2 Be7
+5.c4 O-O
+6.O-O d6
+7.Nc3 Be6
+8.Be3 a6
+9.d4 exd4
+10.Nxd4 Nxd4
+11.Qxd4 Re8
+12.Bf4 Bf8
+13.Rad1 Qd7
+14.Rfe1 Rad8
+15.Nd5 Nxd5
+16.cxd5 Bg4
+17.f3 Bh5
+18.Rc1 h6
+19.Qa7 Qc8
+20.Bd3 Bg6
+21.Rc3 Rd7
+22.Rec1 Bh7
+23.Rb3 b5
+24.Rc6 Qb8
+25.Qxa6
+1-0

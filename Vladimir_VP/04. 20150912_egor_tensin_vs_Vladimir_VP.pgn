@@ -1,0 +1,63 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2015.09.12"]
+[Round "-"]
+[White "egor_tensin"]
+[Black "Vladimir_VP"]
+[Result "1-0"]
+[WhiteElo "1648"]
+[BlackElo "1587"]
+[TimeControl "900+10"]
+[Termination "egor_tensin won by resignation"]
+[Annotator "egor_tensin"]
+[CurrentPosition "8/2k5/1p1p2P1/pKpP1p2/P4P1B/8/8/8 b - - 0 46"]
+
+{The first win against Vladimir!}
+1.c4 e5
+2.g3 Nf6
+3.Bg2 Bc5
+4.e3 O-O
+5.d4 exd4
+6.exd4 Bb4+
+7.Nc3 Re8+
+8.Ne2 Bxc3+
+9.bxc3 d6
+10.O-O Nc6
+11.Bf4 Bg4
+12.f3 Bf5
+13.g4 Bg6
+14.Bg3 Rb8
+15.Nf4 Na5
+16.Nxg6 hxg6
+17.Qa4 b6
+18.Rfe1 Qd7
+19.Qb5 Qxb5
+20.cxb5 Nc4
+21.Bf4 {The bishops dominate the knights! Or do they?} Na3
+22.Rxe8+ Rxe8
+23.Bf1 Nd5
+24.Bd2 Ne3
+25.Kf2 Nxf1
+26.Kxf1 {Clearly worse again.} Nxb5 {trapping his own knight. Wat.}
+27.a4 Nxd4 {No idea why he didn't take on c3 instead.}
+  (27...Nxc3 Bxc3 28.Re3 Bd2 29.Rxf3+ {I would've lost this.})
+28.cxd4 a5
+29.Re1 Rxe1+
+30.Kxe1 Kf8
+31.Ke2 Ke8
+32.Kd3 Kd7
+33.Kc4 f5
+34.d5 c5
+35.g5 Kc7
+36.f4 Kb7
+37.Kb5 Kc7
+38.Bc3 Kb7
+39.h4 Kc7
+40.Bxg7 Kb7
+41.Bf6 Kc7
+42.Bc3 Kb7
+43.Bf6 Kc7
+44.h5 gxh5
+45.g6 h4
+46.Bxh4
+1-0

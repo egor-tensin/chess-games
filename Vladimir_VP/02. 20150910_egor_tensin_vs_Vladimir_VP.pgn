@@ -1,0 +1,72 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2015.09.10"]
+[Round "-"]
+[White "egor_tensin"]
+[Black "Vladimir_VP"]
+[Result "1/2-1/2"]
+[WhiteElo "1650"]
+[BlackElo "1585"]
+[TimeControl "900+10"]
+[Termination "Game drawn by agreement"]
+[Annotator "egor_tensin"]
+[CurrentPosition "8/p7/1p3k2/1Pp3p1/2PpBn1r/P2P1PK1/R7/8 b - - 8 46"]
+
+{The second game on the first day we "met". The first half a point I salvaged
+from him.}
+1.b3 e5
+2.Bb2 Nc6
+3.g3 d6
+4.Bg2 Bd7
+5.d3 Nf6
+6.Nd2 d5
+7.Ngf3 Bd6
+8.O-O O-O
+9.Re1 Re8
+10.c4 d4
+11.a3 Rb8
+12.b4 {The same silly stuff I keep on playing. My position is actually good
+though.} b6
+13.Nh4 g5
+14.Nhf3 h6
+15.e3 dxe3
+16.Rxe3 Bg4
+17.h3 Bxf3
+18.Qxf3
+  (18.Nxf3 {was much better, putting pressure on d5 and defending against
+Nd4.})
+18...Nd4
+19.Qd1 c5
+20.b5 Nh7
+21.Bxd4 exd4
+22.Rxe8+ Qxe8
+23.Ne4 {I for some reason thought I was a bit worse in this position, so tried
+to exchange as many pieces as possible.} Qe6
+24.Nxd6
+  (24.Qa4 {was much better, grabbing the pawn on a7.})
+24...Qxd6
+25.Bd5 Kg7
+26.Qh5 Qg6
+27.Qxg6+ Kxg6
+28.Re1 Kf6
+29.Kg2 Nf8
+30.g4 Ng6
+31.Kg3 Nf4
+32.Be4 Re8
+33.Ra1 Ne2+ {I'm completely outplayed.}
+34.Kf3 Nf4
+35.Rh1 Kg7
+36.h4 f6
+37.hxg5 fxg5
+38.Ra1 Kf6
+39.Ra2 Rh8
+40.Kg3 h5
+41.gxh5 Rxh5
+42.f3 {A blunder in an equal position. It's hard for me to see why it's a
+blunder though.} Rh3+
+43.Kg4 Rh4+
+44.Kg3 Rh3+
+45.Kg4 Rh4+ {My opponent couldn't see anything better and offered a draw.}
+  (45...Rh1 46.Kg3 Rg1+ 47.Kh2 Rd1 {would've been winning for Black.})
+46.Kg3
+1/2-1/2

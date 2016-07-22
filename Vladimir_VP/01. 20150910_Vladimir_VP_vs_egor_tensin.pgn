@@ -1,0 +1,47 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2015.09.10"]
+[Round "-"]
+[White "Vladimir_VP"]
+[Black "egor_tensin"]
+[Result "1-0"]
+[WhiteElo "1580"]
+[BlackElo "1652"]
+[TimeControl "900+10"]
+[Termination "Vladimir_VP won by resignation"]
+[Annotator "egor_tensin"]
+[CurrentPosition "1nb3k1/6pp/2p3q1/3p4/1p3Q2/1B1P2N1/1PP3PP/2B3K1 b - - 3 23"]
+
+{The first time I played vs. by far the most frequent opponent of mine,
+Vladimir_VP. We played 23 games, the score being +9-9=5. His account was later
+suspended for "Fair Play" violations. Not sure what was this all about, but
+I suspect he was accused of cheating. He did gain a few hundred rating points
+in a very short time span, but I did beat him and made a few draws. It was very
+nice actually: we arranged games, and sort of became buddies over the Internet.
+He was very polite, and a better chess player. I miss those times, and a few of
+the games were really interesting, so I'm annotating a few to commemorate. The
+first game ended after a silly blunder by me.}
+1.e4 e5
+2.Nf3 Nf6
+3.Bc4 Nxe4
+4.d3 Nf6
+5.Nxe5 d5
+6.Bb5+ c6
+7.Ba4 Bd6
+8.f4 O-O
+9.O-O {My position is actually very decent, if not better.} Ng4 {Idiotic.}
+10.Nxg4 b5
+11.Bb3 Bb7
+12.Nc3 a5
+13.a3 b4
+14.axb4 axb4
+15.Rxa8 Bxa8
+16.Ne2 Bb7
+17.Ng3 Bc8
+18.Ne5 Bxe5
+19.fxe5 f6
+20.exf6 Rxf6
+21.Rxf6 Qxf6
+22.Qf3 Qg6
+23.Qf4
+1-0

@@ -1,0 +1,36 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2015.09.27"]
+[Round "-"]
+[White "egor_tensin"]
+[Black "Vladimir_VP"]
+[Result "0-1"]
+[WhiteElo "1604"]
+[BlackElo "1825"]
+[TimeControl "900+10"]
+[Termination "Vladimir_VP won by resignation"]
+[Annotator "egor_tensin"]
+[CurrentPosition "2k1r3/ppp4p/2p2p2/8/1n2P3/3P1PP1/PPP2K1P/R7 w - - 1 21"]
+
+1.Nf3 e5
+2.Nxe5 Nc6
+3.Nxc6 dxc6
+4.g3 Nf6
+5.Bg2 Be7
+6.O-O Be6
+7.d3 Qd7
+8.Nd2 O-O-O
+9.Nf3 Bh3
+10.Ne5 Qe6
+11.Nxf7 {Nice! And I'm two pawns up.} Bxg2
+12.Nxd8 {Argh, stupid!} Qh3 {Completely missed that, obviously.}
+13.f3 Bxf1
+14.Qxf1 Qxf1+
+15.Kxf1 Rxd8
+16.Be3 Nd5
+17.Bd4 Bf6
+18.Bxf6 gxf6
+19.Kf2 Re8
+20.e4 {Maybe I should've continued, but I remember being completely demoralized
+at this point.} Nb4
+0-1

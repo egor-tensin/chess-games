@@ -1,0 +1,101 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2015.09.15"]
+[Round "-"]
+[White "egor_tensin"]
+[Black "Vladimir_VP"]
+[Result "1/2-1/2"]
+[WhiteElo "1653"]
+[BlackElo "1571"]
+[TimeControl "900+10"]
+[Termination "Game drawn by repetition"]
+[Annotator "egor_tensin"]
+[CurrentPosition "1K2k3/1P3pp1/8/8/8/8/2r4p/3R4 b - - 20 69"]
+
+{A very messy game. I was completely and utterly lost, but played on for the
+sake of it and convinced my opponent to accept a draw offer. By far the
+trickiest rook endgame I've played.}
+1.e4 e5
+2.Nf3 d6
+3.Bc4 h6
+4.O-O Nc6
+5.a3 Bg4
+6.c3 Qf6
+7.d4 Bxf3
+8.gxf3 exd4
+9.Bb5 dxc3
+10.Bxc6+ bxc6
+11.Nxc3 Ne7
+12.Re1 Ng6
+13.Qa4 Ne7
+14.Nd5 Qg6+
+15.Kh1 Kd7
+16.Bf4 Qh5
+17.Bxd6 Qxf3+
+18.Kg1 Qg4+
+19.Kh1
+  ({Who knows why I haven't played} 19.Bg3 {instead.})
+19...Nxd5
+20.Bg3 Qf3+
+21.Kg1 Nf4
+22.Rad1+ {Now my position is completely ruined.}
+  (22.Qd1+ Qxd1 23.Rexd1 Nd5 24.b4 Bd6 25.exd5 c5 26.bxc5 Bxc5 27.Rdc1 Bd6 {and
+I'm only a pawn down.})
+22...Bd6
+23.Bxf4 Qxf4
+24.Qd4 Qxh2+
+25.Kf1 Qh3+
+26.Ke2 Qg4+
+27.Kd2 Qf4+
+28.Kc2 Ke7
+29.Qa4 Qxf2+
+30.Kb1 Rhd8
+31.Qxc6 Qc5
+32.Qa4 Rab8
+33.b4 Qb6
+34.e5 Bxe5 {My opponent got scared, probably.}
+  (34...Bc5)
+35.Rxe5+ Kf8
+36.Qb3 Qg6+
+37.Ka2 Rxd1
+38.Qxd1 Qf6
+39.Qd5 Rd8
+40.Qe4 Qd6
+41.Kb3 Qd3+
+42.Ka4 Qxe4
+43.Rxe4 Rd6
+44.Ka5 h5
+45.Rc4 Ke8
+46.Rxc7 h4
+47.Rxa7 h3
+48.Rc7 h2
+49.Rc1 Rd2
+50.b5 Rg2
+51.Rh1 Kd8
+52.Ka6 Ra2
+53.b6 Rxa3+
+54.Kb7 Ra2
+55.Rd1+ Ke8
+56.Kc7 Rc2+
+57.Kb8 Rg2
+58.Rh1 Kd8 {And it's a draw! Unbelievable!!! Chess is so cruel.}
+  (58...Kd7 {would've won. The difference is that now I don't have the access
+to the c6 square. For example,} 59.b7 g5 {(the only winning move!} 60.Ka7 Ra2+
+61.Kb6 Rb2+ {and I have to return to a7.} 62.Ka7 {and now anything wins for
+Black, because he's just in time to play g4 and g3.})
+59.b7 {The only drawing move!} Ra2
+60.Rd1+ Ke8
+61.Rc1 Rg2
+62.Rh1 Kd8
+  (62...Kd7 {Now this doesn't work.} 63.Rd1+ Ke6 64.Kc8 Rc2+ 65.Kd8 Rb2 66.Kc7
+g5 67.Rh1 {and his rook is overloaded.})
+63.Rd1+ Ke8
+64.Kc7 Rc2+
+65.Kb8 {messing it up.} Rg2 {returning the favour.}
+  (65...g5 66.Re1+ Kd7 67.Rd1+ Ke6 {and so forth.})
+66.Kc7 Rc2+
+67.Kb8 {allowing the same line.} Rg2
+68.Kc7 Rc2+
+69.Kb8
+  (69.Kb8 g5 {would've won again, but it seems like neither of us saw it.})
+1/2-1/2

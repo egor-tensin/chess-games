@@ -1,0 +1,86 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2015.09.28"]
+[Round "-"]
+[White "Vladimir_VP"]
+[Black "egor_tensin"]
+[Result "1/2-1/2"]
+[WhiteElo "1821"]
+[BlackElo "1615"]
+[TimeControl "900+10"]
+[Termination "Game drawn by insufficient material"]
+[Annotator "egor_tensin"]
+[CurrentPosition "8/8/8/2K2k2/5b2/8/8/8 b - - 0 69"]
+
+{The last game we played. Accurate play, and a bishop vs. knight ending with an
+extra pawn I didn't convert.}
+1.e4 e5
+2.Nf3 Nf6
+3.Nxe5 d6
+4.Nf3 Nxe4
+5.d4 d5
+6.Bd3 Nc6
+7.O-O Be7
+8.c4 Nf6
+9.Nc3 O-O
+10.cxd5 Nxd5
+11.Nxd5 Qxd5
+12.Qc2 Qh5
+13.Be4 Bd6
+14.Re1 Bg4
+15.Bxc6 bxc6
+16.Ne5 Bf5
+17.Qxc6 f6
+18.Qd5+ Kh8
+19.Qf3 Qxf3
+20.Nxf3 Rfb8
+21.b3 a5
+22.Bb2 a4
+23.d5 axb3
+24.axb3 Rxa1
+25.Rxa1 Be4
+26.Ba3 Ra8
+27.Re1 Rxa3
+28.Rxe4 Kg8
+29.b4 Bxb4
+30.Kf1 Bd6
+31.Rd4 Kf7
+32.Ke2 Ra5
+33.g3 g5
+34.g4 Kg6
+35.h4 Ra2+
+36.Kf1 Bc5
+37.Rd2 Ra1+
+38.Kg2 gxh4
+39.Rc2 Ra5
+40.Kh3 Bd6
+41.Nxh4+ Kg5
+42.Rc4 Ra3+
+43.f3 Rd3
+44.Ra4 h5
+45.gxh5 Kxh5
+46.Rc4 Rxd5
+47.Ng2 Rf5
+48.f4 Rc5
+49.Rxc5+ Bxc5
+50.Ne1 Ba3
+51.Kg3 Kg6
+52.Nc2 Bc5
+53.Kg4 f5+
+54.Kf3 Kf6
+55.Ke2 Ke6
+56.Kd2 Kd5
+57.Kd3 c6
+58.Ne1 Bf2
+59.Nf3 c5
+60.Ne5 Bg3
+61.Ng6 Ke6
+62.Nf8+ Ke7
+63.Ng6+ Kf7
+64.Ne5+ Ke6
+65.Ng6 Bh2
+66.Kc4 Kf6
+67.Nh4 Bxf4
+68.Nxf5 Kxf5
+69.Kxc5
+1/2-1/2

@@ -1,0 +1,43 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2015.09.20"]
+[Round "-"]
+[White "egor_tensin"]
+[Black "Vladimir_VP"]
+[Result "0-1"]
+[WhiteElo "1652"]
+[BlackElo "1648"]
+[TimeControl "900+10"]
+[Termination "Vladimir_VP won by checkmate"]
+[Annotator "egor_tensin"]
+[CurrentPosition "2rr2k1/pp1bbppp/8/4P3/4P3/1P1pB1P1/P1q3BP/R2QR1K1 b - - 1 19"]
+
+{Just a completely one-sided crush.}
+1.Nf3 d5
+2.g3 c5
+3.Bg2 Nc6
+4.O-O e5
+5.d3 Nf6
+6.Nbd2 Be7
+7.e4 dxe4
+8.Nxe4 Nxe4
+9.dxe4 O-O
+10.Be3 Qb6
+11.b3 Rd8
+12.Qe2 Nd4
+13.Nxd4 cxd4
+14.Bd2 Bd7
+15.Rfe1 Rac8
+16.Qd1 Qc7
+17.f4 Qxc2
+18.fxe5 d3
+19.Be3 Qxd1
+20.Rexd1 Bg4
+21.Rdc1 Rxc1+
+22.Rxc1 d2
+23.Bxd2 Rxd2
+24.Rc7 Bd8
+25.Rxb7 Bb6+
+26.Kh1 Rd1+
+27.Bf1 Bf3#
+0-1

@@ -1,0 +1,36 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2015.09.18"]
+[Round "-"]
+[White "egor_tensin"]
+[Black "Vladimir_VP"]
+[Result "0-1"]
+[WhiteElo "1645"]
+[BlackElo "1610"]
+[TimeControl "900+10"]
+[Termination "Vladimir_VP won on time"]
+[Annotator "egor_tensin"]
+[CurrentPosition "6k1/pp3ppp/4b3/4p3/4P3/P1P3P1/r4PBP/4R1K1 w - - 3 21"]
+
+{A very smooth grind by my opponent. I lost on time, but I was lost anyway.}
+1.Nf3 d5
+2.g3 c5
+3.Bg2 Nc6
+4.O-O e5
+5.d3 Nf6
+6.Nbd2 Be6
+7.e4 dxe4
+8.Nxe4 Nxe4
+9.dxe4 Qxd1
+10.Rxd1 Nd4
+11.Nxd4 cxd4
+12.Bd2 Rc8
+13.c3 Bc5
+14.Rdc1 O-O
+15.a3 Rfd8
+16.cxd4 Bxd4
+17.Bc3 Bxc3
+18.Rxc3 Rxc3
+19.bxc3 Rd2
+20.Re1 Ra2
+0-1

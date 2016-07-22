@@ -1,0 +1,76 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2015.09.15"]
+[Round "-"]
+[White "Vladimir_VP"]
+[Black "egor_tensin"]
+[Result "0-1"]
+[WhiteElo "1551"]
+[BlackElo "1671"]
+[TimeControl "900+10"]
+[Termination "egor_tensin won on time"]
+[Annotator "egor_tensin"]
+[CurrentPosition "8/1n3p2/3Pk1pp/1N6/4K1P1/8/7P/8 w - - 1 59"]
+
+{We both played equally badly in this game. Didn't make any huge blunders, at
+least. The most memorable thing was my opponent losing on time and
+rage-quitting.}
+1.e4 e5
+2.Nf3 Nf6
+3.Nc3 Nc6
+4.Bb5 Bb4
+5.Bxc6 bxc6
+6.d3 O-O
+7.Bd2 d6
+8.O-O Bg4
+9.a3 Ba5
+10.b4 Bb6
+11.Be3 Bxe3
+12.fxe3 Nd7
+13.Qe2 a5
+14.Qf2 Bxf3
+15.Qxf3 axb4
+16.axb4 Rxa1
+17.Rxa1 Qf6
+18.Ra7 Qd8
+19.Qf2 Qb8
+20.Ra4 Qb7
+21.Qd2 Rb8
+22.Na2 c5
+23.bxc5 Nxc5
+24.Rb4 Qa7
+25.Rxb8+ Qxb8
+26.Qb4 Qa7
+27.Qb5 g6
+28.Qc4 Qa5
+29.Nb4 Qa1+
+30.Kf2 Qb2
+31.Nd5 Qb7
+32.Qb4 Qa7
+33.Qb5 Kg7
+34.Kf3 Ne6
+35.Qc4 Qb7
+36.Qb4 Qc6
+37.Qb3 Qc5
+38.Qc3 Qxc3
+39.Nxc3 c6
+40.Na4 Kf6
+41.Nb6 Ke7
+42.Nc4 h6
+43.c3 Kd7
+44.d4 exd4
+45.exd4 d5
+46.exd5 cxd5
+47.Ne5+ Ke7
+48.Ke3 Kf6
+49.c4 dxc4
+50.Nxc4 Kf5
+51.Nd6+ Kf6
+52.Ne4+ Kf5
+53.Nd6+ Kf6
+54.Nb5 Ke7
+55.d5 Nd8
+56.Ke4 Kf6
+57.d6 Ke6
+58.g4 Nb7
+0-1

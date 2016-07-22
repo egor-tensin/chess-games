@@ -1,0 +1,71 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2015.09.12"]
+[Round "-"]
+[White "Vladimir_VP"]
+[Black "egor_tensin"]
+[Result "1-0"]
+[WhiteElo "1599"]
+[BlackElo "1641"]
+[TimeControl "900+10"]
+[Termination "Vladimir_VP won by resignation"]
+[Annotator "egor_tensin"]
+[CurrentPosition "1rR3k1/5p2/1q2p1p1/3P3p/1P5P/2Q5/5PP1/6K1 b - - 2 49"]
+
+1.e4 d5 {Can't remember the last time I played the Scandinavian.}
+2.exd5 Qxd5
+3.Nc3 Qd6
+4.Nf3 Nc6
+5.Be2 g6
+6.O-O Bg7
+7.Bb5 a6
+8.Bxc6+ Qxc6
+9.d4 e6
+10.Ne2 Ne7
+11.c3 O-O
+12.Bg5 Nd5
+13.Bh4 b5
+14.a3 Bb7
+15.Ne5 Qe8 {missing an easy tactic.}
+  (15...Bxe5 {is a free piece.} 16.dxe5 Ne3)
+16.Nd3 Nb6
+17.Nc5 Qc6
+18.Nxb7 Qxb7
+19.Nf4 Bh6
+20.Nd3 Qe4
+21.Bg3 Qc6
+22.Ne5 Qd5
+23.Ng4 Bg7
+24.Qc1 c6
+25.Nh6+ Kh8
+26.Re1 Nd7
+27.Ng4 Nf6
+28.Nxf6 Bxf6
+29.Be5 Bxe5 {going for a clearly worse major piece ending.}
+30.Rxe5 Qd7
+31.Qe3 Kg7
+32.h4 h5
+33.Qg3 Rh8
+34.Qe3 a5
+35.Rc1 b4
+36.axb4 axb4
+37.cxb4 Ra4
+38.Qc3 Rha8 {Blunder!}
+39.Ra5
+  (39.d5 {wins.})
+39...R4xa5
+40.bxa5 Qd5
+41.Qc5 Qb3
+42.Qxc6 {And now it's somewhat equal.}
+  (42.Qe5+ Kh7 43.Rxc6 Qxb2 44.a6 {is over.})
+42...Rxa5
+43.Qc3 Qd5
+44.b4 Ra8
+45.Re1 Rb8
+46.Re5 Qd6
+47.Rc5 Qb6
+  (47...Rd8 {would've put up more resistance.} 48.d5+ Kg8 49.dxe6 Qxe6)
+48.d5+ Kg8
+49.Rc8+
+  (49.Rc8+ Rxc8 50.Qxc8 Kg7 51.Qc5 {and the pawn simply marches forward.})
+1-0

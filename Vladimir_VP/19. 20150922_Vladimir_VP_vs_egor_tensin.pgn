@@ -1,0 +1,45 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2015.09.22"]
+[Round "-"]
+[White "Vladimir_VP"]
+[Black "egor_tensin"]
+[Result "1/2-1/2"]
+[WhiteElo "1729"]
+[BlackElo "1656"]
+[TimeControl "900+10"]
+[Termination "Game drawn by repetition"]
+[Annotator "egor_tensin"]
+[CurrentPosition "2k5/p1p2pp1/5qp1/N2r1n2/P2Pp3/1PQ5/3R1PPP/6K1 w - - 11 30"]
+
+{A very hard-fought draw, but not a very interesting one.}
+1.e4 e5
+2.Nf3 Nf6
+3.d4 Nxe4
+4.Nxe5 d6
+5.Nf3 d5
+6.Bd3 Nc6
+7.O-O Be7
+8.Nbd2 Bf5
+9.Re1 Nxd2
+10.Qxd2 Bg6
+11.Bxg6 hxg6
+12.b3 Qd6
+13.a4 O-O-O
+14.Ba3 Qf6
+15.Bxe7 Nxe7
+16.c4 Nf5
+17.c5 Rde8
+18.Rad1 Re4
+19.Qc3 Rhe8
+20.Rxe4 dxe4
+21.Ne5 Rd8
+22.Rd2 Rd5
+23.c6 bxc6
+24.Nxc6 Kb7
+25.Na5+ Kc8
+26.Nc6 Kb7
+27.Na5+ Kc8
+28.Nc6 Kb7
+29.Na5+ Kc8
+1/2-1/2
