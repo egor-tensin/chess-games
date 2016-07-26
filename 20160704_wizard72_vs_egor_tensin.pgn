@@ -12,22 +12,22 @@
 [Annotator "egor_tensin"]
 [CurrentPosition "6k1/2p3p1/1p3p2/4p1p1/1bb4P/4BP2/rqNK1QP1/3R3R w - - 0 30"]
 
-{I think this is possibly the best game I ever played.}
+{One of the most exciting games I've played.}
 1.e4 e5
 2.Nf3 Nc6
 3.Bc4 Nf6
 4.d3 d6
 5.Ng5 d5
-6.exd5 Nxd5 {Trying to get a Fried Liver Attack, possibly the first proper
-opening I learned.}
+6.exd5 Nxd5 {I was trying to transpose into a Fried Liver Attack, possibly the
+first proper opening I learned.}
 7.Qf3 f6
 8.Bxd5 Nd4
 9.Bf7+ Ke7
 10.Qd1 h6
 11.c3 Nc6
-12.Qh5 hxg5 {Giving up the exchange, because what else can I do?}
+12.Qh5 hxg5 {I gave up the exchange, because what else could I have done?}
 13.Qxh8 Kxf7
-14.Qh5+ Kg8 {Engines seem to think this position is level. Wat.}
+14.Qh5+ Kg8 {Engines seem to think this position is balanced.}
 15.Qe2 Bf5
 16.Be3 Bxd3
 17.Qd2 Qd6
@@ -35,7 +35,7 @@ opening I learned.}
 19.Na3 Rd8
 20.O-O-O a5
 21.Nc2 axb4
-22.cxb4 Qd5 {The Queen should have gone here in the first place.}
+22.cxb4 Qd5 {My queen should have gone here in the first place.}
 23.a3 Qb3
 24.h4 Bc4 {Oh, the massacre!}
 25.Qe1 Nxb4

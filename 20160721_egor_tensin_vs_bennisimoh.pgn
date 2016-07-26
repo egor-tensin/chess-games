@@ -15,7 +15,7 @@
 {I was so happy to win a game against a 1800-rated player (my opponent was
 rated at 1809 when the game started) only to realized after the game it was
 only his 12th game, and the first loss he had suffered. He lost like 50 rating
-points after that. But still!}
+points after this game. But still!}
 1.Nf3 d5
 2.d4 Nc6
 3.g3 Nf6
@@ -33,15 +33,16 @@ points after that. But still!}
 15.Na4 Nf5
 16.Qd3 Nd6
 17.Re1 Rb8
-18.e4 {I was trying to get my bishop on c1 to breathe. A bit premature.}
+18.e4 {I was trying to get my bishop on c1 to breathe. A bit prematurely,
+probably.}
   (18.Nc5 {was better, preparing the idea.})
 18...dxe4
 19.Bxe4 Nfxe4
 20.Rxe4 Nxe4 {I didn't sacrifice the exchange concisely... I was just trying to
 break in the center. Anyway, I'm simply down an exchange now.}
 21.Qxe4 Rh5
-22.Rb3 {Trying to get my rook active.} Qd6 {allowing two extra tempi and
-preventing the queens from being exchanged.}
+22.Rb3 {Trying to get my rook to become active.} Qd6 {Giving me two extra tempi
+and preventing the queens from being exchanged.}
   (22...Qd5 {Not sure what I would've done had he chosen to try to exchange the
 queens.})
 23.Bf4 Qd7
@@ -53,8 +54,8 @@ doesn't feel like an achievement.} fxe6
 28.Rf3 e5
 29.Qxe5 g5
 30.gxf4 g4
-31.Qf5+ {And now irrespective of where his king goes, I'm either winning the
-pawn on g4 with check or deliver a deadly check with Re3+.} Ke7
+31.Qf5+ {And now irrespectively of where his king goes, I'm either winning the
+pawn on g4 with a check or deliver a deadly check with Re3+.} Ke7
 32.Re3+ Kd6
 33.Qe5+ Kd7
 34.Qe6+ Kc7

@@ -11,8 +11,8 @@
 [Termination "Game drawn by repetition"]
 [Annotator "egor_tensin"]
 
-{A silly game. The guy was talking trash way more than he needed. I blundered a
-piece, but out of frustration played on just for the sake of it.}
+{A silly game. The guy was talking trash way more than I think is acceptable. I
+blundered a piece, but out of frustration played on just for the sake of it.}
 1.Nf3 Nf6
 2.c4 c5
 3.b3 Nc6
@@ -41,9 +41,10 @@ piece, but out of frustration played on just for the sake of it.}
 26.Rab1 Bc3
 27.Nf3 Red8
 28.Rd3 d4
-29.exd4 cxd4 {My position is very bad}
-30.Nd2 {but there was no need to blunder a piece!} Ba6
-31.Bf1 {Decided to give up the rook instead.} Bxd3
+29.exd4 cxd4
+30.Nd2 {Although the position's very bad for White, the piece blunder was
+uncalled for.} Ba6
+31.Bf1 {For some reason I decided to give up the rook instead.} Bxd3
 32.Bxd3 Bxd2
 33.Kf1 Bc3
 34.a4 Rd6
@@ -56,7 +57,7 @@ piece, but out of frustration played on just for the sake of it.}
 41.h4 h5
 42.Kg2 Kg7
 43.Bd7 Ra2+
-44.Kh3 {I would've resigned against anybody else a long time ago.} Kg6
+44.Kh3 {I would've resigned a long time ago in any other game.} Kg6
 45.Be8 Be1
 46.Bb5 Ra3
 47.Bc6 Rc3

@@ -147,7 +147,7 @@ blunder though.} Rh3+
 12.Bg5 Nd5
 13.Bh4 b5
 14.a3 Bb7
-15.Ne5 Qe8 {missing an easy tactic.}
+15.Ne5 Qe8 {Missing an easy tactic.}
   (15...Bxe5 {is a free piece.} 16.dxe5 Ne3)
 16.Nd3 Nb6
 17.Nc5 Qc6
@@ -162,7 +162,7 @@ blunder though.} Rh3+
 26.Re1 Nd7
 27.Ng4 Nf6
 28.Nxf6 Bxf6
-29.Be5 Bxe5 {going for a clearly worse major piece ending.}
+29.Be5 Bxe5 {Going for a clearly worse major piece ending.}
 30.Rxe5 Qd7
 31.Qe3 Kg7
 32.h4 h5
@@ -231,7 +231,7 @@ blunder though.} Rh3+
 23.Bf1 Nd5
 24.Bd2 Ne3
 25.Kf2 Nxf1
-26.Kxf1 {Clearly worse again.} Nxb5 {trapping his own knight. Wat.}
+26.Kxf1 {Clearly worse again.} Nxb5 {Trapping his own knight. Wat.}
 27.a4 Nxd4 {No idea why he didn't take on c3 instead.}
   (27...Nxc3 Bxc3 28.Re3 Bd2 29.Rxf3+ {I would've lost this.})
 28.cxd4 a5
@@ -401,7 +401,7 @@ that. Pretty accurate play, actually.}
 [Annotator "egor_tensin"]
 [CurrentPosition "rnbqr1k1/ppp2p1p/5bp1/4p3/2P1Q3/2NBPN2/PP3PPP/R4RK1 w - - 0 13"]
 
-{The last game of the three-game winning streak I pulled of against Vladimir.}
+{The last game of the three-game winning streak I pulled off against Vladimir.}
 1.d4 Nf6
 2.c4 e6
 3.Nc3 Be7
@@ -466,8 +466,8 @@ that. Pretty accurate play, actually.}
 62.Rf8 Kg7
 63.Rc8 Nd6 {By this point I actually realized that I just had to sacrifice my
 knight for his e- and f-pawns, but I was in time trouble, hence the silly
-maneuvering. Luckily, my opponent has no threats. And he actually offered a
-draw! Gutsy.}
+maneuvering. Luckily, my opponent had no threats. And he actually offered a
+draw somewhere around here! Gutsy.}
 64.Rd8 Nf7
 65.Rd7 Rb6
 66.Rc7 Rd6
@@ -489,7 +489,7 @@ draw! Gutsy.}
 82.Ra8 Re2
 83.Rg8+ Kh7
 84.Rf8 Kg7
-85.Rd8 Nxe4 {Finally! It's painful to watch.}
+85.Rd8 Nxe4 {Finally! It was painful to replay.}
 86.Rd7+ Kg6
 87.fxe4 Rxe4
 88.Rd8 Rxh4
@@ -556,7 +556,8 @@ I'm only a pawn down.})
 31.Qxc6 Qc5
 32.Qa4 Rab8
 33.b4 Qb6
-34.e5 Bxe5 {My opponent got scared, probably.}
+34.e5 Bxe5 {My opponent got scared, probably. Still completely winning for
+Black.}
   (34...Bc5)
 35.Rxe5+ Kf8
 36.Qb3 Qg6+
@@ -581,9 +582,9 @@ I'm only a pawn down.})
 55.Rd1+ Ke8
 56.Kc7 Rc2+
 57.Kb8 Rg2
-58.Rh1 Kd8 {And it's a draw! Unbelievable!!! Chess is so cruel.}
+58.Rh1 Kd8 {And it's a draw! Unbelievable! Chess can be so cruel.}
   (58...Kd7 {would've won. The difference is that now I don't have the access
-to the c6 square. For example,} 59.b7 g5 {(the only winning move!} 60.Ka7 Ra2+
+to the c6 square. For example,} 59.b7 g5 {(the only winning move!)} 60.Ka7 Ra2+
 61.Kb6 Rb2+ {and I have to return to a7.} 62.Ka7 {and now anything wins for
 Black, because he's just in time to play g4 and g3.})
 59.b7 {The only drawing move!} Ra2
@@ -594,10 +595,10 @@ Black, because he's just in time to play g4 and g3.})
 g5 67.Rh1 {and his rook is overloaded.})
 63.Rd1+ Ke8
 64.Kc7 Rc2+
-65.Kb8 {messing it up.} Rg2 {returning the favour.}
+65.Kb8 {Messing it up.} Rg2 {Returning the favour.}
   (65...g5 66.Re1+ Kd7 67.Rd1+ Ke6 {and so forth.})
 66.Kc7 Rc2+
-67.Kb8 {allowing the same line.} Rg2
+67.Kb8 {Allowing the same line.} Rg2
 68.Kc7 Rc2+
 69.Kb8
   (69.Kb8 g5 {would've won again, but it seems like neither of us saw it.})
@@ -617,7 +618,7 @@ g5 67.Rh1 {and his rook is overloaded.})
 [Annotator "egor_tensin"]
 [CurrentPosition "r3r1k1/p1pq1pp1/2ppb2p/4P3/N3P3/1PQ2N1P/P1P1nPP1/R4RK1 w - - 1 16"]
 
-{Nothing much to say about this game.}
+{I haven't got much to say about this game.}
 1.e4 e5
 2.Nf3 Nf6
 3.Nc3 Nc6
@@ -1104,7 +1105,7 @@ evaluates the position as being equal throughout most of the middlegame.}
 17.c5 fxg5
 18.cxd6 cxd6
 19.Ne5 dxe5
-20.Rxd7 Bxd7 {Crazy!}
+20.Rxd7 Bxd7 {What a crazy position!}
 21.Rxe5 {My opponent has more material, but his king is very bad, so the
 dance begins!} Rf8
 22.Rxg5 Rc8
@@ -1116,7 +1117,7 @@ dance begins!} Rf8
 28.Re2 Kd8
 29.b3 Rcf4
 30.Qe3 Nc8
-31.Kg1 {to free my queen up.} Rf6
+31.Kg1 {I want to free my queen up.} Rf6
 32.g3 R4f5
 33.Qd4 Ne7
 34.g4 Rf4
@@ -1134,7 +1135,7 @@ dance begins!} Rf8
 46.b4 Rg4+
 47.Kh1 Re4
 48.b5 Ree6
-49.bxc6 {There goes a piece.} Rxc6
+49.bxc6 {There goes Black's piece.} Rxc6
 50.Qe3 Bd7
 51.Rb2 Rfd6
 52.Kh2 Be6
@@ -1146,7 +1147,7 @@ dance begins!} Rf8
 58.Rb7+ Bd7
 59.Qh4+ Ke6
 60.Qxh3+ Ke7
-61.Qh7+ Kf6 {and I'm finally sure I'm winning.}
+61.Qh7+ Kf6 {And I'm finally sure I'm winning.}
 62.Rxd7 Rxd7
 63.Qxd7 Rc2
 64.Qd4+ Kf7

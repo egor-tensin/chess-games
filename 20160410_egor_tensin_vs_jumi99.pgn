@@ -12,7 +12,7 @@
 [Annotator "egor_tensin"]
 [CurrentPosition "r4rk1/p2q1pb1/bpn1pP2/3pP1Qp/3P4/5N2/PP3PB1/RN2R1K1 b - - 0 21"]
 
-{A quick King-Side Attack.}
+{A quick kingside attack.}
 1.Nf3 Nf6
 2.g3 g6
 3.Bg2 Bg7
@@ -31,7 +31,7 @@
 16.h5 Nf5
 17.Bg5 Qd7
 18.g4 h6
-19.gxf5 {Nice. Black's king's side is now completely ruined.} hxg5
-20.Qxg5 gxh5 {The wrong one.}
+19.gxf5 {Nice, isn't it? Black's king's side is now completely ruined.} hxg5
+20.Qxg5 gxh5 {The wrong pawn.}
 21.f6
 1-0
