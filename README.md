@@ -16,3 +16,11 @@ the game will end up in this collection or not.
 This is also not an attempt to improve my chess, so you won't find many (or
 any, frankly) of my losses here, although they are perhaps much more worth
 analyzing in case one's a good student.
+
+License
+-------
+
+The annotations are available under a [Creative Commons Attribution 4.0
+International License][CC BY 4.0].
+
+[CC BY 4.0]: https://creativecommons.org/licenses/by/4.0/
