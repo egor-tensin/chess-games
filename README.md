@@ -20,7 +20,14 @@ analyzing in case one's a good student.
 License
 -------
 
-The annotations are available under a [Creative Commons Attribution 4.0
-International License][CC BY 4.0].
+This project, including all of the files and their contents, is licensed under
+the terms of the MIT License.
+See [LICENSE-MIT.txt] for details.
 
+In addition, the annotations in *.pgn files are dual-licensed under the
+[Creative Commons Attribution 4.0 International License][CC BY 4.0].
+See [LICENSE-CC-BY.txt] for details.
+
+[LICENSE-MIT.txt]: LICENSE-MIT.txt
+[LICENSE-CC-BY.txt]: LICENSE-CC-BY.txt
 [CC BY 4.0]: https://creativecommons.org/licenses/by/4.0/
