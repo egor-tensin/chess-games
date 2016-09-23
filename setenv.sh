@@ -86,7 +86,7 @@ normalize_pgn() {
 
 append_pgn() {
     if [ "$#" -ne 2 ]; then
-        echo "usage: $FUNCNAME DEST_PGN SRC_PGN" >&2
+        echo "usage: ${FUNCNAME[0]} DEST_PGN SRC_PGN" >&2
         return 1
     fi
 
@@ -96,7 +96,7 @@ append_pgn() {
 
 join_pgns() (
     if [ "$#" -eq 0 ]; then
-        echo "usage: $FUNCNAME [PGN_FILE]"
+        echo "usage: ${FUNCNAME[0]} PGN_FILE..."
         return 0
     fi
 
