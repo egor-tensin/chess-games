@@ -20,8 +20,7 @@ analyzing in case one's a good student.
 License
 -------
 
-This project, including all of the files and their contents, is licensed under
-the terms of the MIT License.
+Distributed under the MIT License.
 See [LICENSE-MIT.txt] for details.
 
 In addition, the annotations in *.pgn files are dual-licensed under the

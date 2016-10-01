@@ -1,8 +1,9 @@
 #!/usr/bin/env bash
 
-# Copyright 2016 Egor Tensin <Egor.Tensin@gmail.com>
-# This file is licensed under the terms of the MIT License.
-# See LICENSE.txt for details.
+# Copyright (c) 2016 Egor Tensin <Egor.Tensin@gmail.com>
+# This file is part of the "Chess games" project.
+# For details, see https://github.com/egor-tensin/chess-games.
+# Distributed under the MIT License.
 
 # Utility functions and aliases for "prettifying" PGN files (mostly those
 # downloaded from Chess.com).
