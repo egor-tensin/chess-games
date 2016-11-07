@@ -62,17 +62,17 @@
 # * gets a single newline (\r\n) appended at the end of the file.
 lint_pgn() {
 
-    sed --binary --in-place 's/\r\?$/\r/' "$@" \
-        && sed --binary --in-place 's/[[:blank:]]*\(\r\?\)$/\1/' "$@" \
-        && sed --binary --in-place -e :a -e '/^\(\r\n\)*\r$/{$d;N;ba}' "$@" \
-        && sed --binary --in-place '$s/\r\?$/\r/;a\' "$@"
+    sed --binary --in-place -- 's/\r\?$/\r/' "$@" \
+        && sed --binary --in-place -- 's/[[:blank:]]*\(\r\?\)$/\1/' "$@" \
+        && sed --binary --in-place -e :a -e '/^\(\r\n\)*\r$/{$d;N;ba}' -- "$@" \
+        && sed --binary --in-place -- '$s/\r\?$/\r/;a\' "$@"
 }
 
 # Strips [%clk] tags from PGN files.
-alias strip_pgn_clk='sed --binary --in-place '"'"'s/ {\[%clk [[:digit:]]\+:[[:digit:]]\+\(:[[:digit:]]\+\)*\]}//g'"'"
+alias strip_pgn_clk='sed --binary --in-place -- '"'"'s/ {\[%clk [[:digit:]]\+:[[:digit:]]\+\(:[[:digit:]]\+\)*\]}//g'"'"
 
 # Places main line moves at separate lines.
-alias slice_pgn_moves='sed --binary --in-place '"'"'s/ \([[:digit:]]\+\.\)/\r\n\1/g'"'"
+alias slice_pgn_moves='sed --binary --in-place -- '"'"'s/ \([[:digit:]]\+\.\)/\r\n\1/g'"'"
 
 # "Prettifies" PGN files by (see above)
 #
@@ -91,8 +91,8 @@ append_pgn() {
         return 1
     fi
 
-    printf '\r\n' >> "$1" \
-        && cat "$2" >> "$1"
+    printf -- '\r\n' >> "$1" \
+        && cat -- "$2" >> "$1"
 }
 
 join_pgns() (
@@ -103,11 +103,11 @@ join_pgns() (
 
     set -o errexit
 
-    cat "$1"
+    cat -- "$1"
 
     local i
     for i in "${@:2}"; do
-        printf '\r\n'
+        printf -- '\r\n'
         cat "$i"
     done
 )
