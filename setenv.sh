@@ -21,8 +21,7 @@
 # * `coreutils` 8.25,
 # * `sed` 4.2.2.
 #
-# Any Cygwin installation must already have the corresponding packages
-# installed.
+# Any Cygwin installation should already have these packages installed.
 
 # I consider a PGN file to be "pretty" if it
 #
@@ -71,14 +70,14 @@ lint_pgn() {
 # Strips [%clk] tags from PGN files.
 alias strip_pgn_clk='sed --binary --in-place -- '"'"'s/ {\[%clk [[:digit:]]\+:[[:digit:]]\+\(:[[:digit:]]\+\)*\]}//g'"'"
 
-# Places main line moves at separate lines.
+# Places main line moves on separate lines.
 alias slice_pgn_moves='sed --binary --in-place -- '"'"'s/ \([[:digit:]]\+\.\)/\r\n\1/g'"'"
 
 # "Prettifies" PGN files by (see above)
 #
 # * "linting" them,
 # * stripping [%clk] tags,
-# * placing main line moves at separate lines.
+# * placing main line moves on separate lines.
 normalize_pgn() {
     lint_pgn "$@" \
         && strip_pgn_clk "$@" \
