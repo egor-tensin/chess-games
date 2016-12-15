@@ -1,0 +1,87 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2016.12.08"]
+[Round "-"]
+[White "zannoon"]
+[Black "egor_tensin"]
+[Result "0-1"]
+[WhiteElo "1267"]
+[BlackElo "1376"]
+[TimeControl "300+5"]
+[Termination "egor_tensin won by checkmate"]
+[Annotator "egor_tensin"]
+[CurrentPosition "8/8/8/8/3b4/8/2k5/K1n5 w - - 18 65"]
+
+{A queen trap, but the most remarkable thing about this game for me personally
+was that it was the first time I managed to pull off a N+B checkmate in a real
+game!}
+1.e4 e5
+2.d3 Nf6
+3.Nf3 Nc6
+4.Be2 Bc5
+5.c3 d6
+6.O-O O-O
+7.h3 a6
+8.Nh2 b5
+9.Ng4 Nxg4
+10.Bxg4 Be6
+11.Kh1 f5
+12.exf5 Bxf5
+13.Bxf5 Rxf5
+14.Qg4 Qf8
+15.f3 Rf6
+16.Nd2 Ne7
+17.Ne4 Rg6
+18.Qd7 Bb6
+19.Nf2 {Unfortunate!} Rd8
+20.Qxd8 Qxd8
+21.Ng4 Qf8
+22.f4 exf4
+23.Bxf4 Nf5
+24.d4 h5
+25.Nf2 Nxd4
+26.Nd3 Nf5
+27.Rf3 Rf6
+28.Raf1 Nh4
+29.Bxd6 cxd6
+30.Rxf6 gxf6
+31.Nf4 Kf7
+32.Nxh5 Qh6 {I've been waiting for a chance to execute a N+B checkmate to make
+up for all the effort I've put into learning it, so I'm grabbing any
+opportunity with both hands.}
+  (32.Qg8 {is a very quick win.})
+33.Rxf6+ Qxf6
+34.Nxf6 Kxf6
+35.g3 Nf3
+36.Kg2 Ne5
+37.h4 Kf5
+38.Kh3 d5
+39.b3 d4
+40.cxd4 Bxd4
+41.h5 Kg5
+42.g4 Nxg4
+43.Kg3 Ne5
+44.h6 Kxh6
+45.Kf4 Ba1
+46.Ke4 Kg6
+47.Kd5 Kf5
+48.Kc5 a5
+49.Kxb5 Bc3
+50.a3 Ke4
+51.b4 axb4
+52.axb4 Kd5
+53.Ka4 Kc4
+54.b5 Nd7
+  (54...Bb4 55.b6 Nd7 56.b7 Nc5# {Missed that.})
+55.b6 Nxb6+ {The same inaccuracy.}
+56.Ka3 {The king cannot even leave the corner, so that was easy. But still!}
+Bd4
+57.Ka2 Kc3
+58.Ka3 Bc5+
+59.Ka2 Kc2
+60.Ka1 Nc4
+61.Ka2 Nb2
+62.Ka1 Nd3
+63.Ka2 Nc1+
+64.Ka1 Bd4#
+0-1

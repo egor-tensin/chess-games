@@ -1,0 +1,59 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2016.12.12"]
+[Round "-"]
+[White "kriscn"]
+[Black "egor_tensin"]
+[Result "0-1"]
+[ECO "A00"]
+[WhiteElo "1409"]
+[BlackElo "1362"]
+[TimeControl "300+5"]
+[Termination "egor_tensin won by checkmate"]
+[Annotator "egor_tensin"]
+[CurrentPosition "6k1/pp3p2/2n3P1/2Pp4/8/2P5/Pr6/3Q1K1r w - - 1 31"]
+
+1.c3 e5
+2.h3 d5
+3.e3 c5
+4.Ne2 Nf6
+5.d4 exd4
+6.exd4 Nc6
+7.Bg5 Bd6
+8.Nd2 O-O
+9.Qc1 {I'm so much ahead in development, it's a huge advantage for Black.} h6
+  (9...Re8 {was better.})
+10.Be3 Bf5 {Simply blundered my c-pawn. Despite that, my engine still
+evaluates this position as being sort of level, which should tell you
+something.}
+11.dxc5 Bc7
+12.Nb3 Re8
+13.Bxh6 gxh6
+14.Qxh6 Qe7
+15.O-O-O Qxe2 {I somehow hallucinated into thinking that I was gonna fork his
+queen and king on the next move.}
+16.Bxe2 Rxe2 {After wiping my tears, I decided that this position wasn't so
+bad for Black after all. I mean, my pieces are going to rapidly occupy some
+very nice squares and all that.}
+17.Qg5+ {As illustrated by this mistake.}
+  (17.Qxf6 {was actually the only chance to capture my knight.})
+17...Bg6
+18.Rd2
+  (18.Qxf6 {now runs into} Rc2+ 19.Kb1 Rxf2+)
+18...Ne4 {This actually gives my opponent a bailout option.}
+19.Qh6
+  (19.Qxg6+ fxg6 20.Rxe2 {and that's a lot of pawns to deal with. Advantage
+White!})
+19...Nxd2 {And it's all over now.}
+20.Nxd2 Rxf2
+21.Re1 Bf4
+22.Qh4 Bxd2+
+23.Kd1 Bxe1
+24.Kxe1 Rxb2
+25.Qg4 Re8+
+26.Kf1 Ree2
+27.h4 Rec2 {Tempo play!}
+28.Qd1 Rxg2
+29.h5 Rh2
+30.hxg6 Rh1#
+0-1

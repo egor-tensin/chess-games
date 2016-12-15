@@ -830,3 +830,260 @@ now.} Rfe8
 26.Qxg4+ Kf8
 27.Bh6+
 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2016.12.06"]
+[Round "-"]
+[White "jeanpate45"]
+[Black "egor_tensin"]
+[Result "0-1"]
+[WhiteElo "1429"]
+[BlackElo "1405"]
+[TimeControl "300+5"]
+[Termination "egor_tensin won by resignation"]
+[Annotator "egor_tensin"]
+[CurrentPosition "8/8/1pk5/8/2P5/2K1P1p1/8/8 w - - 0 47"]
+
+{Sort of an interesting pawn game, following a routine rook endgame I somehow
+didn't lose.}
+1.d4 Nf6
+2.Bf4 g6
+3.e3 Bg7
+4.c3 O-O
+5.Nf3 d6
+6.Be2 Nbd7
+7.O-O Re8
+8.h3 e5
+9.dxe5 dxe5
+10.Bg3 e4
+11.Nd4 c6
+12.Nd2 Nf8
+13.N4b3 Be6
+14.Bc4 b6
+15.Bxe6 Nxe6
+16.Nc4 Bf8
+17.Ne5 Rc8
+18.Ng4 Nxg4
+19.Qxg4 Nc5
+20.Nxc5 Bxc5
+21.Rfd1 Qe7
+22.Rd7 Qe6
+23.Qxe6 Rxe6
+24.Rad1 a5
+25.Bd6 Bxd6
+26.R7xd6 Rxd6
+27.Rxd6 Kg7
+28.Kf1 Kf8
+29.Ke2 Ke7
+30.Rd4 f5
+31.c4 Ke6
+32.a3 Rc7
+33.b4 axb4
+34.axb4 Rd7
+35.Kd2 c5
+  (35...Rxd4+ {is much better according to Stockfish 7, but I personally would
+never go for something like} 36.exd4 b5 37.d5+ cxd5 38.c5 {giving my opponent
+a protected passer. The move I made makes the position "equal", according to
+the engine.})
+36.Rxd7 Kxd7
+37.Kc3 Kd6
+38.Kb3 Kc6
+39.Ka4 cxb4
+40.Kxb4 h6
+41.h4 g5 {A glaring mistake!}
+42.hxg5
+  ({Had my opponent played} 42.h5 {I'd been in a lot of trouble, although I
+would *never* see (for example) the following variation during the game.} f4
+43.g3 fxg3 44.fxg3 g4 45.Kb3 Kd6 {trying to prevent White from taking the
+opposition.} 46.Kb2 Ke5 {The last attempt, going for the h-pawn.}
+    (46...Kc5 47.Kc3)
+    (46...Kc6 47.Kc2)
+  47.Kc3 Kf5 48.Kd4 Kg5 49.Ke5 Kxh5 50.Kf5 {Beautiful!} b5 51.c5 b4 52.c6 b3
+53.c7 b2 54.c8=Q b1=Q 55.Qe8#)
+42...hxg5
+43.f3 exf3
+44.gxf3 g4
+45.fxg4 fxg4
+46.Kc3 g3
+0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2016.12.08"]
+[Round "-"]
+[White "zannoon"]
+[Black "egor_tensin"]
+[Result "0-1"]
+[WhiteElo "1267"]
+[BlackElo "1376"]
+[TimeControl "300+5"]
+[Termination "egor_tensin won by checkmate"]
+[Annotator "egor_tensin"]
+[CurrentPosition "8/8/8/8/3b4/8/2k5/K1n5 w - - 18 65"]
+
+{A queen trap, but the most remarkable thing about this game for me personally
+was that it was the first time I managed to pull off a N+B checkmate in a real
+game!}
+1.e4 e5
+2.d3 Nf6
+3.Nf3 Nc6
+4.Be2 Bc5
+5.c3 d6
+6.O-O O-O
+7.h3 a6
+8.Nh2 b5
+9.Ng4 Nxg4
+10.Bxg4 Be6
+11.Kh1 f5
+12.exf5 Bxf5
+13.Bxf5 Rxf5
+14.Qg4 Qf8
+15.f3 Rf6
+16.Nd2 Ne7
+17.Ne4 Rg6
+18.Qd7 Bb6
+19.Nf2 {Unfortunate!} Rd8
+20.Qxd8 Qxd8
+21.Ng4 Qf8
+22.f4 exf4
+23.Bxf4 Nf5
+24.d4 h5
+25.Nf2 Nxd4
+26.Nd3 Nf5
+27.Rf3 Rf6
+28.Raf1 Nh4
+29.Bxd6 cxd6
+30.Rxf6 gxf6
+31.Nf4 Kf7
+32.Nxh5 Qh6 {I've been waiting for a chance to execute a N+B checkmate to make
+up for all the effort I've put into learning it, so I'm grabbing any
+opportunity with both hands.}
+  (32.Qg8 {is a very quick win.})
+33.Rxf6+ Qxf6
+34.Nxf6 Kxf6
+35.g3 Nf3
+36.Kg2 Ne5
+37.h4 Kf5
+38.Kh3 d5
+39.b3 d4
+40.cxd4 Bxd4
+41.h5 Kg5
+42.g4 Nxg4
+43.Kg3 Ne5
+44.h6 Kxh6
+45.Kf4 Ba1
+46.Ke4 Kg6
+47.Kd5 Kf5
+48.Kc5 a5
+49.Kxb5 Bc3
+50.a3 Ke4
+51.b4 axb4
+52.axb4 Kd5
+53.Ka4 Kc4
+54.b5 Nd7
+  (54...Bb4 55.b6 Nd7 56.b7 Nc5# {Missed that.})
+55.b6 Nxb6+ {The same inaccuracy.}
+56.Ka3 {The king cannot even leave the corner, so that was easy. But still!}
+Bd4
+57.Ka2 Kc3
+58.Ka3 Bc5+
+59.Ka2 Kc2
+60.Ka1 Nc4
+61.Ka2 Nb2
+62.Ka1 Nd3
+63.Ka2 Nc1+
+64.Ka1 Bd4#
+0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2016.12.12"]
+[Round "-"]
+[White "kriscn"]
+[Black "egor_tensin"]
+[Result "0-1"]
+[ECO "A00"]
+[WhiteElo "1409"]
+[BlackElo "1362"]
+[TimeControl "300+5"]
+[Termination "egor_tensin won by checkmate"]
+[Annotator "egor_tensin"]
+[CurrentPosition "6k1/pp3p2/2n3P1/2Pp4/8/2P5/Pr6/3Q1K1r w - - 1 31"]
+
+1.c3 e5
+2.h3 d5
+3.e3 c5
+4.Ne2 Nf6
+5.d4 exd4
+6.exd4 Nc6
+7.Bg5 Bd6
+8.Nd2 O-O
+9.Qc1 {I'm so much ahead in development, it's a huge advantage for Black.} h6
+  (9...Re8 {was better.})
+10.Be3 Bf5 {Simply blundered my c-pawn. Despite that, my engine still
+evaluates this position as being sort of level, which should tell you
+something.}
+11.dxc5 Bc7
+12.Nb3 Re8
+13.Bxh6 gxh6
+14.Qxh6 Qe7
+15.O-O-O Qxe2 {I somehow hallucinated into thinking that I was gonna fork his
+queen and king on the next move.}
+16.Bxe2 Rxe2 {After wiping my tears, I decided that this position wasn't so
+bad for Black after all. I mean, my pieces are going to rapidly occupy some
+very nice squares and all that.}
+17.Qg5+ {As illustrated by this mistake.}
+  (17.Qxf6 {was actually the only chance to capture my knight.})
+17...Bg6
+18.Rd2
+  (18.Qxf6 {now runs into} Rc2+ 19.Kb1 Rxf2+)
+18...Ne4 {This actually gives my opponent a bailout option.}
+19.Qh6
+  (19.Qxg6+ fxg6 20.Rxe2 {and that's a lot of pawns to deal with. Advantage
+White!})
+19...Nxd2 {And it's all over now.}
+20.Nxd2 Rxf2
+21.Re1 Bf4
+22.Qh4 Bxd2+
+23.Kd1 Bxe1
+24.Kxe1 Rxb2
+25.Qg4 Re8+
+26.Kf1 Ree2
+27.h4 Rec2 {Tempo play!}
+28.Qd1 Rxg2
+29.h5 Rh2
+30.hxg6 Rh1#
+0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2016.12.14"]
+[Round "-"]
+[White "gasalda"]
+[Black "egor_tensin"]
+[Result "0-1"]
+[ECO "A00"]
+[WhiteElo "1326"]
+[BlackElo "1356"]
+[TimeControl "300+5"]
+[Termination "egor_tensin won by checkmate"]
+[Annotator "egor_tensin"]
+[CurrentPosition "r3k2r/p1p3pp/b1p1qn2/3p1p2/3N4/1P2P1bP/PBPP4/RN1QK2R w KQkq - 2 14"]
+
+{What a checkmate! The first time I checkmated somebody using only the
+bishops! And I managed to avoid any bumps during the entire 13-move game!}
+1.e3 d5
+2.b3 Nc6
+3.Bb2 e5
+4.Bb5 Bd6
+5.Nf3 Qe7
+6.Bxc6+ bxc6
+7.h3 Ba6
+8.g3 f5
+9.Nh4 Qe6
+10.f4 Nf6
+11.Nf3 exf4
+12.gxf4 Bxf4
+13.Nd4 Bg3#
+0-1

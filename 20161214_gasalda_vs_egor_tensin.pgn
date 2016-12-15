@@ -1,0 +1,31 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2016.12.14"]
+[Round "-"]
+[White "gasalda"]
+[Black "egor_tensin"]
+[Result "0-1"]
+[ECO "A00"]
+[WhiteElo "1326"]
+[BlackElo "1356"]
+[TimeControl "300+5"]
+[Termination "egor_tensin won by checkmate"]
+[Annotator "egor_tensin"]
+[CurrentPosition "r3k2r/p1p3pp/b1p1qn2/3p1p2/3N4/1P2P1bP/PBPP4/RN1QK2R w KQkq - 2 14"]
+
+{What a checkmate! The first time I checkmated somebody using only the
+bishops! And I managed to avoid any bumps during the entire 13-move game!}
+1.e3 d5
+2.b3 Nc6
+3.Bb2 e5
+4.Bb5 Bd6
+5.Nf3 Qe7
+6.Bxc6+ bxc6
+7.h3 Ba6
+8.g3 f5
+9.Nh4 Qe6
+10.f4 Nf6
+11.Nf3 exf4
+12.gxf4 Bxf4
+13.Nd4 Bg3#
+0-1

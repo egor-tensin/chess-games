@@ -1,0 +1,76 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2016.12.06"]
+[Round "-"]
+[White "jeanpate45"]
+[Black "egor_tensin"]
+[Result "0-1"]
+[WhiteElo "1429"]
+[BlackElo "1405"]
+[TimeControl "300+5"]
+[Termination "egor_tensin won by resignation"]
+[Annotator "egor_tensin"]
+[CurrentPosition "8/8/1pk5/8/2P5/2K1P1p1/8/8 w - - 0 47"]
+
+{Sort of an interesting pawn game, following a routine rook endgame I somehow
+didn't lose.}
+1.d4 Nf6
+2.Bf4 g6
+3.e3 Bg7
+4.c3 O-O
+5.Nf3 d6
+6.Be2 Nbd7
+7.O-O Re8
+8.h3 e5
+9.dxe5 dxe5
+10.Bg3 e4
+11.Nd4 c6
+12.Nd2 Nf8
+13.N4b3 Be6
+14.Bc4 b6
+15.Bxe6 Nxe6
+16.Nc4 Bf8
+17.Ne5 Rc8
+18.Ng4 Nxg4
+19.Qxg4 Nc5
+20.Nxc5 Bxc5
+21.Rfd1 Qe7
+22.Rd7 Qe6
+23.Qxe6 Rxe6
+24.Rad1 a5
+25.Bd6 Bxd6
+26.R7xd6 Rxd6
+27.Rxd6 Kg7
+28.Kf1 Kf8
+29.Ke2 Ke7
+30.Rd4 f5
+31.c4 Ke6
+32.a3 Rc7
+33.b4 axb4
+34.axb4 Rd7
+35.Kd2 c5
+  (35...Rxd4+ {is much better according to Stockfish 7, but I personally would
+never go for something like} 36.exd4 b5 37.d5+ cxd5 38.c5 {giving my opponent
+a protected passer. The move I made makes the position "equal", according to
+the engine.})
+36.Rxd7 Kxd7
+37.Kc3 Kd6
+38.Kb3 Kc6
+39.Ka4 cxb4
+40.Kxb4 h6
+41.h4 g5 {A glaring mistake!}
+42.hxg5
+  ({Had my opponent played} 42.h5 {I'd been in a lot of trouble, although I
+would *never* see (for example) the following variation during the game.} f4
+43.g3 fxg3 44.fxg3 g4 45.Kb3 Kd6 {trying to prevent White from taking the
+opposition.} 46.Kb2 Ke5 {The last attempt, going for the h-pawn.}
+    (46...Kc5 47.Kc3)
+    (46...Kc6 47.Kc2)
+  47.Kc3 Kf5 48.Kd4 Kg5 49.Ke5 Kxh5 50.Kf5 {Beautiful!} b5 51.c5 b4 52.c6 b3
+53.c7 b2 54.c8=Q b1=Q 55.Qe8#)
+42...hxg5
+43.f3 exf3
+44.gxf3 g4
+45.fxg4 fxg4
+46.Kc3 g3
+0-1
