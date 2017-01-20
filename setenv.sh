@@ -8,21 +8,6 @@
 # Utility functions and aliases for "prettifying" PGN files (mostly those
 # downloaded from Chess.com).
 
-# You can use the functions and aliases from this file by "sourcing" it in
-# `bash` (other shells might work as well):
-#
-#     > source setenv.sh
-#
-# `bash` 4.3.42, distributed by the Cygwin project, has been verified to work
-# properly.
-# The dependencies, along with their respective versions that were verified to
-# work properly (also provided by the Cygwin project), are
-#
-# * `coreutils` 8.25,
-# * `sed` 4.2.2.
-#
-# Any Cygwin installation should already have these packages installed.
-
 # I consider a PGN file to be "pretty" if it
 #
 # 1. has Unix-style newlines (\n),
