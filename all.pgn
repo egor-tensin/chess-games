@@ -818,10 +818,12 @@ traumatizing losses.}
 15.Bxe3 O-O
 16.Qh5 h6
 17.Bxh6 g6
-18.Qd5 {As per usual, I have no idea why I haven't played} (18.Bxg6) {right
-now.} Rfe8
+18.Qd5
+  ({As per usual, I have no idea why I haven't played} 18.Bxg6 {instead.})
+18...Rfe8
 19.Bxg6 Bf6
-20.Bf5 Qc7 {I was much more fearful of} (20...Qe7) {and for a good reason!}
+20.Bf5 Qc7
+  ({I was much more fearful of} 20...Qe7 {and for a good reason!})
 21.Qf3 Ne5
 22.Bh7+ Kxh7
 23.Qxf6 Rg8
@@ -845,7 +847,7 @@ now.} Rfe8
 [Annotator "egor_tensin"]
 [CurrentPosition "8/8/1pk5/8/2P5/2K1P1p1/8/8 w - - 0 47"]
 
-{Sort of an interesting pawn game, following a routine rook endgame I somehow
+{A sort of interesting pawn endgame, following a routine rook endgame I somehow
 didn't lose.}
 1.d4 Nf6
 2.Bf4 g6
@@ -1070,7 +1072,8 @@ White!})
 [CurrentPosition "r3k2r/p1p3pp/b1p1qn2/3p1p2/3N4/1P2P1bP/PBPP4/RN1QK2R w KQkq - 2 14"]
 
 {What a checkmate! The first time I checkmated somebody using only the
-bishops! And I managed to avoid any bumps during the entire 13-move game!}
+bishops in a middlegame! And I managed to avoid any bumps during the entire
+13-move game!}
 1.e3 d5
 2.b3 Nc6
 3.Bb2 e5
@@ -1181,4 +1184,69 @@ on d2.})
 69.Kxe6 d3
 70.Nd6 d2
 71.Nc4 d1=Q
+0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2017.01.20"]
+[Round "-"]
+[White "DeeperBlue16"]
+[Black "egor_tensin"]
+[Result "0-1"]
+[WhiteElo "1609"]
+[BlackElo "1667"]
+[TimeControl "900+10"]
+[Termination "egor_tensin won by checkmate"]
+[Annotator "egor_tensin"]
+[CurrentPosition "6kr/1pp5/p2p4/3PP1P1/2RQ3P/5rq1/PP4K1/7R w - - 1 31"]
+
+{The first 15+10 game I've played after a long blitz vacation. I would've lost
+like a billion rating points in case of a loss, hence the relief after I won.
+Also, a pretty pawn sacrifice (like a bait) that my opponent swallowed,
+allowing me to checkmate him.}
+1.d4 Nf6
+2.c4 g6
+3.Nc3 Bg7
+4.e4 d6
+5.Be2 Nbd7
+6.Bg5 O-O
+7.Qd2 e5
+8.Nf3 exd4
+9.Nxd4 Qe8
+10.f3 a6
+11.h4 h5
+12.Bh6 Ne5
+13.Nd5 Nxd5
+14.cxd5 f5
+15.Bxg7 Kxg7
+16.Rc1 Rf7 {It's been another terribly played King's Indian so far. My opponent
+has a significant advantage, but goes a bit astray.}
+17.g4 {He's not gonna castle queenside, so I thought this only weakened his
+King and gave me some chances.}
+17...fxg4
+18.f4 Nf3+
+19.Nxf3 gxf3
+20.Bxf3 Bg4
+21.Bxg4 hxg4 {My plan was to attack his somewhat weakened e-, f- and h-pawns.}
+  (21...Qxe4+ {Yeah, I don't notice things like that. What a sneaky check!})
+22.Rc4 Qe7 {As per usual, I went wrong on almost every move in this endgame.}
+  ({For example, I thought that} 22...b5 {is refuted by} 23.Rc6 {attacking the
+weakest of my pawns on c7, but in fact it runs into the same check I missed on
+the previous move.})
+23.Kf2 Rh8
+24.Kg3 {I missed the whole plan of waking the King towards g4, causing me to
+enter the panic mode. Curiously enough, I was at least equal (mostly better)
+since 17.g4. Anyway, out of desperation, I found the only move which, I
+thought, would keep me in the game. In fact, it simply gives me quite a huge
+advantage, according to my engine.}
+24...g5 {I'm kind of proud of it, I don't make moves like this every day.}
+25.Qd4+ Kg8
+26.fxg5 Qf8
+27.Kxg4 {My point exactly. I saw this, and the finish.}
+  ({No idea how the game would've ended had he played something like} 27.Rc3
+{instead.})
+27...Rf4+
+28.Kg3 Rf3+
+29.Kg2 Qf4
+30.e5 Qg3#
 0-1
