@@ -1,0 +1,59 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2017.01.20"]
+[Round "-"]
+[White "magneticvs"]
+[Black "egor_tensin"]
+[Result "0-1"]
+[WhiteElo "1355"]
+[BlackElo "1414"]
+[TimeControl "300+5"]
+[Termination "egor_tensin won by resignation"]
+[Annotator "egor_tensin"]
+[CurrentPosition "R7/1r2npkp/N3p1p1/2N1P3/5P2/1pn3P1/7P/7K w - - 0 40"]
+
+{Just a pretty rook sacrifice made on very limited time. Also a decent game
+overall, but the most memorable thing was that I didn't bungle it in my
+usual time trouble.}
+1.e4 c6
+2.Nf3 d5
+3.e5 Bg4
+4.Be2 Nd7
+5.d4 e6
+6.Bg5 Be7
+7.Bxe7 Nxe7
+8.Nbd2 c5
+9.c4 cxd4
+10.Nxd4 Bxe2
+11.Qxe2 O-O
+12.cxd5 Nxd5
+13.O-O Rc8
+14.Rac1 Qb6
+15.N4b3 a6
+16.Kh1 Nf4
+17.Qe4 Rxc1
+18.Nxc1 Ng6
+19.Nc4 Qb4
+20.f4 Nb6
+21.Nd6 Qxe4
+22.Nxe4 Nd5
+23.g3 b5
+24.Nb3 Rc8
+25.Nec5 Rc6
+26.Rc1 Nge7
+27.Nd4 Rb6
+28.Nd7 Rb7
+29.Nc5 Rc7
+30.b4 Nxb4
+31.a3 Nbd5
+32.Ndb3 a5
+33.Nd4 b4
+34.axb4 axb4
+35.Ndb3 Nc3
+36.Ra1 g6
+37.Ra8+ Kg7
+38.Na6 Rb7
+39.Nbc5 b3 {A decision made in less than 10 seconds after playing on increment
+for the last 15 moves or so. I'm hoping all the tactics training is finally
+kicking in.}
+0-1
