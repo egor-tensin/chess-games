@@ -1,0 +1,55 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2017.01.21"]
+[Round "-"]
+[White "rknight"]
+[Black "egor_tensin"]
+[Result "0-1"]
+[WhiteElo "1533"]
+[BlackElo "1431"]
+[TimeControl "300+5"]
+[Termination "egor_tensin won by resignation"]
+[Annotator "egor_tensin"]
+[CurrentPosition "8/1Q3pk1/p3p3/1p1n4/2r4P/P5P1/1P6/5q1K w - - 0 33"]
+
+{Continuing my winning streak against 1500+ players. This game was memorable
+becase I played virtually perfectly by my standards. Lichess' computer analysis
+said I only made a single inaccuracy during the entire game (with no mistakes
+and no blunders), which I'm quite proud of.}
+1.e4 c6
+2.Nf3 d5
+3.exd5 cxd5
+4.d4 Nf6
+5.Bb5+ Bd7
+6.Bxd7+ Nbxd7
+7.O-O e6
+8.Bg5 Be7
+9.c4 dxc4
+10.Qa4 O-O
+11.Qxc4 Nb6
+12.Qd3 Nbd5
+13.a3 Rc8
+14.Nbd2 a6
+15.Ne5 Nd7
+16.Bxe7 Qxe7
+17.Ndf3 b5
+18.h4 Nxe5
+19.dxe5 h6
+20.g3 Rc7
+21.Nh2 Rfc8
+22.Ng4 Rc2
+23.Rab1 R8c4
+24.Qf3 {I'm obviously much better here. However, I chose a wrong plan.} h5
+25.Nf6+ {Uncalled for.}
+  ({I obviously wanted to meet} 25.Ne3 {by} Nxe3 26.Qxe3 {and something like}
+Qc5 {But knowing my history with major piece endings, I probably would've lost
+this one.})
+25...gxf6
+26.Qxh5 fxe5
+27.Qxe5 Qf6
+28.Qb8+ Kg7 {White has no attack here, so it's completely over.}
+29.Qb7 Qg6
+30.Kh1 Rxf2 {I rarely get to make moves like this.}
+31.Rxf2 Qxb1+
+32.Rf1 Qxf1+
+0-1

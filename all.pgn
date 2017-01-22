@@ -1310,3 +1310,124 @@ usual time trouble.}
 for the last 15 moves or so. I'm hoping all the tactics training is finally
 kicking in.}
 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2017.01.21"]
+[Round "-"]
+[White "allupygus"]
+[Black "egor_tensin"]
+[Result "0-1"]
+[WhiteElo "1543"]
+[BlackElo "1420"]
+[TimeControl "300+5"]
+[Termination "egor_tensin won by checkmate"]
+[Annotator "egor_tensin"]
+[CurrentPosition "2r3k1/5pbp/4pRp1/1pPbP3/3P4/Q1B5/6qP/R5K1 w - - 10 33"]
+
+{Winning a blitz game against a 1500+-rated player + doing this an exchange
+down is something to remember for me. Also, I'm on a winning streak, so every
+game is precious.}
+1.Nf3 Nf6
+2.d4 g6
+3.c4 b6
+4.Nc3 Bb7
+5.e3 Bg7
+6.Be2 O-O
+7.O-O d6
+8.b4 c5
+9.bxc5 dxc5
+10.Bb2 cxd4
+11.exd4 e6
+12.Ne5 Nbd7
+13.f4 Rc8
+14.Nb5 Nxe5
+15.fxe5 Ne4
+16.Bf3
+  (16.Nxa7 {is just a free pawn.})
+16...a6
+  (16...Rxc4 {is just a free pawn.})
+17.Bxe4 Bxe4
+18.Nd6 Bc6
+19.Nxc8 Qxc8 {I'm simply down an exchange for nothing. I didn't resign since I
+thought I would have some chances with my unopposed white squared bishop, which
+somehow proved to be correct in this game.}
+20.Qb3 {Playing into my hand.} b5 {Now my bishop is getting really strong.}
+21.c5 Bd5
+22.Qc3 Qb7
+23.Ba3 Rc8
+24.Bb4 Bxg2 {Now I have the upper hand, according to my engine.}
+25.Rf2 Bd5
+26.a4 Bc4
+27.axb5 axb5
+28.Qa3 Qe4 {The kind of positions I lose routinely, having the extra exchange.}
+29.Bc3 {The fatal mistake.} Bd5
+30.Kf1 Bc4+
+31.Kg1 Bd5 {I thought about taking a draw in case my opponent repeats (as
+usual, I was in time trouble), but probably I would play on, since my opponent
+can't really do anything.}
+32.Rf6 {Just silly.}
+  (32.Kf1 Bh6 {was the move I intended to play, and it gets really sharp.}
+    (32...Ra8 {is even stronger, and sharper. Not at all sure I would've won
+this. For example, if White tries to keep his extra material, he gets mated
+rather quickly, but that would've been very tricky to play out.} 33.Qb2 Qh1+
+34.Ke2 Bc4+ 35.Ke3 Bh6+ 36.Rf4 Rxa1 37.Qxa1 Qxh2 38.Qa8+ Kg7 39.Qf3 Bxf4+)
+33.Re1 Qd3+ 34.Kg1 Ra8 {with decisive effect.})
+32...Qg2#
+0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2017.01.21"]
+[Round "-"]
+[White "rknight"]
+[Black "egor_tensin"]
+[Result "0-1"]
+[WhiteElo "1533"]
+[BlackElo "1431"]
+[TimeControl "300+5"]
+[Termination "egor_tensin won by resignation"]
+[Annotator "egor_tensin"]
+[CurrentPosition "8/1Q3pk1/p3p3/1p1n4/2r4P/P5P1/1P6/5q1K w - - 0 33"]
+
+{Continuing my winning streak against 1500+ players. This game was memorable
+becase I played virtually perfectly by my standards. Lichess' computer analysis
+said I only made a single inaccuracy during the entire game (with no mistakes
+and no blunders), which I'm quite proud of.}
+1.e4 c6
+2.Nf3 d5
+3.exd5 cxd5
+4.d4 Nf6
+5.Bb5+ Bd7
+6.Bxd7+ Nbxd7
+7.O-O e6
+8.Bg5 Be7
+9.c4 dxc4
+10.Qa4 O-O
+11.Qxc4 Nb6
+12.Qd3 Nbd5
+13.a3 Rc8
+14.Nbd2 a6
+15.Ne5 Nd7
+16.Bxe7 Qxe7
+17.Ndf3 b5
+18.h4 Nxe5
+19.dxe5 h6
+20.g3 Rc7
+21.Nh2 Rfc8
+22.Ng4 Rc2
+23.Rab1 R8c4
+24.Qf3 {I'm obviously much better here. However, I chose a wrong plan.} h5
+25.Nf6+ {Uncalled for.}
+  ({I obviously wanted to meet} 25.Ne3 {by} Nxe3 26.Qxe3 {and something like}
+Qc5 {But knowing my history with major piece endings, I probably would've lost
+this one.})
+25...gxf6
+26.Qxh5 fxe5
+27.Qxe5 Qf6
+28.Qb8+ Kg7 {White has no attack here, so it's completely over.}
+29.Qb7 Qg6
+30.Kh1 Rxf2 {I rarely get to make moves like this.}
+31.Rxf2 Qxb1+
+32.Rf1 Qxf1+
+0-1

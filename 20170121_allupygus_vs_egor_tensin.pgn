@@ -1,0 +1,64 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2017.01.21"]
+[Round "-"]
+[White "allupygus"]
+[Black "egor_tensin"]
+[Result "0-1"]
+[WhiteElo "1543"]
+[BlackElo "1420"]
+[TimeControl "300+5"]
+[Termination "egor_tensin won by checkmate"]
+[Annotator "egor_tensin"]
+[CurrentPosition "2r3k1/5pbp/4pRp1/1pPbP3/3P4/Q1B5/6qP/R5K1 w - - 10 33"]
+
+{Winning a blitz game against a 1500+-rated player + doing this an exchange
+down is something to remember for me. Also, I'm on a winning streak, so every
+game is precious.}
+1.Nf3 Nf6
+2.d4 g6
+3.c4 b6
+4.Nc3 Bb7
+5.e3 Bg7
+6.Be2 O-O
+7.O-O d6
+8.b4 c5
+9.bxc5 dxc5
+10.Bb2 cxd4
+11.exd4 e6
+12.Ne5 Nbd7
+13.f4 Rc8
+14.Nb5 Nxe5
+15.fxe5 Ne4
+16.Bf3
+  (16.Nxa7 {is just a free pawn.})
+16...a6
+  (16...Rxc4 {is just a free pawn.})
+17.Bxe4 Bxe4
+18.Nd6 Bc6
+19.Nxc8 Qxc8 {I'm simply down an exchange for nothing. I didn't resign since I
+thought I would have some chances with my unopposed white squared bishop, which
+somehow proved to be correct in this game.}
+20.Qb3 {Playing into my hand.} b5 {Now my bishop is getting really strong.}
+21.c5 Bd5
+22.Qc3 Qb7
+23.Ba3 Rc8
+24.Bb4 Bxg2 {Now I have the upper hand, according to my engine.}
+25.Rf2 Bd5
+26.a4 Bc4
+27.axb5 axb5
+28.Qa3 Qe4 {The kind of positions I lose routinely, having the extra exchange.}
+29.Bc3 {The fatal mistake.} Bd5
+30.Kf1 Bc4+
+31.Kg1 Bd5 {I thought about taking a draw in case my opponent repeats (as
+usual, I was in time trouble), but probably I would play on, since my opponent
+can't really do anything.}
+32.Rf6 {Just silly.}
+  (32.Kf1 Bh6 {was the move I intended to play, and it gets really sharp.}
+    (32...Ra8 {is even stronger, and sharper. Not at all sure I would've won
+this. For example, if White tries to keep his extra material, he gets mated
+rather quickly, but that would've been very tricky to play out.} 33.Qb2 Qh1+
+34.Ke2 Bc4+ 35.Ke3 Bh6+ 36.Rf4 Rxa1 37.Qxa1 Qxh2 38.Qa8+ Kg7 39.Qf3 Bxf4+)
+33.Re1 Qd3+ 34.Kg1 Ra8 {with decisive effect.})
+32...Qg2#
+0-1
