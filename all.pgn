@@ -1431,3 +1431,43 @@ this one.})
 31.Rxf2 Qxb1+
 32.Rf1 Qxf1+
 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2017.01.28"]
+[Round "-"]
+[White "egor_tensin"]
+[Black "NeverMindDude"]
+[Result "1-0"]
+[WhiteElo "1422"]
+[BlackElo "1392"]
+[TimeControl "300+5"]
+[Termination "egor_tensin won by resignation"]
+[Annotator "egor_tensin"]
+[CurrentPosition "Qn3rk1/3nppbp/6p1/3p4/3P4/4BNP1/1P2PPBP/5RK1 b - - 0 21"]
+
+{I think it was like the first time I trapped my opponent's Queen via Na4, etc.
+It's a maneuver I've seen quite a lot, but I don't think I ever managed to pull
+this off before.}
+1.c4 g6
+2.g3 Bg7
+3.Bg2 c6
+4.Nf3 d5
+5.cxd5 cxd5
+6.d4 Nc6
+7.O-O Nf6
+8.Nc3 O-O
+9.a3 a6
+10.Bf4 Nh5
+11.Be3 Nf6
+12.Rc1 Qb6
+13.Na4 Qb5
+14.Rc5 {kek} Bd7
+15.Rxb5 axb5
+16.Nc5 b4
+17.Nxd7 Nxd7
+18.axb4 Nxb4
+19.Qb3 Nc6
+20.Qxb7 Ncb8
+21.Qxa8
+1-0
