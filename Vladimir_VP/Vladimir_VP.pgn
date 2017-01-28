@@ -10,7 +10,6 @@
 [TimeControl "900+10"]
 [Termination "Vladimir_VP won by resignation"]
 [Annotator "egor_tensin"]
-[CurrentPosition "1nb3k1/6pp/2p3q1/3p4/1p3Q2/1B1P2N1/1PP3PP/2B3K1 b - - 3 23"]
 
 {The first time I played vs. by far the most frequent opponent of mine,
 Vladimir_VP. We played 23 games, the score being +9-9=5. His account was later
@@ -58,7 +57,6 @@ first game ended after a silly blunder by me.}
 [TimeControl "900+10"]
 [Termination "Game drawn by agreement"]
 [Annotator "egor_tensin"]
-[CurrentPosition "8/p7/1p3k2/1Pp3p1/2PpBn1r/P2P1PK1/R7/8 b - - 8 46"]
 
 {The second game on the first day we "met". The first half a point I salvaged
 from him.}
@@ -131,7 +129,6 @@ blunder though.} Rh3+
 [TimeControl "900+10"]
 [Termination "Vladimir_VP won by resignation"]
 [Annotator "egor_tensin"]
-[CurrentPosition "1rR3k1/5p2/1q2p1p1/3P3p/1P5P/2Q5/5PP1/6K1 b - - 2 49"]
 
 1.e4 d5 {Can't remember the last time I played the Scandinavian.}
 2.exd5 Qxd5
@@ -203,7 +200,6 @@ blunder though.} Rh3+
 [TimeControl "900+10"]
 [Termination "egor_tensin won by resignation"]
 [Annotator "egor_tensin"]
-[CurrentPosition "8/2k5/1p1p2P1/pKpP1p2/P4P1B/8/8/8 b - - 0 46"]
 
 {The first win against Vladimir!}
 1.c4 e5
@@ -267,7 +263,6 @@ blunder though.} Rh3+
 [TimeControl "900+10"]
 [Termination "egor_tensin won by resignation"]
 [Annotator "egor_tensin"]
-[CurrentPosition "8/5p1p/p5p1/8/2p2k2/n1K4P/6P1/8 w - - 4 46"]
 
 {Can't remember a thing about this game.}
 1.e4 e5
@@ -329,7 +324,6 @@ blunder though.} Rh3+
 [TimeControl "900+10"]
 [Termination "egor_tensin won by resignation"]
 [Annotator "egor_tensin"]
-[CurrentPosition "6k1/1P6/5p1P/8/3p1K2/3B4/8/8 b - - 0 52"]
 
 {I remember the struggle to win the bishop ending, but nothing much apart from
 that. Pretty accurate play, actually.}
@@ -399,7 +393,6 @@ that. Pretty accurate play, actually.}
 [TimeControl "900+10"]
 [Termination "egor_tensin won by resignation"]
 [Annotator "egor_tensin"]
-[CurrentPosition "rnbqr1k1/ppp2p1p/5bp1/4p3/2P1Q3/2NBPN2/PP3PPP/R4RK1 w - - 0 13"]
 
 {The last game of the three-game winning streak I pulled off against Vladimir.}
 1.d4 Nf6
@@ -513,7 +506,6 @@ draw somewhere around here! Gutsy.}
 [TimeControl "900+10"]
 [Termination "Game drawn by repetition"]
 [Annotator "egor_tensin"]
-[CurrentPosition "1K2k3/1P3pp1/8/8/8/8/2r4p/3R4 b - - 20 69"]
 
 {A very messy game. I was completely and utterly lost, but played on for the
 sake of it and convinced my opponent to accept a draw offer. By far the
@@ -616,7 +608,6 @@ g5 67.Rh1 {and his rook is overloaded.})
 [TimeControl "900+10"]
 [Termination "egor_tensin won by resignation"]
 [Annotator "egor_tensin"]
-[CurrentPosition "r3r1k1/p1pq1pp1/2ppb2p/4P3/N3P3/1PQ2N1P/P1P1nPP1/R4RK1 w - - 1 16"]
 
 {I haven't got much to say about this game.}
 1.e4 e5
@@ -648,7 +639,6 @@ g5 67.Rh1 {and his rook is overloaded.})
 [TimeControl "900+10"]
 [Termination "egor_tensin won by resignation"]
 [Annotator "egor_tensin"]
-[CurrentPosition "r1r3k1/2n1q1p1/3b1pP1/1p2pP1Q/p1ppP3/P2P3R/1PPB2BP/R5K1 b - - 2 26"]
 
 {A very nice blocked position opened up after sacrificing on h6.}
 1.g3 e5
@@ -692,7 +682,6 @@ having a very hard time believing this.} Qe7
 [TimeControl "900+10"]
 [Termination "egor_tensin won on time"]
 [Annotator "egor_tensin"]
-[CurrentPosition "8/1n3p2/3Pk1pp/1N6/4K1P1/8/7P/8 w - - 1 59"]
 
 {We both played equally badly in this game. Didn't make any huge blunders, at
 least. The most memorable thing was my opponent losing on time and
@@ -769,7 +758,6 @@ rage-quitting.}
 [TimeControl "900+10"]
 [Termination "Game drawn by repetition"]
 [Annotator "egor_tensin"]
-[CurrentPosition "3n4/3Br3/1p1rPk1p/p5pP/P3R1P1/8/1P3RK1/8 b - - 10 50"]
 
 {Can't believe I've let such an advantage slip.}
 1.Nf3 Nc6
@@ -841,7 +829,6 @@ advantage.}
 [TimeControl "900+10"]
 [Termination "Vladimir_VP won by checkmate"]
 [Annotator "egor_tensin"]
-[CurrentPosition "r2r2b1/7p/5R2/3k4/2PpNP2/1P1P4/P5KP/R7 b - - 0 30"]
 
 {Can't remember why I played out the last 15 or so moves.}
 1.e4 e5
@@ -888,7 +875,6 @@ advantage.}
 [TimeControl "900+10"]
 [Termination "Vladimir_VP won on time"]
 [Annotator "egor_tensin"]
-[CurrentPosition "6k1/pp3ppp/4b3/4p3/4P3/P1P3P1/r4PBP/4R1K1 w - - 3 21"]
 
 {A very smooth grind by my opponent. I lost on time, but I was lost anyway.}
 1.Nf3 d5
@@ -925,7 +911,6 @@ advantage.}
 [TimeControl "900+10"]
 [Termination "egor_tensin won by resignation"]
 [Annotator "egor_tensin"]
-[CurrentPosition "1r6/6p1/p2k1p1p/8/KPP5/5P2/6P1/8 w - - 3 47"]
 
 {This game shan't be annotated.}
 1.e4 e5
@@ -1006,7 +991,6 @@ advantage.}
 [TimeControl "900+10"]
 [Termination "Vladimir_VP won by checkmate"]
 [Annotator "egor_tensin"]
-[CurrentPosition "2rr2k1/pp1bbppp/8/4P3/4P3/1P1pB1P1/P1q3BP/R2QR1K1 b - - 1 19"]
 
 {Just a completely one-sided crush.}
 1.Nf3 d5
@@ -1050,7 +1034,6 @@ advantage.}
 [TimeControl "900+10"]
 [Termination "Vladimir_VP won by resignation"]
 [Annotator "egor_tensin"]
-[CurrentPosition "r2qr1k1/p2n1pbp/4p1p1/n1p1B3/Q3P3/2N2N2/PPP2PPP/3R1RK1 b - - 1 16"]
 
 1.e4 g6
 2.d4 Bg7
@@ -1082,7 +1065,6 @@ advantage.}
 [TimeControl "900+10"]
 [Termination "egor_tensin won by resignation"]
 [Annotator "egor_tensin"]
-[CurrentPosition "5k2/5P2/6K1/8/8/8/8/8 b - - 0 77"]
 
 {What a crazy, wonderful game! Despite the sick material disbalance, my engine
 evaluates the position as being equal throughout most of the middlegame.}
@@ -1178,7 +1160,6 @@ dance begins!} Rf8
 [TimeControl "900+10"]
 [Termination "Game drawn by repetition"]
 [Annotator "egor_tensin"]
-[CurrentPosition "2k5/p1p2pp1/5qp1/N2r1n2/P2Pp3/1PQ5/3R1PPP/6K1 w - - 11 30"]
 
 {A very hard-fought draw, but not a very interesting one.}
 1.e4 e5
@@ -1224,7 +1205,6 @@ dance begins!} Rf8
 [TimeControl "900+10"]
 [Termination "Vladimir_VP won by resignation"]
 [Annotator "egor_tensin"]
-[CurrentPosition "r3r1k1/ppp2ppn/2nq4/2b1p1N1/2P3b1/P3P1P1/1B1N1P1P/R2QR1K1 w - - 0 17"]
 
 {I'm stupid.}
 1.c4 d5
@@ -1257,7 +1237,6 @@ dance begins!} Rf8
 [TimeControl "900+10"]
 [Termination "Vladimir_VP won by resignation"]
 [Annotator "egor_tensin"]
-[CurrentPosition "1q2rbk1/2pr1ppb/Q1Rp3p/1p1P4/4PB2/1R1B1P2/PP4PP/6K1 b - - 0 25"]
 
 {I was completely and very quickly outplayed in this one.}
 1.e4 e5
@@ -1299,7 +1278,6 @@ dance begins!} Rf8
 [TimeControl "900+10"]
 [Termination "Vladimir_VP won by resignation"]
 [Annotator "egor_tensin"]
-[CurrentPosition "2k1r3/ppp4p/2p2p2/8/1n2P3/3P1PP1/PPP2K1P/R7 w - - 1 21"]
 
 1.Nf3 e5
 2.Nxe5 Nc6
@@ -1336,7 +1314,6 @@ at this point.} Nb4
 [TimeControl "900+10"]
 [Termination "Game drawn by insufficient material"]
 [Annotator "egor_tensin"]
-[CurrentPosition "8/8/8/2K2k2/5b2/8/8/8 b - - 0 69"]
 
 {The last game we played. Accurate play, and a bishop vs. knight ending with an
 extra pawn I didn't convert.}

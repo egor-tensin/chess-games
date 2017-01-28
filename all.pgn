@@ -202,7 +202,6 @@ material, so scared myself away from it.})
 [TimeControl "900+10"]
 [Termination "egor_tensin won by resignation"]
 [Annotator "egor_tensin"]
-[CurrentPosition "3r2k1/pQ1R1ppp/7q/4p3/2P5/6P1/PP3PBP/4R1K1 b - - 0 23"]
 
 {A silly game. My opponent blundered a piece, but the finish was nice and very
 accurate.}
@@ -243,7 +242,6 @@ accurate.}
 [TimeControl "900+10"]
 [Termination "egor_tensin won by checkmate"]
 [Annotator "egor_tensin"]
-[CurrentPosition "Q7/8/k6p/2K4P/8/8/8/3B4 b - - 0 69"]
 
 {An exhausting bishop ending I was lucky to win.}
 1.c4 Nf6
@@ -346,7 +344,6 @@ at all possible.})
 [TimeControl "900+10"]
 [Termination "egor_tensin won by resignation"]
 [Annotator "egor_tensin"]
-[CurrentPosition "r4rk1/p2q1pb1/bpn1pP2/3pP1Qp/3P4/5N2/PP3PB1/RN2R1K1 b - - 0 21"]
 
 {A quick kingside attack.}
 1.Nf3 Nf6
@@ -384,7 +381,6 @@ at all possible.})
 [TimeControl "900+10"]
 [Termination "egor_tensin won by resignation"]
 [Annotator "egor_tensin"]
-[CurrentPosition "r4k2/1pp2p1p/1n3q2/pP1p4/P4NR1/3P1K2/2P5/b7 w - - 0 32"]
 
 {A bloodbath arising from the Sololsky.}
 1.b4 e5
@@ -432,7 +428,6 @@ at all possible.})
 [TimeControl "900+10"]
 [Termination "egor_tensin won by resignation"]
 [Annotator "egor_tensin"]
-[CurrentPosition "r3kn2/2p1q3/2b4Q/pp3Pp1/8/PB4BP/1P3RP1/3R2K1 b - - 0 30"]
 
 {A very nice Italian game. I think I made virtually no or very few mistakes.
 The bishop pair reigns supreme.}
@@ -480,7 +475,6 @@ The bishop pair reigns supreme.}
 [TimeControl "900+10"]
 [Termination "egor_tensin won by resignation"]
 [Annotator "egor_tensin"]
-[CurrentPosition "5R2/4k3/2b3P1/1p1pP3/p2P4/P7/6KP/8 w - - 1 40"]
 
 {A French defense with a nice kingside attack. Not the best moves, but the
 advantage was never let go.}
@@ -537,7 +531,6 @@ advantage was never let go.}
 [TimeControl "900+10"]
 [Termination "egor_tensin won by checkmate"]
 [Annotator "egor_tensin"]
-[CurrentPosition "5rnk/8/1p1R3p/pP1Pp2Q/P1P2b2/5P1P/7q/7K w - - 2 43"]
 
 {A very tough defense amounting in the eventual victory. Curiously, engines
 seem to think it wasn't all that bad for Black.}
@@ -599,7 +592,6 @@ and Qb1.}
 [TimeControl "900+10"]
 [Termination "egor_tensin won by checkmate"]
 [Annotator "egor_tensin"]
-[CurrentPosition "6k1/2p3p1/1p3p2/4p1p1/1bb4P/4BP2/rqNK1QP1/3R3R w - - 0 30"]
 
 {One of the most exciting games I've played.}
 1.e4 e5
@@ -646,7 +638,6 @@ first proper opening I learned.}
 [TimeControl "900+10"]
 [Termination "egor_tensin won by resignation"]
 [Annotator "egor_tensin"]
-[CurrentPosition "8/1p3p2/p1p2P2/P1P5/1q1PK3/5P2/8/6k1 w - - 0 50"]
 
 {A completely lost pawn endgame I was lucky to win.}
 1.e4 e5
@@ -731,7 +722,6 @@ it's Black who's winning. The rest is silly.} Kh2
 [TimeControl "900+10"]
 [Termination "egor_tensin won by resignation"]
 [Annotator "egor_tensin"]
-[CurrentPosition "1r1q4/1p3Q2/p1pkR3/P7/1P1P1Pp1/8/2P2P1P/6K1 b - - 11 36"]
 
 {I was so happy to win a game against a 1800-rated player (my opponent was
 rated at 1809 when the game started) only to realized after the game it was
@@ -797,7 +787,6 @@ pawn on g4 with a check or deliver a deadly check with Re3+.} Ke7
 [TimeControl "900+10"]
 [Termination "egor_tensin won by resignation"]
 [Annotator "egor_tensin"]
-[CurrentPosition "r4kr1/1pq2p2/p2p3B/8/2P3Q1/6P1/PP3P1P/R4RK1 b - - 2 27"]
 
 {Finally a decent (more fun really) game after a streak of non-stop
 traumatizing losses.}
@@ -845,7 +834,6 @@ traumatizing losses.}
 [TimeControl "300+5"]
 [Termination "egor_tensin won by resignation"]
 [Annotator "egor_tensin"]
-[CurrentPosition "8/8/1pk5/8/2P5/2K1P1p1/8/8 w - - 0 47"]
 
 {A sort of interesting pawn endgame, following a routine rook endgame I somehow
 didn't lose.}
@@ -922,7 +910,6 @@ opposition.} 46.Kb2 Ke5 {The last attempt, going for the h-pawn.}
 [TimeControl "300+5"]
 [Termination "egor_tensin won by checkmate"]
 [Annotator "egor_tensin"]
-[CurrentPosition "8/8/8/8/3b4/8/2k5/K1n5 w - - 18 65"]
 
 {A queen trap, but the most remarkable thing about this game for me personally
 was that it was the first time I managed to pull off a N+B checkmate in a real
@@ -1010,7 +997,6 @@ Bd4
 [TimeControl "300+5"]
 [Termination "egor_tensin won by checkmate"]
 [Annotator "egor_tensin"]
-[CurrentPosition "6k1/pp3p2/2n3P1/2Pp4/8/2P5/Pr6/3Q1K1r w - - 1 31"]
 
 1.c3 e5
 2.h3 d5
@@ -1069,7 +1055,6 @@ White!})
 [TimeControl "300+5"]
 [Termination "egor_tensin won by checkmate"]
 [Annotator "egor_tensin"]
-[CurrentPosition "r3k2r/p1p3pp/b1p1qn2/3p1p2/3N4/1P2P1bP/PBPP4/RN1QK2R w KQkq - 2 14"]
 
 {What a checkmate! The first time I checkmated somebody using only the
 bishops in a middlegame! And I managed to avoid any bumps during the entire
@@ -1101,7 +1086,6 @@ bishops in a middlegame! And I managed to avoid any bumps during the entire
 [TimeControl "300+5"]
 [Termination "egor_tensin won by resignation"]
 [Annotator "egor_tensin"]
-[CurrentPosition "8/6b1/4Kpp1/7p/2N2k2/8/8/3q4 w - - 2 72"]
 
 {Just a nice game I played after blundering mate on f2 against the same
 opponent.}
@@ -1198,7 +1182,6 @@ on d2.})
 [TimeControl "900+10"]
 [Termination "egor_tensin won by checkmate"]
 [Annotator "egor_tensin"]
-[CurrentPosition "6kr/1pp5/p2p4/3PP1P1/2RQ3P/5rq1/PP4K1/7R w - - 1 31"]
 
 {The first 15+10 game I've played after a long blitz vacation. I would've lost
 like a billion rating points in case of a loss, hence the relief after I won.
@@ -1263,7 +1246,6 @@ advantage, according to my engine.}
 [TimeControl "300+5"]
 [Termination "egor_tensin won by resignation"]
 [Annotator "egor_tensin"]
-[CurrentPosition "R7/1r2npkp/N3p1p1/2N1P3/5P2/1pn3P1/7P/7K w - - 0 40"]
 
 {Just a pretty rook sacrifice made on very limited time. Also a decent game
 overall, but the most memorable thing was that I didn't bungle it in my
@@ -1323,7 +1305,6 @@ kicking in.}
 [TimeControl "300+5"]
 [Termination "egor_tensin won by checkmate"]
 [Annotator "egor_tensin"]
-[CurrentPosition "2r3k1/5pbp/4pRp1/1pPbP3/3P4/Q1B5/6qP/R5K1 w - - 10 33"]
 
 {Winning a blitz game against a 1500+-rated player + doing this an exchange
 down is something to remember for me. Also, I'm on a winning streak, so every
@@ -1388,7 +1369,6 @@ rather quickly, but that would've been very tricky to play out.} 33.Qb2 Qh1+
 [TimeControl "300+5"]
 [Termination "egor_tensin won by resignation"]
 [Annotator "egor_tensin"]
-[CurrentPosition "8/1Q3pk1/p3p3/1p1n4/2r4P/P5P1/1P6/5q1K w - - 0 33"]
 
 {Continuing my winning streak against 1500+ players. This game was memorable
 becase I played virtually perfectly by my standards. Lichess' computer analysis
@@ -1444,7 +1424,6 @@ this one.})
 [TimeControl "300+5"]
 [Termination "egor_tensin won by resignation"]
 [Annotator "egor_tensin"]
-[CurrentPosition "Qn3rk1/3nppbp/6p1/3p4/3P4/4BNP1/1P2PPBP/5RK1 b - - 0 21"]
 
 {I think it was like the first time I trapped my opponent's Queen via Na4, etc.
 It's a maneuver I've seen quite a lot, but I don't think I ever managed to pull
