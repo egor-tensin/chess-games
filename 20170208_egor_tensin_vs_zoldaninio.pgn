@@ -1,0 +1,56 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2017.02.08"]
+[Round "-"]
+[White "egor_tensin"]
+[Black "zoldaninio"]
+[Result "1-0"]
+[WhiteElo "1407"]
+[BlackElo "1461"]
+[TimeControl "300+5"]
+[Termination "egor_tensin won by resignation"]
+[Annotator "egor_tensin"]
+
+{An example of how dangerous rook endgames can be.}
+1.d4 f5
+2.c4 Nf6
+3.Nc3 e6
+4.Bg5 Be7
+5.g3 O-O
+6.Bg2 c6
+7.e3 d5
+8.c5 Nbd7
+9.Nf3 Ne4
+10.Bxe7 Qxe7
+11.O-O e5
+12.dxe5 Nxe5
+13.Nxe5 Qxe5
+14.Nxe4 fxe4
+15.b4 h5
+16.h4 Bg4
+17.Qd4 Qxd4
+18.exd4 Bf3
+19.Rfe1 Bxg2
+20.Kxg2 Rf3
+21.Re3 Raf8 {I am so lost.}
+22.Rf1 Kh7
+23.a4 Kh6
+24.b5 g5
+25.hxg5+ Kxg5
+26.b6 axb6? {It seems like my opponent didn't see the threat. Can't blame him,
+I wouldn't have seen it either.}
+27.cxb6 Kg4
+28.a5 h4
+29.gxh4 Kh5? {Overly cautious? I don't know.}
+  (29...Kxh4)
+30.Rxf3 Rxf3
+31.Ra1 Rd3
+32.a6 bxa6
+33.Rb1 {The only winning move, but it's sufficient.} Rf3
+34.b7 Rf8
+35.b8=Q Rxb8
+36.Rxb8 Kxh4
+37.Rc8 Kg4
+38.Rxc6 Kf4
+39.Rxa6
+1-0

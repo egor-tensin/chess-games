@@ -1,0 +1,45 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2017.02.09"]
+[Round "-"]
+[White "egor_tensin"]
+[Black "probinkhaniksr"]
+[Result "1-0"]
+[WhiteElo "1442"]
+[BlackElo "1459"]
+[TimeControl "300+5"]
+[Termination "egor_tensin won by checkmate"]
+[Annotator "egor_tensin"]
+
+{I'm trying to switch to 1.d4 now, so I'm always scared when my opponents play
+lines I don't know. Here, an attempt to hold on to the "sacrificed" pawn was
+refuted (taking into account our modest ratings). I'm putting a lot of hope
+into thinking that the level of my play is now sufficient to refute these
+unsound attempts.}
+1.d4 d5
+2.c4 dxc4
+3.e4 b5
+4.Nc3 a6
+5.Bf4 e6
+6.Nf3 c6
+7.Be2 Bb7
+8.O-O Bd6
+9.e5 Bc7
+10.Qd2 Ne7
+11.Rad1 Ng6
+12.Bg5 Qd7
+13.Ne4 O-O
+14.Nc5 Qc8
+15.h4 Re8
+16.h5 Nf8
+17.h6 Nbd7
+18.hxg7 Ng6
+19.Nxb7 Qxb7
+20.Bf6 Nb6
+21.Qh6 Nd5
+22.Ng5 Nxf6
+23.exf6 Bh2+
+24.Kh1 Nf8
+25.Qxh2 Nd7
+26.Qxh7#
+1-0

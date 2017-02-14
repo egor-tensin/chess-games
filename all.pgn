@@ -1515,3 +1515,210 @@ this off before.}
 20.Qxb7 Ncb8
 21.Qxa8
 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2017.02.08"]
+[Round "-"]
+[White "egor_tensin"]
+[Black "zoldaninio"]
+[Result "1-0"]
+[WhiteElo "1407"]
+[BlackElo "1461"]
+[TimeControl "300+5"]
+[Termination "egor_tensin won by resignation"]
+[Annotator "egor_tensin"]
+
+{An example of how dangerous rook endgames can be.}
+1.d4 f5
+2.c4 Nf6
+3.Nc3 e6
+4.Bg5 Be7
+5.g3 O-O
+6.Bg2 c6
+7.e3 d5
+8.c5 Nbd7
+9.Nf3 Ne4
+10.Bxe7 Qxe7
+11.O-O e5
+12.dxe5 Nxe5
+13.Nxe5 Qxe5
+14.Nxe4 fxe4
+15.b4 h5
+16.h4 Bg4
+17.Qd4 Qxd4
+18.exd4 Bf3
+19.Rfe1 Bxg2
+20.Kxg2 Rf3
+21.Re3 Raf8 {I am so lost.}
+22.Rf1 Kh7
+23.a4 Kh6
+24.b5 g5
+25.hxg5+ Kxg5
+26.b6 axb6? {It seems like my opponent didn't see the threat. Can't blame him,
+I wouldn't have seen it either.}
+27.cxb6 Kg4
+28.a5 h4
+29.gxh4 Kh5? {Overly cautious? I don't know.}
+  (29...Kxh4)
+30.Rxf3 Rxf3
+31.Ra1 Rd3
+32.a6 bxa6
+33.Rb1 {The only winning move, but it's sufficient.} Rf3
+34.b7 Rf8
+35.b8=Q Rxb8
+36.Rxb8 Kxh4
+37.Rc8 Kg4
+38.Rxc6 Kf4
+39.Rxa6
+1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2017.02.09"]
+[Round "-"]
+[White "egor_tensin"]
+[Black "probinkhaniksr"]
+[Result "1-0"]
+[WhiteElo "1442"]
+[BlackElo "1459"]
+[TimeControl "300+5"]
+[Termination "egor_tensin won by checkmate"]
+[Annotator "egor_tensin"]
+
+{I'm trying to switch to 1.d4 now, so I'm always scared when my opponents play
+lines I don't know. Here, an attempt to hold on to the "sacrificed" pawn was
+refuted (taking into account our modest ratings). I'm putting a lot of hope
+into thinking that the level of my play is now sufficient to refute these
+unsound attempts.}
+1.d4 d5
+2.c4 dxc4
+3.e4 b5
+4.Nc3 a6
+5.Bf4 e6
+6.Nf3 c6
+7.Be2 Bb7
+8.O-O Bd6
+9.e5 Bc7
+10.Qd2 Ne7
+11.Rad1 Ng6
+12.Bg5 Qd7
+13.Ne4 O-O
+14.Nc5 Qc8
+15.h4 Re8
+16.h5 Nf8
+17.h6 Nbd7
+18.hxg7 Ng6
+19.Nxb7 Qxb7
+20.Bf6 Nb6
+21.Qh6 Nd5
+22.Ng5 Nxf6
+23.exf6 Bh2+
+24.Kh1 Nf8
+25.Qxh2 Nd7
+26.Qxh7#
+1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2017.02.12"]
+[Round "-"]
+[White "sauncho"]
+[Black "egor_tensin"]
+[Result "0-1"]
+[WhiteElo "1439"]
+[BlackElo "1413"]
+[TimeControl "300+5"]
+[Termination "egor_tensin won by resignation"]
+[Annotator "egor_tensin"]
+
+{I'm trying to pick up the Karo-Cann, so every game is even more ridiculous
+than it would usually be.}
+1.e4 c6
+2.d4 d5
+3.exd5 cxd5
+4.c3 Nc6
+5.Nf3 Bf5
+6.Bd3 Bxd3
+7.Qxd3 Nf6
+8.Bf4 e6
+9.O-O a6
+10.Re1 Be7
+11.Nbd2 O-O
+12.h3 b5
+13.a3 Bd6
+14.Ne5 Qc7
+15.Ndf3 Bxe5
+16.Nxe5 Nxe5
+17.Bxe5 Qd8
+18.Qg3 Nh5
+19.Qf3 Qg5
+20.Kh1 Nf6
+21.Rg1 h5
+22.Bxf6 gxf6
+23.g4 h4
+24.Raf1 Rac8
+25.Qe2 Kg7? {Overprotecting the pawn on g7! Solid.}
+  (25...e5! {was better, to prevent the next move by White.})
+26.f4 Qh6
+27.Qf3 Kh7
+28.g5 fxg5
+29.fxg5 Qg6
+30.Qg4 Rh8 {Every move was terrible, but with an idea in mind.}
+31.Qxh4+ {I wanted to bait my opponent into opening up the h-file, hoping I
+would get some counterplay.} Kg7
+32.Qg4 Rh5
+33.Rg3 Rch8
+34.Rff3 Rh4 {Shit happens.}
+35.Rf6 Rxg4? (35...Qb1+!)
+36.Rxg6+ Kxg6
+37.Rxg4 Rxh3+
+38.Kg2 {I'm winning, hooray!} Rd3
+39.Rh4 Kxg5
+40.Rh7 f5
+41.Ra7 Rd2+
+42.Kf3 Rxb2
+43.Rxa6 Kf6
+44.Rc6 Rb3
+45.Rc5 Rxa3
+46.Kf4 Rb3
+47.Ke3 b4
+48.Rb5 Rxc3+
+49.Kd2 Rc4
+50.Kd3 Kg5
+51.Rb6 Kf6
+52.Rb5 Rc3+
+53.Kd2 Rb3
+54.Kc2 Rf3
+55.Rxb4 Re3 {These petty rook maneuvers! But I thought I stabilized the
+position enough to win it easily. Yeah, right. In my defense, I was in severe
+time trouble.}
+56.Kd2 Re4
+57.Kd3 f4
+58.Rb2 Kf5
+59.Rb6 Kg4
+60.Rb1 Kf3
+61.Rf1+ Kg2
+62.Rb1 f3
+63.Rb8 Kf2
+64.Rf8 Re3+
+65.Kd2 Re2+
+66.Kd3 Ra2
+67.Rf6 Re2
+68.Rf7 Kg2
+69.Rg7+ Kf1
+70.Rh7 Rg2
+71.Ke3 f2
+72.Rf7 Rg3+
+73.Kf4 Rd3
+74.Ke5 Ke1
+75.Kxe6 f1=Q {Ugh!}
+  (75...Rxd4)
+76.Rxf1+ Kxf1
+77.Kxd5 Kf2??
+78.Kc5??
+  (78.Ke5 {is a bloody draw. Obviously.})
+78...Ke3
+79.d5 Ke4
+80.d6 Ke5
+0-1
