@@ -11,8 +11,8 @@
 [Termination "egor_tensin won by checkmate"]
 [Annotator "egor_tensin"]
 
-{A very tough defense amounting in the eventual victory. Curiously, engines
-seem to think it wasn't all that bad for Black.}
+{A very tough defense amounting in the eventual victory. Curiously, it seems
+like my engine thinks it wasn't all that bad for Black.}
 1.d4 Nf6
 2.c4 b6
 3.Nf3 Bb7

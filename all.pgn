@@ -11,8 +11,9 @@
 [Termination "Game drawn by repetition"]
 [Annotator "egor_tensin"]
 
-{A silly game. The guy was talking trash way more than I think is acceptable. I
-blundered a piece, but out of frustration played on just for the sake of it.}
+{The game itself isn't very memorable (mainly due to me playing it badly). The
+guy though was talking trash way more than I think is acceptable. I blundered a
+piece, but out of frustration played on just for the sake of it.}
 1.Nf3 Nf6
 2.c4 c5
 3.b3 Nc6
@@ -101,7 +102,7 @@ an easy draw. Or was it an easy draw anyway?} Kg7
 [Termination "egor_tensin won by resignation"]
 [Annotator "egor_tensin"]
 
-{One of the prettiest games I've played!}
+{By far the best game I've ever played!}
 1.b3 e5
 2.Bb2 Nc6
 3.g3 Bc5
@@ -118,11 +119,11 @@ piece. So in that somewhat depressed state of mind I went for a desperate
 attack.}
 13.Nh4 Kh8
 14.Qh5 Be6
-15.Ne4 {Boom! The engine's first line. I want to put my bishop on e4.} dxe4
+15.Ne4!! {Boom! My engine's first line. I want to put my bishop on e4.} dxe4
 16.Bxe4 f5
 17.Bxf5
   ({I actually considered taking with the rook (which is a better move) very
-seriously.} 17.Rxf5 {But I was still convinced that I was down a lot of
+seriously.} 17.Rxf5!! {But I was still convinced that I was down a lot of
 material, so scared myself away from it.})
 17...Bxf5
 18.Rxf5 Kg8 {Gifting me the crucial tempi.}
@@ -146,7 +147,7 @@ material, so scared myself away from it.})
 [Termination "egor_tensin won by checkmate"]
 [Annotator "egor_tensin"]
 
-{Pretty maneuvers by Black's queen and a nice queenside attack.}
+{Pretty maneuvering by the Black queen.}
 1.e4 e5
 2.Nf3 Nf6
 3.d3 Nc6
@@ -446,7 +447,7 @@ The bishop pair reigns supreme.}
 13.Bg5 h6
 14.Bh4 g5
 15.Bg3 Kg7 {A huge mistake by Black.}
-16.e5 {The punishment.} dxe5
+16.e5 dxe5
 17.dxe5 Nh7
 18.Qd3 Rh8
 19.Nc3 Ne7
@@ -507,7 +508,7 @@ advantage was never let go.}
 27.Qg5+ Kd7
 28.Qxg7 Rhh8
 29.g5 {Suboptimal, but pretty.} Qc8
-30.Rb2 {Quite precise, actually.} Qd8
+30.Rb2! {Quite precise, actually.} Qd8
 31.Rg2 Rh3
 32.g6 Rxc3
 33.Qh7 Rh8
@@ -532,8 +533,8 @@ advantage was never let go.}
 [Termination "egor_tensin won by checkmate"]
 [Annotator "egor_tensin"]
 
-{A very tough defense amounting in the eventual victory. Curiously, engines
-seem to think it wasn't all that bad for Black.}
+{A very tough defense amounting in the eventual victory. Curiously, it seems
+like my engine thinks it wasn't all that bad for Black.}
 1.d4 Nf6
 2.c4 b6
 3.Nf3 Bb7
@@ -608,7 +609,7 @@ first proper opening I learned.}
 11.c3 Nc6
 12.Qh5 hxg5 {I gave up the exchange, because what else could I have done?}
 13.Qxh8 Kxf7
-14.Qh5+ Kg8 {Engines seem to think this position is balanced.}
+14.Qh5+ Kg8 {My engine seems to think this position is balanced.}
 15.Qe2 Bf5
 16.Be3 Bxd3
 17.Qd2 Qd6
@@ -685,7 +686,7 @@ an idea!}
 lost.}
 38.Ke3 f4+
 39.gxf4 Kxh4
-40.Kf3 Kh3 {Now I have to crawl along the 'h' file. Fortunately, this plan is
+40.Kf3 Kh3 {Now I have to crawl along the h-file. Fortunately, this plan is
 hard to stop. Unfortunately, I am still completely lost.}
 41.f5 {Insane and completely pointless.}
   (41.a4 {would've been completely over. Now if I continue along with} Kh2 {I
@@ -835,8 +836,8 @@ traumatizing losses.}
 [Termination "egor_tensin won by resignation"]
 [Annotator "egor_tensin"]
 
-{A sort of interesting pawn endgame, following a routine rook endgame I somehow
-didn't lose.}
+{Sort of an interesting pawn endgame, following a routine rook endgame I
+somehow didn't lose.}
 1.d4 Nf6
 2.Bf4 g6
 3.e3 Bg7
@@ -875,7 +876,7 @@ didn't lose.}
   (35...Rxd4+ {is much better according to Stockfish 7, but I personally would
 never go for something like} 36.exd4 b5 37.d5+ cxd5 38.c5 {giving my opponent
 a protected passer. The move I made makes the position "equal", according to
-the engine.})
+my engine.})
 36.Rxd7 Kxd7
 37.Kc3 Kd6
 38.Kb3 Kc6
@@ -911,9 +912,9 @@ opposition.} 46.Kb2 Ke5 {The last attempt, going for the h-pawn.}
 [Termination "egor_tensin won by checkmate"]
 [Annotator "egor_tensin"]
 
-{A queen trap, but the most remarkable thing about this game for me personally
-was that it was the first time I managed to pull off a N+B checkmate in a real
-game!}
+{A trapped queen, but the most remarkable thing about this game for me
+personally was that it was the first time I managed to pull off a N+B checkmate
+in a real game!}
 1.e4 e5
 2.d3 Nf6
 3.Nf3 Nc6
@@ -1087,8 +1088,7 @@ bishops in a middlegame! And I managed to avoid any bumps during the entire
 [Termination "egor_tensin won by resignation"]
 [Annotator "egor_tensin"]
 
-{Just a nice game I played after blundering mate on f2 against the same
-opponent.}
+{A nice game I played after blundering mate on f2 against the same opponent.}
 1.f4 d5
 2.d4 Nf6
 3.Nf3 g6
@@ -1222,7 +1222,7 @@ enter the panic mode. Curiously enough, I was at least equal (mostly better)
 since 17.g4. Anyway, out of desperation, I found the only move which, I
 thought, would keep me in the game. In fact, it simply gives me quite a huge
 advantage, according to my engine.}
-24...g5 {I'm kind of proud of it, I don't make moves like this every day.}
+24...g5! {I'm kind of proud of it, I don't make moves like this every day.}
 25.Qd4+ Kg8
 26.fxg5 Qf8
 27.Kxg4 {My point exactly. I saw this, and the finish.}
@@ -1247,9 +1247,9 @@ advantage, according to my engine.}
 [Termination "egor_tensin won by resignation"]
 [Annotator "egor_tensin"]
 
-{Just a pretty rook sacrifice made on very limited time. Also a decent game
-overall, but the most memorable thing was that I didn't bungle it in my
-usual time trouble.}
+{A pretty rook sacrifice made on very limited time. Also a decent game overall,
+but the most memorable thing was that I didn't bungle it in my usual time
+trouble.}
 1.e4 c6
 2.Nf3 d5
 3.e5 Bg4
@@ -1288,9 +1288,9 @@ usual time trouble.}
 36.Ra1 g6
 37.Ra8+ Kg7
 38.Na6 Rb7
-39.Nbc5 b3 {A decision made in less than 10 seconds after playing on increment
-for the last 15 moves or so. I'm hoping all the tactics training is finally
-kicking in.}
+39.Nbc5 {I made the next move in less than 10 seconds after playing on
+increment for the last 15 moves or so. I'm hoping all the tactics training is
+finally kicking in.} b3!
 0-1
 
 [Event "Live Chess"]
@@ -1461,9 +1461,9 @@ this one.})
 32.Ka3 Kc6
 33.Ka4 Kb6
 34.a3 {The losing move. Very surprising!}
-  ({I thought I could easily be lost after} 34.f5 {In fact, it loses to both
-of the captures. For example (exf5 is the same)} gxf5 35.gxf5 exf5 36.e6 Kc6
-37.Ka5
+  ({I thought I could've easily been lost after} 34.f5 {In fact, it loses to
+both of the captures. For example (exf5 is the same)} gxf5 35.gxf5 exf5 36.e6
+Kc6 37.Ka5
     (37.Kb4 {is met by the only move} Kd6 {taking the e-pawn and following it
 up with the same plan.})
 {And the cleanest is} f4 38.exf4 d4 39.cxd4 c3)

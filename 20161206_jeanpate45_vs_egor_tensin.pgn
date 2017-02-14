@@ -11,8 +11,8 @@
 [Termination "egor_tensin won by resignation"]
 [Annotator "egor_tensin"]
 
-{A sort of interesting pawn endgame, following a routine rook endgame I somehow
-didn't lose.}
+{Sort of an interesting pawn endgame, following a routine rook endgame I
+somehow didn't lose.}
 1.d4 Nf6
 2.Bf4 g6
 3.e3 Bg7
@@ -51,7 +51,7 @@ didn't lose.}
   (35...Rxd4+ {is much better according to Stockfish 7, but I personally would
 never go for something like} 36.exd4 b5 37.d5+ cxd5 38.c5 {giving my opponent
 a protected passer. The move I made makes the position "equal", according to
-the engine.})
+my engine.})
 36.Rxd7 Kxd7
 37.Kc3 Kd6
 38.Kb3 Kc6

@@ -11,7 +11,7 @@
 [Termination "egor_tensin won by resignation"]
 [Annotator "egor_tensin"]
 
-{One of the prettiest games I've played!}
+{By far the best game I've ever played!}
 1.b3 e5
 2.Bb2 Nc6
 3.g3 Bc5
@@ -28,11 +28,11 @@ piece. So in that somewhat depressed state of mind I went for a desperate
 attack.}
 13.Nh4 Kh8
 14.Qh5 Be6
-15.Ne4 {Boom! The engine's first line. I want to put my bishop on e4.} dxe4
+15.Ne4!! {Boom! My engine's first line. I want to put my bishop on e4.} dxe4
 16.Bxe4 f5
 17.Bxf5
   ({I actually considered taking with the rook (which is a better move) very
-seriously.} 17.Rxf5 {But I was still convinced that I was down a lot of
+seriously.} 17.Rxf5!! {But I was still convinced that I was down a lot of
 material, so scared myself away from it.})
 17...Bxf5
 18.Rxf5 Kg8 {Gifting me the crucial tempi.}
