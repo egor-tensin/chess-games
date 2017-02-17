@@ -1722,3 +1722,90 @@ time trouble.}
 79.d5 Ke4
 80.d6 Ke5
 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2017.02.15"]
+[Round "-"]
+[White "adriancantu81"]
+[Black "egor_tensin"]
+[Result "0-1"]
+[WhiteElo "1453"]
+[BlackElo "1458"]
+[TimeControl "300+5"]
+[Termination "egor_tensin won by resignation"]
+[Annotator "egor_tensin"]
+
+{Probably not the first time somebody tried to pull of a desperado rook against
+me, but potentially the most bitter one.}
+1.e4 c6
+2.d4 d5
+3.e5 Bf5
+4.c3 e6
+5.Bd3 Bxd3
+6.Qxd3 c5
+7.Nf3 a6
+8.O-O cxd4
+9.cxd4 Bb4
+10.a3 Ba5
+11.b4 Bb6
+12.Nc3 Ne7
+13.a4 O-O
+14.a5 Ba7
+15.Ng5 Ng6 {Another terribly played Caro-Kann. Same old, same old.}
+16.Ne2 b5
+17.Ng3 Nc6
+18.Nf3 Rc8
+19.Bd2 Qe7
+20.Rab1 h6
+21.h4 {Terrible!} Nxh4
+22.Nxh4 Qxh4
+23.Ne2 Nxd4
+24.Nxd4 Qxd4
+25.Qxd4 Bxd4
+26.Rfe1 Bc3
+27.Bxc3 Rxc3
+28.Kh2 Rfc8 {I'm suddenly completely dominating.}
+29.f3 Rc2
+30.Kg3 R8c4
+31.Rh1 Re2
+32.f4 Rcc2
+33.Rh2 Rc3+
+34.Kg4 Rf2
+35.Kh5 Kh7 {I barely payed any attention.}
+  (35...Rxf4)
+36.Kg4 Kg6
+37.Rbh1 Rb3
+38.g3 Rxh2
+39.Rxh2 Rxb4
+40.Kh4 Ra4
+41.Rc2 Rc4
+42.Rf2 b4
+43.g4 f5
+44.exf6 Kxf6
+45.Kh5 b3
+46.g5+ Kf7
+47.g6+ Kf6
+48.f5 exf5
+49.Rxf5+ {I'm always suddened by moves like this. I hope some time in the
+future I won't be. Goes to show that no rook endgame is lost if you're playing
+me!} Ke6
+50.Re5+ Kf6?
+  ({This line is amazing!} 50...Kd6 51.Rxd5+ Kc6 52.Rd6+ Kc5 53.Rc6+ Kd4
+    (53...Kb4 54.Rb6+ Kc3 55.Rxb3 {and the best & the simplest option is} Kxb3)
+54.Rd6+ Ke4 55.Re6+ Kf4 {and the checks run out.})
+51.Rf5+ Ke7
+52.Rf7+ Ke6 {I successfully blew the majority of my advantage away.}
+53.Rf6+ {That's a case of going a bit too far though.}
+  ({I could've easily lost something like} 53.Rxg7 b2 54.Rb7 Rc2 55.Kxh6 Kf5
+56.Kg7 {Not the best moves, but I'm pretty sure that's exactly what I would've
+played. My engine says I can simply push my d-pawn now, but I don't believe I
+would.})
+53...gxf6
+54.g7 Kf7
+55.g8=Q+ Kxg8
+56.Kxh6 b2
+57.Kh5 b1=Q
+58.Kh6 Qg1
+59.Kh5
+0-1
