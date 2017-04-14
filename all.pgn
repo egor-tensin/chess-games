@@ -1809,3 +1809,81 @@ would.})
 58.Kh6 Qg1
 59.Kh5
 0-1
+
+[Event "Rated game"]
+[Site "https://lichess.org/a26OxNdm"]
+[Date "2017.04.13"]
+[Round "-"]
+[White "egor_tensin"]
+[Black "wwwxxxzzz"]
+[Result "1-0"]
+[WhiteElo "1661"]
+[BlackElo "1811"]
+[TimeControl "300+3"]
+[Termination "Normal"]
+[Annotator "egor_tensin"]
+
+{After a string of games to forget (I believe I hung my Queen, like, every
+game) I finally played a decent and exciting one!}
+1.d4 Nf6
+2.c4 g6
+3.Nc3 Bg7
+4.e4 d6
+5.Nf3 O-O
+6.Be3 Ng4
+7.Bg5 h6
+8.Bh4 g5
+9.Bg3 f5
+10.h3 fxe4
+  (10...f4 {And this game would've prolonged my struggle with how terrible I
+am. I actually saw this, but forgot to play the obvious capture.})
+11.Nxe4 Nf6
+12.Bd3 Nh5
+13.Nfxg5 {Boom! I thought this was really promising.} Nxg3
+14.Nxg3 hxg5
+15.Qh5 Rf6
+16.Qh7+ Kf8
+17.Nh5 Rf7
+18.Bg6 Qe8
+19.Nxg7 {The logical conclusion.} Rxg7
+20.Qxg7+ Kxg7
+21.Bxe8 Be6
+22.d5 Bf5
+23.Bh5 Nd7
+24.O-O Ne5
+25.Be2 Rf8
+26.g4 Be4
+27.f3 Nxf3+
+28.Bxf3 Bxf3
+29.Rae1 Kg6
+30.Re3 Rf4
+31.Rfxf3 Rxc4 {I've still got it when I'm a rook up. People who try to flag me
+in positions like this, shame on you!}
+32.Rd3 Rc2
+33.Rf2 Rc1+
+34.Kg2 Rc4
+35.a3 Re4
+36.b3 c6
+37.dxc6 bxc6
+38.Rc3 c5
+39.Rff3 Re2+
+40.Kg3 Ra2
+41.a4 Re2
+42.Rfe3 Rxe3+
+43.Rxe3 Kf6
+44.Kf3 e5
+45.Rd3 Ke6
+46.Ke4 a5
+47.Rd5 Ke7
+48.Kf5 Kd7
+49.Kxg5 Ke6
+50.Rd1 d5
+51.h4 d4
+52.h5 Kd5
+53.h6 c4
+54.bxc4+ Kxc4
+55.h7 e4
+56.Kf4 e3
+57.Ke4 Kc3
+58.h8=Q
+1-0
