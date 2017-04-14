@@ -63,7 +63,7 @@ pgn_lint() {
 }
 
 # Strips [%clk] tags from PGN files.
-alias pgn_strip_clk='sed --binary --in-place -- '"'"'s/ {\[%clk [[:digit:]]\+:[[:digit:]]\+\(:[[:digit:]]\+\)*\]}//g'"'"
+alias pgn_strip_clk='sed --binary --in-place -- '"'"'s/ {\s*\[%clk [[:digit:]]\+:[[:digit:]]\+\(:[[:digit:]]\+\)*\]\s*}//g'"'"
 
 # Places main line moves on separate lines.
 alias pgn_slice_moves='sed --binary --in-place -- '"'"'s/ \([[:digit:]]\+\.\)/\n\1/g'"'"
