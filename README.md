@@ -13,6 +13,11 @@ move, or a picturesque, unusual position, or the fact that I was simply in a
 good mood while playing a game.
 The quality of my play is generally not one of the factors that decide whether
 the game will end up in this collection or not.
+What happens most often is that a) I'm on a winning streak (or win a game after
+a horrible losing streak), b) I win this game using anything more sophisticated
+than capturing hanging pieces/pawns, c) I'm in the mood to write something down
+about this game for any mysterious reason.
+
 This is also not an attempt to improve my chess, so you won't find many (or
 any, frankly) of my losses here, although they are perhaps much more worth
 analyzing in case one's a good student.
