@@ -1887,3 +1887,95 @@ in positions like this, shame on you!}
 57.Ke4 Kc3
 58.h8=Q
 1-0
+
+[Event "Rated game"]
+[Site "https://lichess.org/EM1JGW10"]
+[Date "2017.05.05"]
+[Round "-"]
+[White "egor_tensin"]
+[Black "ahangari"]
+[Result "1-0"]
+[WhiteElo "1684"]
+[BlackElo "1608"]
+[TimeControl "300+3"]
+[Termination "Normal"]
+[Annotator "egor_tensin"]
+
+{An example of how badly wrong openings can go. Not my kind of wrong (like when
+I hang a piece on move 10), but seriously wrong in a positional way. Also, this
+dude was rated about the same as me, and I checked his games after the game:
+in every single one of them his openings were simply atrocious. But his rating
+was still quite high by my standards, so this is a lesson how managing your
+time properly can be more advantageous than thinking about one's openings too
+much (which I do to no success).}
+1.d4 d5
+2.c4 c6
+3.Nc3 f6
+4.Nf3 g6
+5.Bf4 dxc4
+6.e4 Nd7
+7.Bxc4 b5 {But seriously, it's beyond me how he's got this rating. And it was
+every game of his!}
+8.Bb3 Nb6
+9.O-O e6
+10.Qe2 Qe7
+11.Rfe1 a5
+12.a3 Ba6
+13.Qe3 g5
+14.Bg3 h5
+15.h3 g4
+16.Nh4 Qf7
+17.d5 Nc4
+18.Bxc4 bxc4
+19.d6 Kd7
+20.Rad1 Bh6
+21.Qb6 Ke8
+22.Qxa5 Qd7
+23.Qxh5+ Kf8
+24.Ng6+ Kg7
+25.Nxh8 Kxh8
+26.Qxg4 Rf8
+27.Qh5 Rf7
+28.Bf4 Rh7
+29.Bxh6 Rxh6
+30.Qf3 e5
+31.Qf5 Qg7
+32.d7 Ne7
+33.d8=Q+ Ng8
+34.Qxg8+ Qxg8
+35.Qd7 Bc8
+36.Qd8 Bxh3
+37.Qxg8+ Kxg8
+38.gxh3 Rxh3
+39.Rd6 Kf7
+40.Rxc6 Kg6
+41.Rxc4 Kg5
+42.b4 Kf4
+43.b5 Kf3
+44.b6 Rh2
+45.b7 Rg2+
+46.Kh1 Rxf2
+47.Rb1 Kg3
+48.b8=Q Rh2+
+49.Kg1 Rg2+
+50.Kf1 Kf3
+51.Ke1 Ke3
+52.Nd1+ Kf3
+53.Rb3+ Kf4
+54.Qxe5+ {I'm terribly sorry for this "conversion", but I'm still horrifyingly
+bad when time trouble approaches.}
+54...fxe5
+55.Rc8 Kxe4
+56.Rc4+ Kf5
+57.Rf3+ Ke6
+58.Ne3 Rg1+
+59.Kf2 Ra1
+60.Rc6+ Kd7
+61.Rff6 Rxa3
+62.Rb6 Kc7
+63.Rh6 Ra2+
+64.Kf3 Ra3
+65.Rbg6 Ra8
+66.Rh7+ Kb8
+67.Rg8#
+1-0
