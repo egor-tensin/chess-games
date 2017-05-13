@@ -6,11 +6,11 @@ put.
 
 I'm a terrible chess player, so the quality of my play is generally awful.
 Hanging pieces and blunders galore!
-However, some of the games I've played are memorable for me for one reason or
+However, some of the games I played are memorable for me for one reason or
 another.
-It may have been an epiphany I've been enlightened with while looking for a
-move, or a picturesque, unusual position, or the fact that I was simply in a
-good mood while playing a game.
+It may be an epiphany I was enlightened with while looking for a move, or a
+picturesque, unusual position, or the fact that I was simply in a good mood
+while playing.
 The quality of my play is generally not one of the factors that decide whether
 the game will end up in this collection or not.
 What happens most often is that a) I'm on a winning streak (or win a game after
