@@ -1,0 +1,102 @@
+[Event "Rated game"]
+[Site "https://lichess.org/F02cRXoB"]
+[Date "2017.05.22"]
+[Round "-"]
+[White "egor_tensin"]
+[Black "SlametSuwandi"]
+[Result "1-0"]
+[WhiteElo "1683"]
+[BlackElo "1832"]
+[TimeControl "300+3"]
+[Termination "Time forfeit"]
+[Annotator "egor_tensin"]
+
+{It's weird how blind both me and my opponent were. I thought I was being extra
+clever, but in fact I was just delusional.}
+1.d4 Nf6
+2.c4 g6
+3.Nc3 d6
+4.g3 Bg7
+5.Bg2 O-O
+6.e4 c6
+7.Nf3 Bg4
+8.Be3 Qa5
+9.O-O Bxf3
+10.Bxf3 e5
+11.d5 Qc7
+12.Bg2 Nbd7
+13.Rc1 c5
+14.a3 a6
+15.Qd2 Nb6
+16.Ne2 Ng4
+17.h3 Nxe3
+18.Qxe3 Na4
+19.Qb3 b5
+20.cxb5 axb5
+21.Qc2 Qa5
+22.Nc3 Nxc3
+23.Qxc3 Qa4
+24.Qc2 b4
+25.axb4 Qxb4
+26.Qc3 Qb6
+27.Ra1 Rfb8
+28.Rxa8 Rxa8
+29.Rc1 Ra2
+30.Rc2 Bh6 {I've drifted into a very passive position. By my standards, it's
+lost.}
+31.Kh2 Ra1
+32.Bf3 Qb5
+33.Be2 Qa4
+34.Bf3 Bf8
+35.Qc4 Qxc4
+36.Rxc4 Rb1
+37.Rc2 Bh6
+38.Kg2 Bc1
+39.Be2 Bxb2
+40.Bc4 Bd4
+41.Kf3 Kg7
+42.h4 h6
+43.Bd3 Rb3
+44.Ke2 Kf6
+45.Ba6 g5
+46.Bc8 gxh4
+47.gxh4 Kg6
+48.Rc1 Kh5
+49.Rg1 Kxh4 {Everything's falling apart, as expected.}
+50.Rg7 Rb2+
+51.Kd3 Rxf2
+52.Rg4+ Kh5
+53.Rg3 f6
+  (53...c4+ {wins the bishop, but another mistake is that his King is no longer
+able to escape using the black squares (after something like Rf6, Rg6, Kg5,
+Kf6). Or maybe not, I don't know. I'm still lost, of course.})
+54.Bf5 Rh2
+55.Rf3 Kg5
+56.Rg3+ Kf4
+57.Rg6 h5
+58.Rxf6 Kg3
+59.Rh6 {Lost a tempo by not capturing on d6 instead.} h4
+60.Rxd6 h3
+61.Rh6 Kg2 {And my opponent is losing now. I can't blame him though.}
+  ({I would also not in a million years would be able to seem something like}
+61...c4+ {(the only move!)} 62.Kxc4 Rc2+ 63.Kd3 Rc3+ 64.Ke2 Re3+ 65.Kf1 Rf3+
+66.Ke2 Rf2+ 67.Kd3 h2 {and that pawn's gonna promote somehow. But still, what a
+difference with the position I had 20 moves ago.})
+62.d6 Rh1 {I thought I had him. Ha-ha! I am such a genious, right?}
+63.Rxh3 (63.d7 {wins much simpler.}) Rxh3+
+64.Bxh3+ Kxh3
+65.Kc4 {I think that would've been a brililant move if both the g- and h-files
+didn't exist somehow.}
+65...Bc3 {We both completely forgot about that fact.}
+66.Kb5 {Another "brilliancy" from me. I not gonna capture that bishop until
+absolutely necessary! In fact, both Kc4 and Kb5 lose, of course, since the
+bishop can make to the d8-h4 diagonal in time.}
+66...c4 {What can I say? I was lucky that day.}
+67.d7 Ba5
+68.Kxa5 c3
+69.d8=Q c2
+70.Qc8+ Kg3
+71.Qxc2 Kf4
+72.Kb5 Ke3
+73.Kc5
+1-0
