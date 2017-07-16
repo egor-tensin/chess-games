@@ -1,0 +1,36 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/knOTVcTv"]
+[Date "2017.07.13"]
+[Round "-"]
+[White "egor_tensin"]
+[Black "Petercrash"]
+[Result "1-0"]
+[WhiteElo "1664"]
+[BlackElo "1474"]
+[TimeControl "300+3"]
+[Termination "Time forfeit"]
+[Annotator "egor_tensin"]
+
+{A couple of pretty quiet moves, trapping a piece.}
+1.d4 d5
+2.c4 e6
+3.Nc3 Bb4
+4.Nf3 a6
+5.Bf4 Bxc3+
+6.bxc3 dxc4
+7.e4 b5
+8.a4 Bd7
+9.Be2 bxa4
+10.Bxc4 Nf6
+11.e5 Ne4
+12.Qc1 f6
+13.O-O fxe5
+14.Bxe5 O-O
+15.Qe3 Nd6
+16.Bxd6 cxd6
+17.Bxe6+ Bxe6
+18.Qxe6+ Kh8
+19.Rxa4 Nc6
+20.Qc4! Na5
+21.Qd5!
+1-0
