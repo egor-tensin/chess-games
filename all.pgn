@@ -2304,3 +2304,111 @@ lichess.com's computer analysis!}
 20.Rc6 Ne7
 21.Rxb6
 1-0
+
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/1mBHFc1Q"]
+[Date "2017.09.06"]
+[Round "-"]
+[White "egor_tensin"]
+[Black "mohammed121"]
+[Result "1-0"]
+[WhiteElo "1716"]
+[BlackElo "1623"]
+[TimeControl "300+3"]
+[Termination "Normal"]
+[Annotator "egor_tensin"]
+
+{I've played lots of okay-ish and even more atrocious games since the last one
+here, so I figured I would add a couple more. This game is an fine example of
+how a single passed pawn can decide the outcome.}
+1.c4 c6
+2.b3 Nf6
+3.Bb2 d5
+4.cxd5 Nxd5
+5.g3 e6
+6.Bg2 Nf6
+7.Nf3 Be7
+8.O-O O-O
+9.d3 Nbd7
+10.Nbd2 b6
+11.a3 Bb7
+12.b4 Rb8
+13.Rc1 c5
+14.bxc5 Nxc5
+15.Nc4 Re8
+16.Be5 Rc8
+17.Nh4 Bxg2
+18.Nxg2 b5
+19.Nd2 Ng4
+20.Bf4 e5
+21.Be3 {Man, this is horrible.} Qa5
+22.Bxc5 Rxc5
+23.Nb3 Rxc1
+24.Qxc1 Qxa3
+25.Qxa3 Bxa3
+26.Ra1 b4
+27.Nc5 Rc8
+28.Nb3 {As usual, I had seconds there. Please excuse me!} Rc2
+29.e3 {The only way I thought I could save this game.} Nxf2
+30.d4 exd4
+31.exd4 Nd3
+32.d5 Ne5
+33.d6 {Look at it go!} Nd7
+34.Re1 Rc6
+  (34...Rc8!)
+35.Re8+ Nf8
+36.d7 Rd6
+37.d8=Q Rxd8
+38.Rxd8 {I was very happy about this.} g5
+39.Ra8 Kg7
+40.Rxa7 Ne6
+41.Ne3 Kg6
+42.Nc4 Nd4
+43.Nxd4 b3
+44.Rxa3
+1-0
+
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/YOtwTJns"]
+[Date "2017.09.14"]
+[Round "-"]
+[White "donkzzz"]
+[Black "egor_tensin"]
+[Result "0-1"]
+[WhiteElo "1912"]
+[BlackElo "1701"]
+[TimeControl "300+3"]
+[Termination "Normal"]
+[Annotator "lichess.org"]
+
+{One of the highest-rated opponents I've ever beaten. Pretty nice game from my
+perspective: King in the center, not blundering anything & punishing my
+opponent's overextension.}
+1.e4 c6
+2.d4 d5
+3.exd5 cxd5
+4.Nf3 Nf6
+5.Be2 Bf5
+6.O-O Nc6
+7.Ne5 e6
+8.g4 Bg6
+9.h4 h6
+10.h5 Bh7
+11.Bb5 Qb6
+12.Nc3 a6
+13.Bxc6+ bxc6
+14.g5 hxg5
+15.Bxg5 Be7
+16.Na4 Qc7
+17.f4 Ne4
+18.Bxe7 Kxe7
+19.Qg4 Bf5
+20.Qh4+ f6
+21.Nd3 Rh6
+22.Nac5 Qb6
+23.b3 Rah8
+24.Qh2 Rxh5
+25.Qg2 R8h7
+26.Nxe4 Bxe4
+27.Qg3 Qxd4+
+0-1
