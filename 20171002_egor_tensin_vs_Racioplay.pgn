@@ -1,0 +1,37 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/9Pbbrsml"]
+[Date "2017.10.02"]
+[Round "-"]
+[White "egor_tensin"]
+[Black "Racioplay"]
+[Result "1-0"]
+[WhiteElo "1720"]
+[BlackElo "1719"]
+[TimeControl "300+3"]
+[Termination "Normal"]
+[Annotator "egor_tensin"]
+
+{I just like this game for some reason. Those bishops!}
+1.d4 d6
+2.c4 Nf6
+3.Nc3 g6
+4.e4 e5
+5.Nf3 exd4
+6.Nxd4 Nc6
+7.Be3 Bg7
+8.Be2 O-O
+9.O-O Nxd4
+10.Bxd4 a6
+11.Nd5 Nxd5
+12.cxd5 f6
+13.Rc1 c5
+14.dxc6 bxc6
+15.Rxc6 Bb7
+16.Bb6 Qe8
+17.Rxd6 Bxe4
+18.Bc4+ Kh8
+19.Re1 f5
+20.f3 Qc8
+21.Be6 Qc4
+22.Bxc4
+1-0
