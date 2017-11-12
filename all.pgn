@@ -2625,3 +2625,115 @@ people swindled me like that, so that felt especially good.}
 21.Be6 Qc4
 22.Bxc4
 1-0
+
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/KnPq0dRd"]
+[Date "2017.11.12"]
+[Round "-"]
+[White "espanol84"]
+[Black "egor_tensin"]
+[Result "0-1"]
+[WhiteElo "1735"]
+[BlackElo "1746"]
+[TimeControl "300+3"]
+[Termination "Normal"]
+[Annotator "egor_tensin"]
+
+{Haven't added any games in a while, so here's one. It's pretty cool, featuring
+a trapped bishop & a Queen vs. three connected passed pawns.}
+1.e4 e5
+2.Nf3 Nf6
+3.Nxe5 d6
+4.Nf3 Nxe4
+5.Nc3 Nxc3
+6.dxc3 Be7
+7.Be3 O-O
+8.Qd2 Be6
+9.a3 f6
+10.Nd4 Bf7
+11.O-O-O Re8
+12.Nf5 Bf8
+13.Bb5 Nd7
+14.Ba4 Re5
+15.Nd4 c6
+16.Bb3 d5
+17.Nf3 Re8
+18.h4 Ne5
+19.Nxe5 Rxe5
+20.Bd4 Re4
+21.h5 h6
+22.f3 Re8
+23.g4 Qc7
+24.Rde1 Bd6
+25.Kb1 Bf4
+26.Be3 Bxe3
+27.Rxe3 Rxe3
+28.Qxe3 Re8
+29.Qd2 (29.Qxa7) Qe5
+30.Kc1 Qe3
+31.Qxe3 Rxe3
+32.Rf1 Re2
+33.Kd1 Rg2
+34.Re1 Kf8
+35.Re2 Rg1+
+36.Re1 Rg3
+37.Rf1 Rg2
+38.Ba2 c5
+39.b3 c4
+40.Kc1 Re2
+41.Kb1 b5
+42.f4 Re4? (42...Rg2)
+43.b4 Be6
+44.f5 Bd7 {This is pretty funny. The material is equal, but Black's obviously
+completely winning.}
+45.Rg1 Kf7
+46.Kb2 a6
+47.Bb1 Bc6
+48.Ba2 Re2
+49.Kc1 Rf2 {I couldn't see a plan, hence the silly moving around.}
+  (49...Ke7 50.Kd1 Rf2 51.Bb1 Rf3 52.Kd2 Kd6 53.Ba2 Rf2+ 54.Kc1 Re2 55.Kd1 Re4
+56.Kc1 Ke5 {and the pawns fall. A much better plan!})
+50.Kb1 Rf3
+51.Kb2 Bb7
+52.Bb1 Rf4
+53.Rg3 d4 {I couldn't see how else to make progress in my usual time trouble.}
+54.cxd4 Rxd4
+55.Kc3 Rd1
+56.Ba2 Rf1
+57.Kb2 Rf2
+58.Kc3 Ba8
+59.Bb1 Rf1
+60.Ba2 Be4
+61.Kb2 Rf2
+62.Bb1 Bh1
+63.Rg1 Bf3
+64.Kc3 Rg2
+65.Rxg2 Bxg2
+66.Kd4 Bf3
+67.c3 Bxg4
+68.Be4 Bxh5
+69.Bb7 Bd1
+70.Bxa6 Ba4
+71.Kc5 h5
+72.Bxb5 Bxb5
+73.Kxb5 h4
+74.a4 h3
+75.a5 h2
+76.a6 h1=Q
+77.Kxc4 Qe4+
+78.Kb5 Qxf5+
+79.Kb6 Qe6+
+80.Ka5 Qd7
+81.b5 Ke6
+82.Kb6 Qd6+
+83.Kb7 Qd7+ {This was getting pretty scary to be honest.}
+84.Kb6 Qc8
+85.a7 Qa8
+86.c4 Kd7
+87.c5 Kc8 {Finally! I didn't believe my opponent could save this once both my
+King and my Queen are defending.}
+88.c6 f5
+89.Ka6 f4
+90.b6 Qxc6
+91.Ka5 Qb7
+0-1
