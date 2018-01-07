@@ -1,0 +1,78 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/G7Pqfkas"]
+[Date "2018.01.07"]
+[Round "-"]
+[White "pcabre"]
+[Black "egor_tensin"]
+[Result "0-1"]
+[WhiteElo "1709"]
+[BlackElo "1735"]
+[TimeControl "300+3"]
+[Termination "Normal"]
+[Annotator "egor_tensin"]
+
+{I've played quite a few decent games since the last time I added anything
+here, but lost my desire to put anything here, apparently. However, this game
+was so emotionally satisfying, I can't help it.}
+1.e4 c6
+2.Nf3 d5
+3.exd5 cxd5
+4.d4 Nf6
+5.Bd3! ({Much stronger then the anticipated} 5.Bf4) Bf5 {A premove, obviously.}
+6.Bxf5 {I was so bitter at this point that I decided to hang on till the end.
+I do that from time time, but can't remember getting a draw even once. Plus, I
+drew two exchanges up (albeit, against a much higher-rated opponent) earlier
+that day, so I was more desperate than I usually am.}
+6...e6
+7.Bd3 Nc6
+8.c3 Bd6
+9.O-O O-O
+10.h3 h6
+11.Re1 a6
+12.Ne5 Be7
+13.Bc2 Qb6
+14.Qd3 Qc7
+15.Bf4 Bd6 {Shuffling around my Bishop and Queen like that didn't inspire much
+confidence though.}
+16.Qg3 {Kind of what I was hoping for. Now there's more life and imbalance to
+the position I though.} Nxd4
+17.cxd4 Qxc2
+18.Bxh6 Nh5 {A defensive tactic I've seen a lot, but possibly this was the
+first time I got the chance to execute it myself. Watch this Knight sacrifice
+itself!}
+19.Qg5 Qxb2
+20.g4 Kh8
+21.gxh5 gxh6
+22.Qxh6+ Kg8 {A draw I'd be more than satisfied with.}
+23.Qg5+ Kh7 {Imma win his Queen!}
+24.Kf1 (24.Ng4 {is curtains, of course.})
+24...Qxa1
+25.h6 (25.Nd7 Rg8 Nf6+ {was missed by both of us.}) Rg8
+26.Qf6 Bxe5 {The only move which I should've played earlier.}
+27.dxe5 Raf8
+28.Nd2 Qd4
+29.Nf3 Qd3+
+30.Re2 Qb1+
+31.Ne1 Qg6 {gg. That felt good!}
+32.Qxg6+ Rxg6
+33.Rb2 Rb8
+34.Rb6 Rxh6
+35.Kg2 Rh4
+36.Kg3 Ra4
+37.Nf3 Rxa2
+38.Ng5+ Kg6
+39.h4 Ra3+
+40.f3 Re3
+41.Kf4 Re1
+42.Nh3 a5
+43.Nf2 a4
+44.Ng4 a3
+45.h5+ Kxh5
+46.Nf6+ Kg6
+47.Nxd5 a2
+48.Ne7+ Kg7
+49.Nc8 a1=Q
+50.Nd6 Qc1+
+51.Kg4 Rg1+
+52.Kh3 Qh6#
+0-1
