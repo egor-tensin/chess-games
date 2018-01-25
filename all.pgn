@@ -2906,3 +2906,87 @@ Qb7) Nc2+ 34.Kd3 b5 {And the best move is} 35.Rxb8)
 69.Kc6 Ke6
 70.Kc7 {Crazy stuff!} Nd7
 1/2-1/2
+
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/G6zvTwoG"]
+[Date "2018.01.24"]
+[Round "-"]
+[White "koskati"]
+[Black "egor_tensin"]
+[Result "0-1"]
+[WhiteElo "1740"]
+[BlackElo "1713"]
+[TimeControl "300+3"]
+[Termination "Normal"]
+[Annotator "egor_tensin"]
+
+{Another winning streak, another instance of the "every game is precious"
+phenomenon. This one commemorates the fact that my opponents have taught me not
+to take the pawn in 6.e6 Karo-Cann's.}
+1.e4 c6
+2.d4 d5
+3.e5 Bf5
+4.g4 Bg6
+5.h4 h5
+6.e6 Nf6 (6...hxg4 {I need to remember that.})
+7.exf7+ Bxf7
+8.g5 Ne4
+9.Nf3 Nd7
+10.Bf4 e6
+11.Nbd2 Nxd2 {I'm still refusing to learn any theory of course.} (11...Qb6)
+12.Qxd2 Be7
+13.Bd3 O-O
+14.Be5 Nxe5
+15.Nxe5 Be8
+16.O-O-O Bd6
+17.Qe2 Bxe5
+18.Qxe5 Qe7
+19.g6 Qf6
+20.Qxh5 Qf4+
+21.Kb1 Qh6 {Barely hanging on.}
+22.Qe5 Bxg6
+23.Qxe6+ Bf7
+24.Qxh6 {I was relieved to see that: probably not getting mated now.} gxh6
+25.Rhg1+ Kh8
+26.Rde1 Rae8
+27.Kc1 Bg8
+28.Rxe8 Rxe8
+29.Rg6 Re6
+30.h5 Rxg6
+31.Bxg6 Kg7
+32.Kd2 Be6
+33.Ke3 Bg4
+34.f4 b6
+35.f5 Kf6
+36.Kf4 Bd1
+37.c3 c5
+38.a3 a5
+39.dxc5 bxc5
+40.Ke3 d4+?? (40...Bb3 {and I can just shuffle, I think.})
+41.cxd4 cxd4+
+42.Kxd4 Kg5
+43.Kc5 Bc2
+44.Kb5 a4
+45.Kb4 Bxf5 {By this point I recognized how incredibly lost I was, so went for
+a trick.}
+46.Kxa4?? (46.Bxf5 {and I would resign.}) Bxg6
+47.hxg6 Kxg6
+48.Kb4 {lolwat} h5
+49.a4 h4
+50.a5 h3
+51.a6 h2
+52.Kc5 h1=Q {The rest was me desperately trying to stop the pawns, not paying
+any attention to the possible mating combinations.}
+53.b4 Kf6
+54.b5 Ke7
+55.b6 Qa8
+56.b7 Qa7+
+57.Kc6 Qxa6+
+58.Kc7 Qc4+ (58...Qd6+ {gotta remember that.})
+59.Kb8 Kd7
+60.Ka7 Qc7
+61.Ka6 Qb8 (61...Kc6)
+62.Kb6 Kd6
+63.Ka6 Kc7
+64.Ka5
+0-1
