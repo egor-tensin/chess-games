@@ -1,0 +1,52 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/hR6BNoUj"]
+[Date "2018.03.06"]
+[Round "-"]
+[White "egor_tensin"]
+[Black "TheaChess70"]
+[Result "1-0"]
+[WhiteElo "1750"]
+[BlackElo "1883"]
+[TimeControl "300+3"]
+[Termination "Normal"]
+[Annotator "egor_tensin"]
+
+{Another day, another terrible game. The ending was nice though.}
+1.c4 Nf6
+2.b3 e5
+3.Bb2 Nc6
+4.g3 Bc5
+5.Bg2 d6
+6.d3 O-O
+7.Nd2 Re8
+8.Ngf3 Bg4
+9.O-O Qd7
+10.a3 a5
+11.Bc3 d5
+12.cxd5 Nxd5
+13.Bb2 Bb6
+14.Nc4 Bxf3
+15.Nxb6 cxb6
+16.Bxf3 f6
+17.Rc1 Nd4
+18.Bxd4 exd4
+19.Re1 Nc3
+20.Qc2 Rac8
+21.Qd2 Qe6
+22.Bxb7 Rc7
+23.Bf3 Qxb3
+24.Qf4 Rec8
+25.Qxd4 Nxe2+
+26.Rxe2 Rxc1+
+27.Kg2 Qb1
+28.Qd5+ Kh8
+29.Qe6 Rg1+ {I didn't see how this was dangerous. Proved myself right somehow.}
+30.Kh3 Qf1+
+31.Kg4 h5+
+32.Kxh5 Rc5+
+33.Kg6 Rg5+
+34.Kf7 {lmao} Kh7
+35.Qe4+ g6
+36.Qh4+
+  (36.Qh4+ Rh5 37.Bxh5 {and mate's coming next move no matter what he does.})
+1-0
